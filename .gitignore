@@ -1,0 +1,8 @@
+build
+dist
+.DS_Store
+*.log
+*.glog
+source
+node_modules
+package-lock.json
