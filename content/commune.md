@@ -4,6 +4,7 @@ $Ordinaire des vêpres dominicales$
 
 ![](deus_in_adiutorium)
 $
+\vspace*{5mm}
 \V O Dieu, venez à mon aide. \R Seigneur, hâtez-vous de me secourir.
 Gloire au Père, et au Fils, et au Saint-Esprit.
 Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen. Alleluia.
@@ -18,10 +19,13 @@ $
 > de l'Avent, des grandes solennités et du Temps Pascal.
 
 ![7:ant:Dixit Dominus](dixit_dominus)
-$Le Seigneur a dit à mon Seigneur: « Assieds-toi à ma droite. »$
+$Le Seigneur a dit à mon Seigneur: « Assieds-toi à ma droite. »\vspace*{5mm}$
 
 @(7c2)[109G: Psalmus 109]
-$Psaume 109$
+$
+Psaume 109\\
+{\centering\it Génération éternelle du Christ, Prêtre, Roi et Juge\par}
+$
 
 ![](dixit_dominus.ant)
 
@@ -29,7 +33,10 @@ $Psaume 109$
 $Grandes sont les œuvres du Seigneur, dignes de recherche pour tous ceux qui s'y complaisent.$
 
 @(3b)[110G: Psalmus 110]
-$Psaume 110$
+$
+Psaume 110\\
+{\centering\it Bienfaits accordés par Dieu à son peuple\par}
+$
 
 ![](magna_opera.ant)
 
@@ -37,7 +44,10 @@ $Psaume 110$
 $Celui qui révère le Seigneur, en ses préceptes se complaît beaucoup.$
 
 @(4g)[111G: Psalmus 111]
-$Psaume 111$
+$
+Psaume 111\\
+{\centering\it Portrait du juste et tableau de son bonheur\par}
+$
 
 ![](qui_timet.ant)
 
@@ -45,7 +55,10 @@ $Psaume 111$
 $Que le nom du Seigneur soit béni à jamais.$
 
 @(7c)[112G: Psalmus 112]
-$Psaume 112$
+$
+Psaume 112\\
+{\centering\it Ivitation à louer Dieu et sa Providence souveraine\par}
+$
 
 ![](sit_nomen.ant)
 
@@ -53,7 +66,10 @@ $Psaume 112$
 $Notre Dieu à nous, mais il est aux cieux; il fait tout ce à quoi il se plaît.$
 
 @(p)[113G: Psalmus 113]
-$Psaume 113$
+$
+Psaume 113\\
+{\centering\it Le peuple délivré d'Égypte \\chante son libérateur et le proclame seul vrai Dieu\par}
+$
 
 ![](deus_autem_noster.ant)
 
@@ -101,10 +117,11 @@ Qu'elle se purifie de toute iniquité.\par
 Fils unique égal au Père,
 Et vous, Esprit consolateur,
 Qui régnez dans tous les siècles.
+\vspace*{5mm}
 $
 
 ![](dirigatur_domine)
-$\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.$
+$\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.\vspace*{5mm}$
 
 > Chaque dimanche a son antienne propre à Magnificat.
 
