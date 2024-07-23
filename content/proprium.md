@@ -279,8 +279,8 @@ Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le 
 Dieu, maintenant et pour les siècles des siècles
 $
 
+\pagebreak
+
 ###### Index
 
 <grego-index />
-
-<table-of-contents />

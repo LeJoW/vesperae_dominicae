@@ -62,7 +62,7 @@ $
 
 ![](sit_nomen.ant)
 
-![p:ant:Sit nomen Domini](deus_autem_noster)
+![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu à nous, mais il est aux cieux; il fait tout ce à quoi il se plaît.$
 
 @(p)[113G: Psalmus 113]
@@ -97,7 +97,7 @@ $Hymne$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
-    1.~Créateur très bon de la lumière,
+    Créateur très bon de la lumière,
 Qui avez produit le flambeau des jours
 Vous avez préludé à l'origine de ce monde,
 En allumant les premiers éclats de ces astres nouveaux.\par
