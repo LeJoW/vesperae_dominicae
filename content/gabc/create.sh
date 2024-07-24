@@ -12,4 +12,4 @@ else
 fi
 
 lualatex --shell-escape --output-directory=build "$inputTex" "$option"
-./pdfcrop --bbox "-1 * * *" "$outputPdf" "$outputPdf"
+./pdfcrop --bbox "0 * * *" "$outputPdf" "$outputPdf"

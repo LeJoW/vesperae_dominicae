@@ -10,9 +10,10 @@ $Sixième dimanche après la Pentecôte$
 
 ![7:ant:Misereor super turbam](misereor)
 $
-J’ai pitié de cette foule car voici trois jours qu’ils restent avec moi
-et ils n’ont pas de quoi manger.
-Si Je les renvoie à jeûn, ils tomberont en chemin, alléluia.
+J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
+et ils n’ont pas de quoi manger:
+et si je les renvoie à jeûn, les forces leur manqueront en chemin, alleluia.§
+_Mc 8, 2-3_
 $
 
 @(7b)[MagnificatG]
@@ -26,11 +27,11 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
-Dieu des vertus, de qui vient tout ce qui est excellent,
-mettez au fond de nos cœurs l'amour de votre nom et accroissez en nous
-la vertu de religion, nourrissant ainsi ce qu'il y a de bon et,
-par votre paternelle sollicitude, gardant ce que vous aurez ainsi nourri.
-Par Notre Seigneur Jésus Christ, votre Fils, qui vit et règne avec vous
+Dieu des vertus de qui vient tout entier ce qui est excellent,
+implanter l'amour de votre nom dans nos cœurs et faites grandir en nous la religion
+pour nourrir ainsi ce qui est bon et garder, avec le zèle de votre bonté paternelle,
+ce que vous aurrez nourri.
+Par notre Seigneur Jésus Christ, votre Fils, qui vit et règne avec vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -40,9 +41,11 @@ $Septième dimanche après la Pentecôte$
 
 ![1:ant:Non potest arbor bona](non_potest_arbor)
 $
-Un bon arbre ne peut pas porter de mauvais fruits ni un mauvais de bons fruits.
-Tout arbre qui ne donne pas de bons fruits, sera coupé et jeté au feu, alléluia.
-\vspace*{1mm}
+Un bon arbre ne peut produire de mauvais fruits,
+ni un mauvais arbre produire de bons fruits.
+Tout arbre qui ne produit pas de bon fruit,
+sera coupé et jeté au feu, alleluia.§
+_Mt 7, 18-19_
 $
 
 @(1D)[MagnificatG]
@@ -52,12 +55,14 @@ $
 :Deus, cuius providéntia in sui dispositióne non fállitur: +
 te súpplices exorámus; ut nóxia cuncta submóveas, \* et ómnia nobis profutúra concédas.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
-O Dieu, dont la providence ne se trompe jamais dans ses plans,
-nous Vous demandons humblement de détourner de nous tout ce qui nous
-serait nuisible et de nous accorder ce qui doit nous être utile.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec
+O Dieu, dont la providence ne se trompe jamais
+dans la conduite de ce qui relève d'elle si souverainement,
+nous vous en supplions, écartez de nous tout ce qui nous serait funeste,
+et donnez-nous tout ce qui nous sera salutaire.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec
 Vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -67,10 +72,11 @@ $Huitième dimanche après la Pentecôte$
 
 ![4:ant:Quid faciam](quid_faciam)
 $
-Que ferai-je maintenant que mon maître m'enlève ma gérance ?
-Travailler la terre ? Je ne peux. Mendier ? J'en ai honte.
-Je sais ce que je vais faire, pour qu'une fois écarté de ma gérance, je sois reçu dans leurs maisons.
-\vspace*{5mm}
+Que ferai-je puisque que mon maître m'ôte la gestion de son bien ?
+Travailler la terre, je ne le puis, et je rougis de mendier.
+Je sais ce que je ferai, afin que, lorsque j'aurai été destitué de la gestion,
+il y ait des gens qui me reçoivent dans leurs maisons.§
+_Lc 16, 3-4_
 $
 
 @(4E)[MagnificatG]
@@ -80,11 +86,13 @@ $
 :Largíre nobis, quǽsumus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: +
 ut, qui sine te esse non póssumus, \* secúndum te vívere valeámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
-Accordez-nous toujours, Seigneur, l'esprit qui nous fera penser et réaliser
-ce qui est droit afin que, ne pouvant exister sans Vous, nous puissions vivre selon Votre volonté.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
+Nous vous en prions, ô Seigneur, donnez-nous toujours en votre libéralité miséricordieuse,
+un esprit qui ne nous fasse penser et agir que selon la droiture,
+afin que nous puissions ainsi vivre selon vous, nous qui ne pouvons pas être sans vous.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
 Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -94,9 +102,9 @@ $Neuvième dimanche après la Pentecôte$
 
 ![8:ant:Scriptum est enim](scriptum_est)
 $
-Il est écrit : ma maison est une maison de prière pour toutes les nations ;
-mais vous en avez fait une caverne de voleurs. Et, chaque jour, il enseignait dans le temple.
-\vspace*{1mm}
+Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
+mais vous, vous en avez fait une caverne de voleurs. Et, chaque jour, il enseignait dans le temple.§
+_Lc 19, 46-47_
 $
 
 @(8G)[MagnificatG]
@@ -107,13 +115,13 @@ $
 et, ut peténtibus desideráta concédas; \*
 fac eos, quæ tibi sunt plácita, postuláre.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
-\R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Que les oreilles de Votre miséricorde, Seigneur,
-s'ouvrent aux prières de ceux qui Vous implorent ;
-et, pour leur accorder ce qu'ils désirent, faites qu'ils Vous demandent ce qui Vous plaît.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
+Que les oreilles de votre miséricorde, ô Seigneur,
+s'ouvrent aux prières de ceux qui vous implorent,
+et pour leur accorder ce qu'ils sollicitent,
+faites-leur demander ce qui vous est agréable.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
 Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -123,9 +131,9 @@ $Dixième dimanche après la Pentecôte$
 
 ![8:ant:Descendit hic](descedit_hic)
 $
-Celui-ci descendit justifié dans sa maison plutôt que l'autre
-car tout homme qui s'élève sera abaissé et celui qui s'abaisse sera élevé.
-\vspace*{5mm}
+Celui-ci descendit dans sa maison justifié, plutôt que l'autre;
+car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
+_Lc 18, 14_
 $
 
 @(8G)[MagnificatG]
@@ -139,10 +147,10 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 \R Amen
 $
-O Dieu, qui manifestez surtout votre puissance par le pardon et la pitié,
-redoublez envers nous Votre miséricorde, de sorte que, courant aux biens
-que Vous nous avez promis, nous obtenions de Vous ces biens célestes.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
+O Dieu, qui manifestez surtout votre toute-puissance par le pardon et la pitié,
+multipliez sur nous votre miséricorde, afin que, courant à vos promesses,
+nous soyons par vous mis en possession des biens du ciel.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -152,8 +160,8 @@ $Onzième dimanche après la Pentecôte$
 
 ![5:ant:Bene omnia fecit](bene_omnia)
 $
-Il a bien fait toutes choses, il a fait entendre les sourds et parler les muets.
-\vspace*{5mm}
+Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.§
+_Mc 7, 37_
 $
 
 @(5a)[MagnificatG]
@@ -166,10 +174,11 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
-Dieu tout-puissant et éternel, qui dépassez par l’abondance de Votre bonté les mérites
-et les vœux de ceux qui Vous prient, répandez sur nous Votre miséricorde :
-pardonnez les fautes qui agitent la conscience, accordez même ce que n’ose formuler la prière.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
+Dieu tout puissant et éternel, qui dans l'abondance de votre tendresse,
+allez au-delà des mérites et des vœux de qui vous implore,
+répandez tellement sur nous votre miséricorde, qu'à la rémission des fautes,
+effroi de la conscience, vous ajoutiez encore ce que la bouche ne formule pas.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -179,9 +188,10 @@ $Douzième dimanche après la Pentecôte$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
-Un homme descendait de Jérusalem à Jéricho et il tomba entre les mains des voleurs
-qui le dépouillèrent et s’en allèrent après l’avoir couvert de coups, le laissant à demi mort.
-\vspace*{5mm}
+Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
+qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent,
+le laissant à demi mort.§
+_Lc 10, 30_
 $
 
 @(8G)[MagnificatG]
@@ -194,11 +204,11 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
-Dieu tout-puissant et miséricordieux, de la grâce de qui vient que Vos fidèles
-Vous servent comme il convient et d’une façon digne de louange ;
-accordez-nous, selon notre prière, de courir sans faux-pas
-dans la voie qui conduit aux biens que Vous avez promis.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
+Dieu tout puissant et misericordieux,
+vous, de qui vos fidèles tiennent comme un pur présent,
+jusqu'à la grâce de pouvoir vous servir comme il faut et d'une façon louable,
+nous vous en prions, donnez-nous de courir sans faux-pas aux biens que vous promettez.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -208,8 +218,8 @@ $Treizième dimanche après la Pentecôte$
 
 ![1:ant:Unus autem ex illis](unus_autem)
 $
-L’un d’eux, voyant qu’il était guéri revint, glorifiant Dieu à haute voix, alléluia.
-\vspace*{5mm}
+L’un d’eux, voyant qu’il était guéri, revint, glorifiant Dieu à haute voix, alleluia.§
+_Lc 17, 15_
 $
 
 @(1D2)[MagnificatG]
@@ -221,9 +231,9 @@ et, ut mereámur ássequi quod promíttis, \* fac nos amáre quod prǽcipis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Dieu tout-puissant et éternel, augmentez en nous la foi, l’espérance et la charité ;
-et pour que nous méritions d’obtenir ce que vous promettez, faites-nous aimer ce que vous commandez.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et
+Dieu tout puissant et éternel, faites grandir en nous la foi, l'espérance et la charité,
+et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer ce que vous commandez.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et
 le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -233,7 +243,8 @@ $Quatorzième dimanche après la Pentecôte$
 
 ![1:ant:Quærite primum](quaerite)
 $
-Cherchez d’abord le royaume de Dieu et sa justice, et toutes ces choses vous seront données par surcroît. Alléluia.
+Cherchez premièrement le royaume de Dieu et sa justice, et toutes ces choses vous seront données par surcroît, alleluia.§
+_Mt 6, 33_
 $
 
 @(1g)[MagnificatG]
@@ -247,10 +258,10 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
-O Seigneur, gardez votre Église par l’assistance continuelle de votre miséricorde ;
-et puisque, sans vous, la faiblesse humaine ne peut que faillir,
-daignez, par votre assistance, la préserver sans cesse de tout ce qui peut lui nuire, et la diriger vers ce qui est salutaire.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
+Nous vous en prions, Seigneur, veillez sur votre Église par une continuelle propitiation,
+et puisque sans vous, l'humaine mortalité ne connaît que la chute,
+qu'elle soit constamment par votre secours, arrachée a ce qui la perd et conduite à ce qui la sauve.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
 
@@ -260,8 +271,8 @@ $Quinzième dimanche après la Pentecôte$
 
 ![4:ant:Propheta magnus](propheta)
 $
-Un grand prophète s’est levé parmi nous, et Dieu a visité son peuple.
-\vspace*{7mm}
+Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.§
+_Lc 7, 16_
 $
 
 @(4A)[MagnificatG]
@@ -273,9 +284,11 @@ et quia sine te non potest salva consístere, \* tuo semper múnere gubernétur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Seigneur, purifiez et fortifiez votre Église par le continuel effet de votre miséricorde ;
-et puisqu’elle ne peut subsister sans vous, conduisez-la toujours au moyen de votre grâce.
-Par Notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
+Que l'exercice continu de votre miséricorde, ô Seigneur,
+purifie votre Église et la fortifie,
+et puisqu'elle ne peut demeurer sauve sans vous,
+qu'elle soit constamment gouvernée par votre grâce.
+Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
 Dieu, maintenant et pour les siècles des siècles
 $
 

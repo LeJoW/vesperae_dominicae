@@ -4,22 +4,25 @@ $Ordinaire des vêpres dominicales$
 
 ![](deus_in_adiutorium)
 $
-\vspace*{5mm}
+\vspace{5mm}
 \V O Dieu, venez à mon aide. \R Seigneur, hâtez-vous de me secourir.
 Gloire au Père, et au Fils, et au Saint-Esprit.
 Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen. Alleluia.
 $
 
-> L'_antienne_ a pour but d'attirer ontre attention sur une pensée que l'Église
+> De antiphona.
+> $
+> L'antienne a pour but d'attirer ontre attention sur une pensée que l'Église
 > propose spécialemet à notre méditation durant le chant du psaume. ---
 > Le plus souvant l'antienne est tirée du psaume même, parfois l'Église l'emprunte à un texte
 > de l'Écriture relatif à la fête. ---
 > On trouve les antiennes au Propre du Temps et des Saints, ou au Commun.
 > Celles qui suivent sont pour tous les dimanches ordinaires de l'année en dehors
 > de l'Avent, des grandes solennités et du Temps Pascal.
+> $
 
 ![7:ant:Dixit Dominus](dixit_dominus)
-$Le Seigneur a dit à mon Seigneur: « Assieds-toi à ma droite. »\vspace*{5mm}$
+$Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»\vspace{5mm}$
 
 @(7c2)[109G: Psalmus 109]
 $
@@ -30,7 +33,7 @@ $
 ![](dixit_dominus.ant)
 
 ![3:ant:Magna opera Domini](magna_opera)
-$Grandes sont les œuvres du Seigneur, dignes de recherche pour tous ceux qui s'y complaisent.$
+$Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.\vspace{5mm}$
 
 @(3b)[110G: Psalmus 110]
 $
@@ -41,7 +44,7 @@ $
 ![](magna_opera.ant)
 
 ![4:ant:Qui timet Dominum](qui_timet)
-$Celui qui révère le Seigneur, en ses préceptes se complaît beaucoup.$
+$Celui qui craint le Seigneur met ses délices dans ses commandements.$
 
 @(4g)[111G: Psalmus 111]
 $
@@ -52,7 +55,9 @@ $
 ![](qui_timet.ant)
 
 ![7:ant:Sit nomen Domini](sit_nomen)
-$Que le nom du Seigneur soit béni à jamais.$
+$Que le nom du Seigneur soit béni dans tous les siècles.$
+
+\vspace*{-2mm}
 
 @(7c)[112G: Psalmus 112]
 $
@@ -63,7 +68,7 @@ $
 ![](sit_nomen.ant)
 
 ![p:ant:Deus autem noster](deus_autem_noster)
-$Notre Dieu à nous, mais il est aux cieux; il fait tout ce à quoi il se plaît.$
+$Notre Dieu est dans le ciel; tout ce qu'il a voulu, il l'a fait.$
 
 @(p)[113G: Psalmus 113]
 $
@@ -73,57 +78,58 @@ $
 
 ![](deus_autem_noster.ant)
 
-#### Capitulum {2 Cor 1, 3 et s}
+#### Capitulum {2 Cor 1, 3-4}
 
 $Capitule$
 
-> C'est une courte lecture de l'Écriture sainte.
+> De capitulo
+> $C'est une courte lecture de l'Écriture sainte.$
 
 :Benedíctus Deus, et Pater Dómini nostri Iesu Christi, + Pater misericordiárum,
 et Deus totíus consolatiónis,\* qui consolátur nos in omni tribulatióne nostra.
 \R Deo grátias.
 $
-Béni soit Dieu, le Père de Notre Seigneur Jésus-Christ, le Père des miséricordes
-et le Dieu de toute consolation, qui nous console en toutes nos épreuves.
+Béni soit Dieu, qui est aussi le Père de notre Seigneur Jésus-Christ, le Père des miséricordes
+et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.
 $
 
 #### Hymnus
 
 $Hymne$
 
-> En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
+> De hymno
+> $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
 > du Dimanche, elle nous exhorte à fuir les ténèbres du péché.
-> On l'attribue à saint Grégoire le Grand, pape du |VI|^e siècle.
+> On l'attribue à saint Grégoire le Grand, pape du |VI|^e siècle.$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
     Créateur très bon de la lumière,
-Qui avez produit le flambeau des jours
-Vous avez préludé à l'origine de ce monde,
-En allumant les premiers éclats de ces astres nouveaux.\par
-    2.~O vous, qui nous apprenez à donner le nom de jour
-A l'espace qui s'étend du matin jusqu'au soir,
-Un noir chaos menace encore de nous envelopper :
-Ecoutez nos prières, et voyez nos larmes.\par
-    3.~Que notre âme appesantie par le péché
-Ne demeure pas exilée de cette vie immortelle que vous lui avez préparée
-Cette âme si lâche quand il faut penser à l'éternité,
-Si prompte à tomber dans les liens du péché.\par
-    4.~Qu'elle frappe enfin aux portes des cieux ;
-Qu'elle enlève le prix de la vie ;
-Qu'elle évite tout ce qui peut lui nuire ;
-Qu'elle se purifie de toute iniquité.\par
-   5.~Exaucez-nous, Père très miséricordieux,
-Fils unique égal au Père,
-Et vous, Esprit consolateur,
-Qui régnez dans tous les siècles.
-\vspace*{5mm}
+qui donnez aux jours leur clarté,
+et qui par les premiers rayons d'une lumière nouvelle,
+avez inauguré la genèse du monde.§
+    2.~Vous qui nous dites d'appeler
+Jour le matin uni avec le soir ;
+sur nous descend la sombre nuit,
+écoutez nos prières et nos pleurs.§
+    3.~De peur que notre âme accablée par ses fautes,
+ne soit exclue du bienfait de la vie,
+si l'oubli des biens éternels la livre aux chaînes du péché.§
+    4.~Qu'elle frappe à la porte du ciel,
+qu'elle remporte la récompense de vie;
+gardons-nous de tout péché,
+purifions-nous de tout notre mal.§
+    5.~Exaucez-nous, Père très bon,
+et vous, égal à votre Père, ô Fils unique,
+vous qui, avec l'Esprit consolateur,
+régnez à travers tous les siècles.
 $
 
 ![](dirigatur_domine)
-$\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.\vspace*{5mm}$
+$\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.\vspace{5mm}$
 
-> Chaque dimanche a son antienne propre à Magnificat.
+> De proprium
+> $Chaque dimanche a son antienne propre à Magnificat.$
 
 #### Canticum {Luc 1, 46-55}
 
@@ -132,7 +138,8 @@ $Cantique de la B.~Vierge Marie$
 @(0)[MagnificatG]
 ${}$
 
-> On répète l'antienne, puis le célébrant dit l'oraison propre du jour.
+> Antiphona repetitur, deinde, celebrans prorpiam orationem dicit.
+> $On répète l'antienne, puis le célébrant dit l'oraison propre du jour.$
 
 ![](dominus_vobiscum)
 $\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
@@ -141,19 +148,23 @@ $\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
 
 ![](dominus_vobiscum_sol)
 
-> On ajoute les mémoires, s'il s'en présente.
+> Memores adduntur
+> $On ajoute les mémoires, s'il s'en présente.$
 
-> La dernière oraison étant achevée, on dit:
+> Ultima oratione dicta, dicitur:
+> $La dernière oraison étant achevée, on dit:$
 
 \V Dóminus vobíscum.
 \R Et cum spíritu tuo.
 
-> Les chantres:
+> Cantatores:
+> $Les chantres:$
 
 ![](benedicamus_domino)
 $\V Bénissons le Seigneur. \R Rendons grâces à Dieu.$
 
-> L'officiant dit ensuite recto tono sur un ton un peu bas:
+> Qui officit, dicit recto tono in grave leviter tono
+> $L'officiant dit ensuite recto tono sur un ton un peu bas:$
 
 \V Fidélium ánimæ per misericórdiam Dei requiéscant in pace. \R Amen.
 $Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix.$
