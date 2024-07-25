@@ -46,6 +46,7 @@ ni un mauvais arbre produire de bons fruits.
 Tout arbre qui ne produit pas de bon fruit,
 sera coupé et jeté au feu, alleluia.§
 _Mt 7, 18-19_
+\vspace{1mm}
 $
 
 @(1D)[MagnificatG]
@@ -65,6 +66,8 @@ et donnez-nous tout ce qui nous sera salutaire.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec
 Vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
+
+\pagebreak
 
 ### Dominica VIII post Pentecosten
 
@@ -134,6 +137,7 @@ $
 Celui-ci descendit dans sa maison justifié, plutôt que l'autre;
 car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
 _Lc 18, 14_
+\vspace{1mm}
 $
 
 @(8G)[MagnificatG]
@@ -162,6 +166,7 @@ $Onzième dimanche après la Pentecôte$
 $
 Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.§
 _Mc 7, 37_
+\vspace{1mm}
 $
 
 @(5a)[MagnificatG]
@@ -220,6 +225,7 @@ $Treizième dimanche après la Pentecôte$
 $
 L’un d’eux, voyant qu’il était guéri, revint, glorifiant Dieu à haute voix, alleluia.§
 _Lc 17, 15_
+\vspace{-3mm}§
 $
 
 @(1D2)[MagnificatG]
@@ -264,6 +270,8 @@ qu'elle soit constamment par votre secours, arrachée a ce qui la perd et condui
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 $
+
+\pagebreak
 
 ### Dominica XV post Pentecosten
 

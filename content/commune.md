@@ -4,7 +4,6 @@ $Ordinaire des vêpres dominicales$
 
 ![](deus_in_adiutorium)
 $
-\vspace{5mm}
 \V O Dieu, venez à mon aide. \R Seigneur, hâtez-vous de me secourir.
 Gloire au Père, et au Fils, et au Saint-Esprit.
 Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen. Alleluia.
@@ -22,7 +21,7 @@ $
 > $
 
 ![7:ant:Dixit Dominus](dixit_dominus)
-$Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»\vspace{5mm}$
+$Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»$
 
 @(7c2)[109G: Psalmus 109]
 $
@@ -33,7 +32,7 @@ $
 ![](dixit_dominus.ant)
 
 ![3:ant:Magna opera Domini](magna_opera)
-$Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.\vspace{5mm}$
+$Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.$
 
 @(3b)[110G: Psalmus 110]
 $
@@ -56,8 +55,6 @@ $
 
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans tous les siècles.$
-
-\vspace*{-2mm}
 
 @(7c)[112G: Psalmus 112]
 $
@@ -126,7 +123,7 @@ régnez à travers tous les siècles.
 $
 
 ![](dirigatur_domine)
-$\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.\vspace{5mm}$
+$\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.$
 
 > De proprium
 > $Chaque dimanche a son antienne propre à Magnificat.$
