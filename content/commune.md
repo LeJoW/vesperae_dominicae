@@ -137,7 +137,7 @@ $
 $\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.$
 
 > De proprium
-> $Chaque dimanche a son antienne propre à Magnificat. Cf. p.\,\pageref{propre} et suivantes.$
+> $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\,\pageref{propre} et suivantes.$
 
 #### Canticum {Luc 1, 46-55}
 
