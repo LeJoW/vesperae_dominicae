@@ -6,8 +6,8 @@ function gabc2words(string $gabc): array
     $deleteNotes = preg_replace("/\(.*\)/U", "=", $gabc);
     $deleteSymbols = preg_replace("#(<sp>.+</sp>)|(\d)#", "", $deleteNotes);
     $deleteTags = preg_replace("#(</?\w>)#", "", $deleteSymbols);
-    $deleteStrongHyphen = str_replace('-', '', $deleteTags);
-    $given_hyphenated_words = preg_split("/\s+/", $deleteStrongHyphen);
+    $deleteChars = preg_replace('/(-|~|…|\?|!|:)/', '', $deleteTags);
+    $given_hyphenated_words = preg_split("/\s+/", $deleteChars);
     $given_hyphenated_words = array_map(function (string $word) {
         $trimed = trim($word, " \n\r\t\v\0=.:,;~*«»+_");
         return strtolower($trimed);

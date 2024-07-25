@@ -7,7 +7,7 @@ $Ordinaire des Vêpres dominicales <Vêpres dominicales>$
 ![](deus_in_adiutorium)
 $
 \vspace{6mm}
-\V O Dieu, venez à mon aide.§
+\V Ô Dieu, venez à mon aide.§
 \R Seigneur, hâtez-vous de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit.§
 Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§

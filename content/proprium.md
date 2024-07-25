@@ -59,7 +59,7 @@ te súpplices exorámus; ut nóxia cuncta submóveas, \* et ómnia nobis profut
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-O Dieu, dont la providence ne se trompe jamais
+Ô Dieu, dont la providence ne se trompe jamais
 dans la conduite de ce qui relève d'elle si souverainement,
 nous vous en supplions, écartez de nous tout ce qui nous serait funeste,
 et donnez-nous tout ce qui nous sera salutaire.
@@ -151,7 +151,7 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 \R Amen
 $
-O Dieu, qui manifestez surtout votre toute-puissance par le pardon et la pitié,
+Ô Dieu, qui manifestez surtout votre toute-puissance par le pardon et la pitié,
 multipliez sur nous votre miséricorde, afin que, courant à vos promesses,
 nous soyons par vous mis en possession des biens du ciel.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
