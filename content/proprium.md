@@ -1,4 +1,5 @@
 \pagebreak
+\label{propre}
 
 ## Proprium iulii
 
@@ -24,15 +25,15 @@ $
 ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum; \*
 ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódias.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
-\R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
 Dieu des vertus de qui vient tout entier ce qui est excellent,
 implanter l'amour de votre nom dans nos cœurs et faites grandir en nous la religion
 pour nourrir ainsi ce qui est bon et garder, avec le zèle de votre bonté paternelle,
 ce que vous aurrez nourri.
 Par notre Seigneur Jésus Christ, votre Fils, qui vit et règne avec vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 ### Dominica VII post Pentecosten
@@ -56,18 +57,16 @@ $
 :Deus, cuius providéntia in sui dispositióne non fállitur: +
 te súpplices exorámus; ut nóxia cuncta submóveas, \* et ómnia nobis profutúra concédas.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
-\R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
 O Dieu, dont la providence ne se trompe jamais
 dans la conduite de ce qui relève d'elle si souverainement,
 nous vous en supplions, écartez de nous tout ce qui nous serait funeste,
 et donnez-nous tout ce qui nous sera salutaire.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec
-Vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
+Vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
-
-\pagebreak
 
 ### Dominica VIII post Pentecosten
 
@@ -78,8 +77,8 @@ $
 Que ferai-je puisque que mon maître m'ôte la gestion de son bien ?
 Travailler la terre, je ne le puis, et je rougis de mendier.
 Je sais ce que je ferai, afin que, lorsque j'aurai été destitué de la gestion,
-il y ait des gens qui me reçoivent dans leurs maisons.§
-_Lc 16, 3-4_
+il y ait des gens qui me reçoivent dans leurs maisons.
+\hfill _Lc~16,~3-4_
 $
 
 @(4E)[MagnificatG]
@@ -89,14 +88,14 @@ $
 :Largíre nobis, quǽsumus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: +
 ut, qui sine te esse non póssumus, \* secúndum te vívere valeámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
-\R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
 Nous vous en prions, ô Seigneur, donnez-nous toujours en votre libéralité miséricordieuse,
 un esprit qui ne nous fasse penser et agir que selon la droiture,
 afin que nous puissions ainsi vivre selon vous, nous qui ne pouvons pas être sans vous.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
-Dieu, maintenant et pour les siècles des siècles.
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 ### Dominica IX post Pentecosten
@@ -125,7 +124,8 @@ s'ouvrent aux prières de ceux qui vous implorent,
 et pour leur accorder ce qu'ils sollicitent,
 faites-leur demander ce qui vous est agréable.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
-Dieu, maintenant et pour les siècles des siècles.
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 ### Dominica X post Pentecosten
@@ -155,7 +155,8 @@ O Dieu, qui manifestez surtout votre toute-puissance par le pardon et la pitié,
 multipliez sur nous votre miséricorde, afin que, courant à vos promesses,
 nous soyons par vous mis en possession des biens du ciel.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 ### Dominica XI post Pentecosten
@@ -176,7 +177,7 @@ $
 :Omnípotens sempitérne Deus, qui, abundántia pietátis tuæ, et mérita súpplicum excédis et vota: +
 effúnde super nos misericórdiam tuam; ut dimíttas quæ consciéntia métuit, \* et adícias quod orátio non præsúmit.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 \R Amen.
 $
 Dieu tout puissant et éternel, qui dans l'abondance de votre tendresse,
@@ -184,7 +185,8 @@ allez au-delà des mérites et des vœux de qui vous implore,
 répandez tellement sur nous votre miséricorde, qu'à la rémission des fautes,
 effroi de la conscience, vous ajoutiez encore ce que la bouche ne formule pas.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 ### Dominica XII post Pentecosten
@@ -206,7 +208,7 @@ $
 :Omnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur: +
 tríbue, quǽsumus, nobis; \* ut ad promissiónes tuas sine offensióne currámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 \R Amen.
 $
 Dieu tout puissant et misericordieux,
@@ -214,7 +216,8 @@ vous, de qui vos fidèles tiennent comme un pur présent,
 jusqu'à la grâce de pouvoir vous servir comme il faut et d'une façon louable,
 nous vous en prions, donnez-nous de courir sans faux-pas aux biens que vous promettez.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 ### Dominica XIII post Pentecosten
@@ -223,9 +226,8 @@ $Treizième dimanche après la Pentecôte$
 
 ![1:ant:Unus autem ex illis](unus_autem)
 $
-L’un d’eux, voyant qu’il était guéri, revint, glorifiant Dieu à haute voix, alleluia.§
-_Lc 17, 15_
-\vspace{-3mm}§
+L’un d’eux, voyant qu’il était guéri, revint, glorifiant Dieu à haute voix, alleluia.
+\hfill _Lc~17,~15_
 $
 
 @(1D2)[MagnificatG]
@@ -240,7 +242,8 @@ $
 Dieu tout puissant et éternel, faites grandir en nous la foi, l'espérance et la charité,
 et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer ce que vous commandez.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et
-le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
+le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 ### Dominica XIV post Pentecosten
@@ -261,17 +264,16 @@ $
 et quia sine te lábitur humána mortálitas; \*
 tuis semper auxíliis et abstrahátur a nóxiis et ad salutária dirigátur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 \R Amen.
 $
 Nous vous en prions, Seigneur, veillez sur votre Église par une continuelle propitiation,
 et puisque sans vous, l'humaine mortalité ne connaît que la chute,
 qu'elle soit constamment par votre secours, arrachée a ce qui la perd et conduite à ce qui la sauve.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
-
-\pagebreak
 
 ### Dominica XV post Pentecosten
 
@@ -279,29 +281,34 @@ $Quinzième dimanche après la Pentecôte$
 
 ![4:ant:Propheta magnus](propheta)
 $
-Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.§
-_Lc 7, 16_
+Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.
+\hfill _Lc~7,~16_
 $
 
 @(4A)[MagnificatG]
 
 #### Oraison
 
+\vspace{-2mm}
+
 :Ecclésiam tuam, Dómine, miserátio continuáta mundet et múniat: +
 et quia sine te non potest salva consístere, \* tuo semper múnere gubernétur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 $
 Que l'exercice continu de votre miséricorde, ô Seigneur,
 purifie votre Église et la fortifie,
 et puisqu'elle ne peut demeurer sauve sans vous,
 qu'elle soit constamment gouvernée par votre grâce.
 Par notre Seigneur Jésus Christ, Votre Fils, qui vit et règne avec Vous et le Saint-Esprit,
-Dieu, maintenant et pour les siècles des siècles
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
 $
 
 \pagebreak
 
 ###### Index
+
+\thispagestyle{empty}
 
 <grego-index />

@@ -1,32 +1,39 @@
 ## Commune
 
-$Ordinaire des vêpres dominicales$
+$Ordinaire des Vêpres dominicales <Vêpres dominicales>$
+
+\global\def\officeTitleShort{Ordinaire}
 
 ![](deus_in_adiutorium)
 $
-\V O Dieu, venez à mon aide. \R Seigneur, hâtez-vous de me secourir.
-Gloire au Père, et au Fils, et au Saint-Esprit.
-Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen. Alleluia.
+\vspace{6mm}
+\V O Dieu, venez à mon aide.§
+\R Seigneur, hâtez-vous de me secourir.§
+Gloire au Père, et au Fils, et au Saint-Esprit.§
+Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§
+Alleluia.
 $
 
 > De antiphona.
 > $
 > L'antienne a pour but d'attirer ontre attention sur une pensée que l'Église
-> propose spécialemet à notre méditation durant le chant du psaume. ---
+> propose spécialemet à notre méditation durant le chant du psaume. –
 > Le plus souvant l'antienne est tirée du psaume même, parfois l'Église l'emprunte à un texte
-> de l'Écriture relatif à la fête. ---
+> de l'Écriture relatif à la fête. –
 > On trouve les antiennes au Propre du Temps et des Saints, ou au Commun.
 > Celles qui suivent sont pour tous les dimanches ordinaires de l'année en dehors
 > de l'Avent, des grandes solennités et du Temps Pascal.
 > $
+
+\vspace{3mm}
 
 ![7:ant:Dixit Dominus](dixit_dominus)
 $Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»$
 
 @(7c2)[109G: Psalmus 109]
 $
-Psaume 109\\
-{\centering\it Génération éternelle du Christ, Prêtre, Roi et Juge\par}
+Psaume 109\par
+{\ttrad\centering\it Génération éternelle du Christ, Prêtre, Roi et Juge.\par}
 $
 
 ![](dixit_dominus.ant)
@@ -36,8 +43,8 @@ $Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.$
 
 @(3b)[110G: Psalmus 110]
 $
-Psaume 110\\
-{\centering\it Bienfaits accordés par Dieu à son peuple\par}
+Psaume 110\par
+{\ttrad\centering\it Bienfaits accordés par Dieu à son peuple.\par}
 $
 
 ![](magna_opera.ant)
@@ -47,19 +54,21 @@ $Celui qui craint le Seigneur met ses délices dans ses commandements.$
 
 @(4g)[111G: Psalmus 111]
 $
-Psaume 111\\
-{\centering\it Portrait du juste et tableau de son bonheur\par}
+Psaume 111\par
+{\ttrad\centering\it Portrait du juste et tableau de son bonheur.\par}
 $
 
 ![](qui_timet.ant)
+
+\pagebreak
 
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans tous les siècles.$
 
 @(7c)[112G: Psalmus 112]
 $
-Psaume 112\\
-{\centering\it Ivitation à louer Dieu et sa Providence souveraine\par}
+Psaume 112\par
+{\ttrad\centering\it Ivitation à louer Dieu et sa Providence souveraine.\par}
 $
 
 ![](sit_nomen.ant)
@@ -69,8 +78,8 @@ $Notre Dieu est dans le ciel; tout ce qu'il a voulu, il l'a fait.$
 
 @(p)[113G: Psalmus 113]
 $
-Psaume 113\\
-{\centering\it Le peuple délivré d'Égypte \\chante son libérateur et le proclame seul vrai Dieu\par}
+Psaume 113\par
+{\ttrad\centering\it Le peuple délivré d'Égypte \\chante son libérateur et le proclame seul vrai Dieu.\par}
 $
 
 ![](deus_autem_noster.ant)
@@ -90,6 +99,8 @@ Béni soit Dieu, qui est aussi le Père de notre Seigneur Jésus-Christ, le Pèr
 et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.
 $
 
+\vspace{5mm}
+
 #### Hymnus
 
 $Hymne$
@@ -101,7 +112,7 @@ $Hymne$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
-    Créateur très bon de la lumière,
+    1.~Créateur très bon de la lumière,
 qui donnez aux jours leur clarté,
 et qui par les premiers rayons d'une lumière nouvelle,
 avez inauguré la genèse du monde.§
@@ -126,7 +137,7 @@ $
 $\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.$
 
 > De proprium
-> $Chaque dimanche a son antienne propre à Magnificat.$
+> $Chaque dimanche a son antienne propre à Magnificat. Cf. p.\,\pageref{propre} et suivantes.$
 
 #### Canticum {Luc 1, 46-55}
 
@@ -142,6 +153,8 @@ ${}$
 $\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
 
 ##### Ton solennel ancien
+
+\vspace{2mm}
 
 ![](dominus_vobiscum_sol)
 
