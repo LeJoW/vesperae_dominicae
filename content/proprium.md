@@ -98,6 +98,8 @@ Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
 
+\pagebreak
+
 ### Dominica IX post Pentecosten
 
 $Neuvième dimanche après la Pentecôte$

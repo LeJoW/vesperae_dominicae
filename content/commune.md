@@ -97,7 +97,7 @@ et Deus totíus consolatiónis,\* qui consolátur nos in omni tribulatióne nost
 $
 Béni soit Dieu, qui est aussi le Père de notre Seigneur Jésus-Christ, le Père des miséricordes
 et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.§
-\R Rendons grâce à Dieu.
+\R Rendons grâces à Dieu.
 $
 
 \vspace{5mm}
@@ -135,8 +135,7 @@ régnez à travers tous les siècles.
 $
 
 ![](dirigatur_domine)
-$\V Que ma prière s'élève, ô Seigneur.§
-\R Comme l'encens en votre présence.$
+$\V Que ma prière s'élève, ô Seigneur.\\\R Comme l'encens en votre présence.$
 
 > De proprium
 > $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\,\pageref{propre} et suivantes.$
