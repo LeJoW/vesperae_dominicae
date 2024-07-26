@@ -36,6 +36,8 @@ Psaume 109\par
 {\ttrad\centering\it Génération éternelle du Christ, Prêtre, Roi et Juge.\par}
 $
 
+\pagebreak
+
 ![](dixit_dominus.ant)
 
 ![3:ant:Magna opera Domini](magna_opera)
@@ -59,8 +61,6 @@ Psaume 111\par
 $
 
 ![](qui_timet.ant)
-
-\pagebreak
 
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans tous les siècles.$
@@ -89,14 +89,15 @@ $
 $Capitule$
 
 > De capitulo
-> $C'est une courte lecture de l'Écriture sainte.$
+> $Courte lecture de l'Écriture sainte.$
 
 :Benedíctus Deus, et Pater Dómini nostri Iesu Christi, + Pater misericordiárum,
 et Deus totíus consolatiónis,\* qui consolátur nos in omni tribulatióne nostra.
 \R Deo grátias.
 $
 Béni soit Dieu, qui est aussi le Père de notre Seigneur Jésus-Christ, le Père des miséricordes
-et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.
+et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.§
+\R Rendons grâce à Dieu.
 $
 
 \vspace{5mm}
@@ -107,7 +108,7 @@ $Hymne$
 
 > De hymno
 > $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
-> du Dimanche, elle nous exhorte à fuir les ténèbres du péché.
+> du Dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
 > On l'attribue à saint Grégoire le Grand, pape du |VI|^e siècle.$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
@@ -134,7 +135,8 @@ régnez à travers tous les siècles.
 $
 
 ![](dirigatur_domine)
-$\V Que ma prière s'élève, ô Seigneur. \R Comme l'encens en votre présence.$
+$\V Que ma prière s'élève, ô Seigneur.§
+\R Comme l'encens en votre présence.$
 
 > De proprium
 > $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\,\pageref{propre} et suivantes.$
@@ -149,14 +151,12 @@ ${}$
 > Antiphona repetitur, deinde, celebrans prorpiam orationem dicit.
 > $On répète l'antienne, puis le célébrant dit l'oraison propre du jour.$
 
-![](dominus_vobiscum)
-$\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
-
 ##### Ton solennel ancien
 
 \vspace{2mm}
 
-![](dominus_vobiscum_sol)
+![](dominus_vobiscum)
+$\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
 
 > Memores adduntur
 > $On ajoute les mémoires, s'il s'en présente.$

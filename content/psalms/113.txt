@@ -72,7 +72,7 @@ Benedícti vos a Dómino,
 $Soyez bénis du Seigneur, qui a fait le ciel et la terre.$
 Cælum cæli Dómino:
     terram autem dedit fíliis hóminum.
-$Le ciel des cieux est au Seigneur, mais il a donné la terre aux enfants des hommes,$
+$Le ciel des cieux est au Seigneur, mais il a donné la terre aux enfants des hommes.$
 Non mórtui laudábunt te, Dómine:
     neque omnes, qui descéndunt in inférnum.
 $Les morts ne vous loueront point, Seigneur, ni tous ceux qui descendent dans l'enfer.$
