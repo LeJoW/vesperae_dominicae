@@ -16,10 +16,10 @@ $
 
 > De antiphona.
 > $
-> L'antienne a pour but d'attirer ontre attention sur une pensée que l'Église
-> propose spécialemet à notre méditation durant le chant du psaume. –
+> L'antienne a pour but d'attirer notre attention sur une pensée que l'Église
+> propose spécialemet à notre méditation durant le chant du psaume.\par
 > Le plus souvant l'antienne est tirée du psaume même, parfois l'Église l'emprunte à un texte
-> de l'Écriture relatif à la fête. –
+> de l'Écriture relatif à la fête.\par
 > On trouve les antiennes au Propre du Temps et des Saints, ou au Commun.
 > Celles qui suivent sont pour tous les dimanches ordinaires de l'année en dehors
 > de l'Avent, des grandes solennités et du Temps Pascal.
@@ -68,7 +68,7 @@ $Que le nom du Seigneur soit béni dans tous les siècles.$
 @(7c)[112G: Psalmus 112]
 $
 Psaume 112\par
-{\ttrad\centering\it Ivitation à louer Dieu et sa Providence souveraine.\par}
+{\ttrad\centering\it Invitation à louer Dieu et sa Providence souveraine.\par}
 $
 
 ![](sit_nomen.ant)
