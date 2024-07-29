@@ -309,6 +309,12 @@ $
 
 ###### Index
 
-\thispagestyle{empty}
-
 <grego-index />
+
+\pagebreak
+
+###### Index generalis
+
+$Index général$
+
+<table-of-contents />

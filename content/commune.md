@@ -2,7 +2,9 @@
 
 $Ordinaire des Vêpres dominicales <Vêpres dominicales>$
 
-\global\def\officeTitleShort{Ordinaire}
+### Ordinarium
+
+$ {} <Ordinaire>$
 
 ![](deus_in_adiutorium)
 $
