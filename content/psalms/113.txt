@@ -49,7 +49,7 @@ $Que ceux qui les font leur deviennent semblables, avec tous ceux qui mettent en
 Domus Israël sperávit in Dómino:
     adiútor eórum et protéctor eórum est,
 $La maison d'Israël a espéré au Seigneur; il est leur secours et leur protecteur.$
-Domus Áaron sperávit in Dómino:
+Domus Aaron sperávit in Dómino:
     adiútor eórum et protéctor eórum est,
 $La maison d'Aaron a espéré au Seigneur; il est leur secours et leur protecteur.$
 Qui timent Dóminum, speravérunt in Dómino:
@@ -59,7 +59,7 @@ Dóminus memor fuit nostri:
     et benedíxit nobis:
 $Le Seigneur s'est souvenu de nous, et il nous a bénis.$
 Benedíxit dómui Israël:
-    benedíxit dómui Áaron.
+    benedíxit dómui Aaron.
 $Il a béni la maison d'Israël; il a béni la maison d'Aaron.$
 Benedíxit ómnibus, qui timent Dóminum,
     pusíllis cum maióribus.
