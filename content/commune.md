@@ -8,7 +8,7 @@ $ {} <Ordinaire>$
 
 ![](deus_in_adiutorium)
 $
-\vspace{6mm}
+\vspace{4mm}
 \V Ô Dieu, venez à mon aide.§
 \R Seigneur, hâtez-vous de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit.§
@@ -38,14 +38,12 @@ Psaume 109\par
 {\ttrad\centering\it Génération éternelle du Christ, Prêtre, Roi et Juge.\par}
 $
 
-\pagebreak
-
 ![](dixit_dominus.ant)
 
 ![3:ant:Magna opera Domini](magna_opera)
 $Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.$
 
-@(3b)[110G: Psalmus 110]
+@1(3b)[110G: Psalmus 110]
 $
 Psaume 110\par
 {\ttrad\centering\it Bienfaits accordés par Dieu à son peuple.\par}
@@ -75,8 +73,12 @@ $
 
 ![](sit_nomen.ant)
 
+\vspace{1cm}
+
 ![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu est dans le ciel; tout ce qu'il a voulu, il l'a fait.$
+
+\pagebreak
 
 @(p)[113G: Psalmus 113]
 $
@@ -102,8 +104,6 @@ et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.�
 \R Rendons grâces à Dieu.
 $
 
-\vspace{5mm}
-
 #### Hymnus
 
 $Hymne$
@@ -114,7 +114,7 @@ $Hymne$
 > On l'attribue à saint Grégoire le Grand, pape du |VI|^e siècle.$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
-$
+$\vspace*{-2mm}
     1.~Créateur très bon de la lumière,
 qui donnez aux jours leur clarté,
 et qui par les premiers rayons d'une lumière nouvelle,
@@ -159,13 +159,15 @@ ${}$
 ![](dominus_vobiscum)
 $\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
 
+\vspace{-1mm}
+
 > Memores adduntur
 > $On ajoute les mémoires, s'il s'en présente.$
 
 > Ultima oratione dicta, dicitur:
 > $La dernière oraison étant achevée, on dit:$
 
-\V Dóminus vobíscum.
+\V Dóminus vobíscum.§
 \R Et cum spíritu tuo.
 
 > Cantatores:
