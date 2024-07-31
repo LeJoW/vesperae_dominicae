@@ -292,6 +292,8 @@ $
 
 $Quinzième dimanche après la Pentecôte$
 
+\vspace{2mm}
+
 ![4:ant:Propheta magnus](propheta)
 $
 Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.
