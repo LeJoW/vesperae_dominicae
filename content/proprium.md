@@ -292,7 +292,7 @@ $
 
 $Quinzième dimanche après la Pentecôte$
 
-\vspace{2mm}
+\vspace{2.5mm}
 
 ![4:ant:Propheta magnus](propheta)
 $
@@ -300,7 +300,7 @@ Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.
 \hfill _Lc~7,~16_
 $
 
-\vspace{5mm}
+\vspace{5.5mm}
 
 @(4A)[MagnificatG]
 
