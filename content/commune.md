@@ -6,6 +6,8 @@ $Ordinaire des Vêpres dominicales <Vêpres dominicales>$
 
 $ {} <Ordinaire>$
 
+\vspace{-1cm}
+
 ![](deus_in_adiutorium)
 $
 \vspace{4mm}
@@ -15,8 +17,6 @@ Gloire au Père, et au Fils, et au Saint-Esprit.§
 Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§
 Alleluia.
 $
-
-\vspace{1cm}
 
 > De antiphona.
 > $
@@ -29,7 +29,7 @@ $
 > de l'Avent, des grandes solennités et du Temps Pascal.
 > $
 
-\vspace{3mm}
+\vspace{6mm}
 
 ![7:ant:Dixit Dominus](dixit_dominus)
 $Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»$
@@ -44,6 +44,8 @@ $
 
 ![3:ant:Magna opera Domini](magna_opera)
 $Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.$
+
+\vspace{-3mm}
 
 @1(3b)[110G: Psalmus 110]
 $
@@ -64,12 +66,12 @@ $
 
 ![](qui_timet.ant)
 
-\vspace{1cm}
+\vspace{1.5cm}
 
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans tous les siècles.$
 
-\pagebreak
+\pagebreak\null\vspace{1mm}
 
 @(7c)[112G: Psalmus 112]
 $
@@ -78,8 +80,6 @@ Psaume 112\par
 $
 
 ![](sit_nomen.ant)
-
-\vspace{5mm}
 
 ![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu est dans le ciel; tout ce qu'il a voulu, il l'a fait.$
@@ -110,7 +110,7 @@ et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.�
 \R Rendons grâces à Dieu.
 $
 
-\pagebreak\vspace*{0pt}
+\pagebreak\null
 
 #### Hymnus
 
