@@ -21,6 +21,8 @@ $
 
 #### Oraison
 
+\vspace{-1mm}
+
 :Deus virtútum, cuius est totum quod est óptimum: +
 ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum; \*
 ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódias.
@@ -76,9 +78,11 @@ $
 Que ferai-je puisque mon maître m'ôte la gestion de son bien ?
 Travailler la terre, je ne le puis, et je rougis de mendier.
 Je sais ce que je ferai, afin que, lorsque j'aurai été destitué de la gestion,
-il y\vspace{1cm} ait des gens qui me reçoivent dans leurs maisons.
+il y ait des gens qui me reçoivent dans leurs maisons.
 \hfill _Lc~16,~3-4_
 $
+
+\vspace{2mm}
 
 @(4E)[MagnificatG]
 
@@ -110,11 +114,7 @@ $
 
 @(8G)[MagnificatG]
 
-\vspace{-3mm}
-
 #### Oraison
-
-\vspace{-2.5mm}
 
 :Páteant aures misericórdiæ tuæ, Dómine, précibus supplicántium: +
 et, ut peténtibus desideráta concédas; \*
@@ -142,11 +142,7 @@ car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
 _Lc 18, 14_
 $
 
-\vspace{5mm}
-
 @(8G)[MagnificatG]
-
-\vspace{5mm}
 
 #### Oraison
 
@@ -165,8 +161,6 @@ et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
 
-\vspace{1cm}
-
 ### Dominica XI post Pentecosten
 
 $Onzième dimanche après la Pentecôte$
@@ -176,6 +170,8 @@ $
 Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.
 \hfill _Mc~7,~37_
 $
+
+\vspace{-1mm}
 
 @(5a)[MagnificatG]
 
@@ -195,8 +191,6 @@ Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
-
-\pagebreak
 
 ### Dominica XII post Pentecosten
 
@@ -241,11 +235,7 @@ $
 
 @(1D2)[MagnificatG]
 
-\vspace{-3mm}
-
 #### Oraison
-
-\vspace{-2.5mm}
 
 :Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum: +
 et, ut mereámur ássequi quod promíttis, \* fac nos amáre quod prǽcipis.
@@ -292,15 +282,13 @@ $
 
 $Quinzième dimanche après la Pentecôte$
 
-\vspace{2.5mm}
-
 ![4:ant:Propheta magnus](propheta)
 $
 Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.
 \hfill _Lc~7,~16_
 $
 
-\vspace{5.5mm}
+\vspace{2.6mm}
 
 @(4A)[MagnificatG]
 

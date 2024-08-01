@@ -16,6 +16,8 @@ Comme il était au commencement, maintenant et toujours, et dans les siècles de
 Alleluia.
 $
 
+\vspace{1cm}
+
 > De antiphona.
 > $
 > L'antienne a pour but d'attirer notre attention sur une pensée que l'Église
@@ -62,8 +64,12 @@ $
 
 ![](qui_timet.ant)
 
+\vspace{1cm}
+
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans tous les siècles.$
+
+\pagebreak
 
 @(7c)[112G: Psalmus 112]
 $
@@ -73,12 +79,10 @@ $
 
 ![](sit_nomen.ant)
 
-\vspace{1cm}
+\vspace{5mm}
 
 ![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu est dans le ciel; tout ce qu'il a voulu, il l'a fait.$
-
-\pagebreak
 
 @(p)[113G: Psalmus 113]
 $
@@ -87,6 +91,8 @@ Psaume 113\par
 $
 
 ![](deus_autem_noster.ant)
+
+\vspace{1cm}
 
 #### Capitulum {2 Cor 1, 3-4}
 
@@ -104,6 +110,8 @@ et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.�
 \R Rendons grâces à Dieu.
 $
 
+\pagebreak\vspace*{0pt}
+
 #### Hymnus
 
 $Hymne$
@@ -114,7 +122,7 @@ $Hymne$
 > On l'attribue à saint Grégoire le Grand, pape du |VI|^e siècle.$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
-$\vspace*{-2mm}
+$
     1.~Créateur très bon de la lumière,
 qui donnez aux jours leur clarté,
 et qui par les premiers rayons d'une lumière nouvelle,
@@ -158,8 +166,6 @@ ${}$
 
 ![](dominus_vobiscum)
 $\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
-
-\vspace{-1mm}
 
 > Memores adduntur
 > $On ajoute les mémoires, s'il s'en présente.$
