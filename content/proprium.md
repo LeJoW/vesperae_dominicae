@@ -7,7 +7,7 @@ $Propre pour le mois de juillet$
 
 ### Dominica VI post Pentecosten
 
-$Sixième dimanche après la Pentecôte$
+$Sixième dimanche après la Pentecôte <Dimanche VI après la Pentecôte>$
 
 ![7:ant:Misereor super turbam](misereor)
 $
@@ -40,7 +40,7 @@ $
 
 ### Dominica VII post Pentecosten
 
-$Septième dimanche après la Pentecôte$
+$Septième dimanche après la Pentecôte <Dimanche VII après la Pentecôte>$
 
 ![1:ant:Non potest arbor bona](non_potest_arbor)
 $
@@ -71,7 +71,7 @@ $
 
 ### Dominica VIII post Pentecosten
 
-$Huitième dimanche après la Pentecôte$
+$Huitième dimanche après la Pentecôte <Dimanche VIII après la Pentecôte>$
 
 ![4:ant:Quid faciam](quid_faciam)
 $
@@ -103,7 +103,7 @@ $
 
 ### Dominica IX post Pentecosten
 
-$Neuvième dimanche après la Pentecôte$
+$Neuvième dimanche après la Pentecôte <Dimanche IX après la Pentecôte>$
 
 ![8:ant:Scriptum est enim](scriptum_est)
 $
@@ -133,7 +133,7 @@ $
 
 ### Dominica X post Pentecosten
 
-$Dixième dimanche après la Pentecôte$
+$Dixième dimanche après la Pentecôte <Dimanche X après la Pentecôte>$
 
 ![8:ant:Descendit hic](descedit_hic)
 $
@@ -163,7 +163,7 @@ $
 
 ### Dominica XI post Pentecosten
 
-$Onzième dimanche après la Pentecôte$
+$Onzième dimanche après la Pentecôte <Dimanche XI après la Pentecôte>$
 
 ![5:ant:Bene omnia fecit](bene_omnia)
 $
@@ -194,7 +194,7 @@ $
 
 ### Dominica XII post Pentecosten
 
-$Douzième dimanche après la Pentecôte$
+$Douzième dimanche après la Pentecôte <Dimanche XII après la Pentecôte>$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
@@ -225,7 +225,7 @@ $
 
 ### Dominica XIII post Pentecosten
 
-$Treizième dimanche après la Pentecôte$
+$Treizième dimanche après la Pentecôte <Dimanche XIII après la Pentecôte>$
 
 ![1:ant:Unus autem ex illis](unus_autem)
 $
@@ -251,7 +251,7 @@ $
 
 ### Dominica XIV post Pentecosten
 
-$Quatorzième dimanche après la Pentecôte$
+$Quatorzième dimanche après la Pentecôte <Dimanche XIV après la Pentecôte>$
 
 ![1:ant:Quærite primum](quaerite)
 $
@@ -280,7 +280,7 @@ $
 
 ### Dominica XV post Pentecosten
 
-$Quinzième dimanche après la Pentecôte$
+$Quinzième dimanche après la Pentecôte <Dimanche XV après la Pentecôte>$
 
 ![4:ant:Propheta magnus](propheta)
 $
