@@ -5,8 +5,8 @@
 
 \gresetspecial{R/}{℟}
 \gresetspecial{V/}{℣}
-\renewcommand{\GreStar}{\plantin *}
-\renewcommand{\GreDagger}{\plantin †}
+\renewcommand{\GreStar}{\courant *}
+\renewcommand{\GreDagger}{\courant †}
 \renewcommand{\Rbar}{℟}
 
 \grechangestaffsize{16}
@@ -20,18 +20,18 @@
 
 \gresetclivisalignment{never}
 
-\grechangestyle{modeline}{\sc\garamond}
-\grechangestyle{annotation}{\garamond}
+\grechangestyle{modeline}{\scshape}
+\grechangestyle{annotation}{\decorativ}
 
 \newcommand{\linesTrad}[1]{\begin{wrapfigure}[#1]{r}[2mm]{3.5cm}\end{wrapfigure}}
 
 \newcommand{\gabcDisplay}[1]{
-	\grechangestyle{initial}{\fontsize{92}{92}\selectfont\garamond}
+	\grechangestyle{initial}{\fontsize{90}{90}\selectfont\decorativ}
 	\gabcsnippet{#1}
 }
 
 \newcommand{\gabcNormal}[1]{
-	\grechangestyle{initial}{\fontsize{40}{40}\selectfont\garamond}
+	\grechangestyle{initial}{\fontsize{40}{40}\selectfont\decorativ}
 	\gresetinitiallines{1}
 	\gabcsnippet{#1}
 }
