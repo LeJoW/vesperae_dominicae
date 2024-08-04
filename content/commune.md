@@ -6,7 +6,7 @@ $Ordinaire des Vêpres dominicales <Vêpres dominicales>$
 
 $ {} <Ordinaire>$
 
-\vspace{-1cm}
+%\vspace{-1cm}
 
 ![](deus_in_adiutorium)
 $
@@ -29,7 +29,7 @@ $
 > de l'Avent, des grandes solennités et du Temps Pascal.
 > $
 
-\vspace{6mm}
+%\vspace{6mm}
 
 ![7:ant:Dixit Dominus](dixit_dominus)
 $Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»$
@@ -45,7 +45,7 @@ $
 ![3:ant:Magna opera Domini](magna_opera)
 $Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.$
 
-\vspace{-3mm}
+%\vspace{-3mm}
 
 @1(3b)[110G: Psalmus 110]
 $
@@ -66,12 +66,12 @@ $
 
 ![](qui_timet.ant)
 
-\vspace{1.5cm}
+%\vspace{1.5cm}
 
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans tous les siècles.$
 
-\pagebreak\null\vspace{1mm}
+%\pagebreak\null\vspace{1mm}
 
 @(7c)[112G: Psalmus 112]
 $
@@ -92,7 +92,7 @@ $
 
 ![](deus_autem_noster.ant)
 
-\vspace{1cm}
+%\vspace{1cm}
 
 #### Capitulum {2 Cor 1, 3-4}
 
@@ -162,7 +162,7 @@ ${}$
 
 ##### Ton solennel ancien
 
-\vspace{2mm}
+%\vspace{2mm}
 
 ![](dominus_vobiscum)
 $\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
