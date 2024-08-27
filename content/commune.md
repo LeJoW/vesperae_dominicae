@@ -9,9 +9,9 @@ $ {} <Ordinaire>$
 ![](deus_in_adiutorium)
 $
 \vspace{4mm}
-\V Ô Dieu, venez à mon aide.§
-\R Seigneur, hâtez-vous de me secourir.§
-Gloire au Père, et au Fils, et au Saint-Esprit.§
+\V Ô Dieu ! venez à mon aide !§
+\R Hâtez-vous, Seigneur, de me secourir.§
+Gloire au Père, et au Fils, et au Saint-Esprit ;§
 Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§
 Alleluia.
 $
@@ -39,7 +39,7 @@ $
 ![](dixit_dominus.ant)
 
 ![3:ant:Magna opera Domini](magna_opera)
-$Les œuvres du Seigneur sont grandes, proportionées à toutes ses volontés.$
+$Grandes sont les œuvres du Seigneur ; elles ont été concertées dans les desseins de sa Sagesse.$
 
 @1(3b)[110G: Psalmus 110]
 $
@@ -50,7 +50,7 @@ $
 ![](magna_opera.ant)
 
 ![4:ant:Qui timet Dominum](qui_timet)
-$Celui qui craint le Seigneur met ses délices dans ses commandements.$
+$L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
 
 @(4g)[111G: Psalmus 111]
 $
@@ -61,7 +61,7 @@ $
 ![](qui_timet.ant)
 
 ![7:ant:Sit nomen Domini](sit_nomen)
-$Que le nom du Seigneur soit béni dans tous les siècles.$
+$Soit le nom du Seigneur béni dans les siècles.$
 
 @(7c)[112G: Psalmus 112]
 $
@@ -72,7 +72,7 @@ $
 ![](sit_nomen.ant)
 
 ![p:ant:Deus autem noster](deus_autem_noster)
-$Notre Dieu est dans le ciel; tout ce qu'il a voulu, il l'a fait.$
+$Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.$
 
 @(p)[113G: Psalmus 113]
 $
@@ -93,7 +93,7 @@ $Capitule$
 et Deus totíus consolatiónis,\* qui consolátur nos in omni tribulatióne nostra.
 \R Deo grátias.
 $
-Béni soit Dieu, qui est aussi le Père de notre Seigneur Jésus-Christ, le Père des miséricordes
+Béni soit Dieu et le Père de notre Seigneur Jésus-Christ, le Père des miséricordes
 et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.§
 \R Rendons grâces à Dieu.
 $
@@ -109,29 +109,31 @@ $Hymne$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
-    1.~Créateur très bon de la lumière,
-qui donnez aux jours leur clarté,
-et qui par les premiers rayons d'une lumière nouvelle,
-avez inauguré la genèse du monde.§
-    2.~Vous qui nous dites d'appeler
-Jour le matin uni avec le soir ;
-sur nous descend la sombre nuit,
-écoutez nos prières et nos pleurs.§
-    3.~De peur que notre âme accablée par ses fautes,
-ne soit exclue du bienfait de la vie,
-si l'oubli des biens éternels la livre aux chaînes du péché.§
-    4.~Qu'elle frappe à la porte du ciel,
-qu'elle remporte la récompense de vie;
-gardons-nous de tout péché,
-purifions-nous de tout notre mal.§
-    5.~Exaucez-nous, Père très bon,
-et vous, égal à votre Père, ô Fils unique,
-vous qui, avec l'Esprit consolateur,
-régnez à travers tous les siècles.
+    1.~Dieu bon, créateur de la lumière,
+qui avez produi le flambeau des jours,
+vous avez préludé àl'origine de ce monde en produisant,
+au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
+    2.~Ô vous, qui nous apprenez à donner le nnom de jour à l'espace
+qui s'étend du matin jusqu'au soir,
+un noir chaos menace encore de nous envelopper:
+écoutez nos prières, et voyez nos larmes.§
+    3.~Que notre âme appesantie par le péché ne demeure pas exilée
+de cette vie immortelle que vous lui avez préparée,
+cette âme si lâche quand il faut penser à l'éternité,
+si prompte à tomber dans les liens du péché.§
+    4.~Qu'elle frappe enfin aux portes des cieux;
+qu'elle enlève le prix de la vie;
+qu'elle évite tout ce qui peut lui nuire;
+qu'elle se purifie de toute iniquité.§
+    5.~Faites-nous cette grâce, ô Père très miséricordieux,
+et vous ô Fils unique, égal au Père, qui, 
+avec l'Esprit consolateur,
+régnez dans tous les siècles. Amen.
 $
 
 ![](dirigatur_domine)
-$\V Que ma prière s'élève, ô Seigneur.\\\R Comme l'encens en votre présence.$
+$\V Que ma prière s'élève vers vous, Seigneur !§
+\R Comme l'encens monte en votre présence.$
 
 > De proprium
 > $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\,\pageref{propre} et suivantes.$
@@ -143,13 +145,13 @@ $Cantique de la B.~Vierge Marie$
 @(0)[MagnificatG]
 ${}$
 
-> Antiphona repetitur, deinde, celebrans prorpiam orationem dicit.
+> Antiphona repetitur, deinde, celebrans propriam orationem dicit.
 > $On répète l'antienne, puis le célébrant dit l'oraison propre du jour.$
 
 ##### Ton solennel ancien
 
 ![](dominus_vobiscum)
-$\V Que le Seigneur soit avec vous. \R Et avec votre esprit.$
+$\V Le Seigneur soit avec vous. \R Et avec votre esprit.$
 
 > Memores adduntur
 > $On ajoute les mémoires, s'il s'en présente.$
