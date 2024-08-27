@@ -21,8 +21,6 @@ $
 
 #### Oraison
 
-\vspace{-1mm}
-
 :Deus virtútum, cuius est totum quod est óptimum: +
 ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum; \*
 ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódias.
@@ -81,8 +79,6 @@ Je sais ce que je ferai, afin que, lorsque j'aurai été destitué de la gestion
 il y ait des gens qui me reçoivent dans leurs maisons.
 \hfill _Lc~16,~3-4_
 $
-
-\vspace{2mm}
 
 @(4E)[MagnificatG]
 
@@ -170,8 +166,6 @@ $
 Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.
 \hfill _Mc~7,~37_
 $
-
-\vspace{-1mm}
 
 @(5a)[MagnificatG]
 
@@ -287,8 +281,6 @@ $
 Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.
 \hfill _Lc~7,~16_
 $
-
-\vspace{2.6mm}
 
 @(4A)[MagnificatG]
 

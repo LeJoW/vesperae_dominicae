@@ -3,7 +3,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./109-7c2-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -148,7 +148,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./110-3b-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -317,7 +317,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./111-4g-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -471,7 +471,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./112-7c-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -617,7 +617,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./113-p-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -772,7 +772,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-1D.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -924,7 +924,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-1D2.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -1077,7 +1077,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-1g.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -1224,7 +1224,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-4A.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -1371,7 +1371,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-4E.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -1524,7 +1524,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-5a.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -1674,7 +1674,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-7b.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -1824,7 +1824,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./Magnificat-8G.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -1975,7 +1975,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./bene_omnia-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -2123,7 +2123,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./benedicamus_domino-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -2271,7 +2271,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./descedit_hic-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -2450,7 +2450,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./deus_autem_noster-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -2594,7 +2594,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./deus_autem_noster.ant.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -2737,7 +2737,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./deus_in_adiutorium-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -2915,7 +2915,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./dirigatur_domine-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -3065,7 +3065,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./dixit_dominus-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -3209,7 +3209,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./dixit_dominus.ant.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -3352,7 +3352,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./dominus_vobiscum-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -3503,7 +3503,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./homo_quidam-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -3670,7 +3670,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./lucis_creator_optime-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -3922,7 +3922,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./magna_opera-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -4065,7 +4065,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./magna_opera.ant.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -4208,7 +4208,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./misereor-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -4373,7 +4373,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./non_potest_arbor-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -4551,7 +4551,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./propheta-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -4702,7 +4702,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./quaerite-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -4863,7 +4863,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./qui_timet-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -5006,7 +5006,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./qui_timet.ant.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -5148,7 +5148,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./quid_faciam-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -5332,7 +5332,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./scriptum_est-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -5505,7 +5505,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./sit_nomen-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -5648,7 +5648,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./sit_nomen.ant.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
@@ -5795,7 +5795,7 @@ This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)
 (./unus_autem-fr.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
- (./build/../../../process/tex2pdf/glib/main.tex
+ (./build/../../process/tex2pdf/glib/main.tex
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/size12.clo)
