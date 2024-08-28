@@ -6,9 +6,11 @@ $Ordinaire \\des \\Vêpres dominicales <Vêpres dominicales>$
 
 $ {} <Ordinaire>$
 
+\vspace{-3mm}
+
 ![](deus_in_adiutorium)
 $
-\vspace{4mm}
+\vspace{5mm}
 \V Ô Dieu ! venez à mon aide !§
 \R Hâtez-vous, Seigneur, de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit ;§
@@ -41,7 +43,7 @@ $
 ![3:ant:Magna opera Domini](magna_opera)
 $Grandes sont les œuvres du Seigneur ; elles ont été concertées dans les desseins de sa Sagesse.$
 
-@1(3b)[110G: Psalmus 110]
+@(3b)[110G: Psalmus 110]
 $
 Psaume 110\par
 {\ttrad\centering\it Bienfaits accordés par Dieu à son peuple.\par}

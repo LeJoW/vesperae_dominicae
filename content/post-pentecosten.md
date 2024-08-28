@@ -5,9 +5,96 @@
 
 $Propre \\pour le temps \\après la Pentecôte <Temps après la Pentecôte>$
 
+### Dominica I post Pentecosten
+
+$Premier dimanche après la Pentecôte <Premier dimanche>$
+
+![8:ant:Nolite iudicare](nolite_iudicare)
+$
+Ne jugez point, et vous ne serez point jugés;
+votre jugement sera conforme à celui que vous aurez porté vous-même,
+dit le Seigneur.§
+_Mt 7, 1-2_
+$
+
+@(1g)[MagnificatG]
+
+#### Oraison
+
+:Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: +
+et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; \*
+ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Ô Dieu qui êtes la force de ceux qui espèrent en vous, soyez propice à nos demandes;
+et puisque l'infirmité de l'homme mortel ne peut rien sans vous,
+accordez-nous le secours de votre grâce, afin qu'en exécutant ce que vous nous commandez,
+nous puissions vous plaire de volonté et d'action.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
+### Dominica II post Pentecosten
+
+$Deuxième dimanche après la Pentecôte <Deuxième dimanche>$
+
+![1:ant:Exi cito](exi_cito)
+$
+Allez promptement par les places et les rues de la ville,
+et contraignez d'entrer les pauvres et les infirmes,
+les aveugles et les boiteux, afin que ma maison se remplisse. Alleluia.§
+_Lc 14, 21 et 23_
+$
+
+@(1a)[MagnificatG]
+
+#### Oraison
+
+:Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: +
+quia nunquam tua gubernatióne destítuis, \* quos in soliditáte tuæ dilectiónis instítuis.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Faites, Seigneur, que nous ayons toujours la crainte et l'amour de votre saint nom;
+parce que vous ne cessez jamais de diriger ceux que vous établissez dans la solidité de votre amour.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
+### Dominica III post Pentecosten
+
+$Troisième dimanche après la Pentecôte <Troisième dimanche>$
+
+![6:ant:Quæ mulier](quae_mulier)
+$
+Quelle est la femme qui, ayant dix drachmes, et venant à en perdre une,
+n'allume pas sa lampe, balayant la maison et cherchant avec grand soin jusqu'à ce qu'elle la retrouve?
+_Lc 15, 8_
+$
+
+@(6F)[MagnificatG]
+
+#### Oraison
+
+:Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum; +
+multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália, \* ut non amittámus ætérna.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Protecteur de ceux qui espèrenten vous, ô Dieu, sans qui rien n'est solide, rien n'est saint :
+multipliez sur nous les effets de votre remiséricorde; afin que, sous votre loi et votre conduite,
+nous puissions traverser les biens du temps sans perdre ceux de l'éternité.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
 ### Dominica IV post Pentecosten
 
-$Quatrième dimanche après la Pentecôte <Dim. IV après la Pentecôte>$
+$Quatrième dimanche après la Pentecôte <Quatrième dimanche>$
 
 ![1:ant:Præceptor](praeceptor)
 $
@@ -34,9 +121,41 @@ et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
 
+### Dominica V post Pentecosten
+
+$Cinquième dimanche après la Pentecôte <Cinquième dimanche>$
+
+![1:ant:Si offers](si_offers)
+$
+Si lorsque vous présentez votre offrande à l'autel,
+vous vous rappelez que votre frère a quelque chose contre vous,
+laissez là votre offrande devant l'autel, et allez d'abord
+vous réconcilier avec votre frère;
+et venant ensuite, vous présenterez votre offrande. Alleluia.§
+_Mt 5, 23-24_
+$
+
+@(1D)[MagnificatG]
+
+#### Oraison
+
+:Deus, qui diligéntibus te bona invisibília præparásti: +
+infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes, \*
+promissiónes tuas, quæ omne desidérium súperant, consequámur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Ô Dieu qui avez préparé des biens invisibles pour ceux qui vous aiment,
+répandez votre amour en nos cœurs, afin que, vous aimant en toutes choses
+et plus que toutes choses, nous obtenions ces biens promis par vous qui surpassent tout désir.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
 ### Dominica VI post Pentecosten
 
-$Sixième dimanche après la Pentecôte <Dim. VI après la Pentecôte>$
+$Sixième dimanche après la Pentecôte <Sixième dimanche>$
 
 ![7:ant:Misereor super turbam](misereor)
 $
@@ -327,6 +446,231 @@ qu'elle soit constamment gouvernée par votre grâce.
 Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit,
 Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
+$
+
+### Dominica XVI post Pentecosten
+
+$Seizième dimanche après la Pentecôte <Seizième dimanche>$
+
+![7:ant:Cum vocatus](cum_vocatus)
+$
+Lorsque vous serez invité aux noces, asseyez-vous à la dernière place,
+afin que celui qui vous a convié vous dise: Mon ami, montez plus haut ;
+et ce sera pour vous une gloire devant ceux qui seront à table avec vous.
+Alleluia.
+\hfill _Lc~14,~10_
+$
+
+@(7a)[MagnificatG]
+
+#### Oraison
+
+:Tua nos, quǽsumus, Dómine, grátia semper et prævéniat et sequátur: \*
+ac bonis opéribus iúgiter præstet esse inténtos.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Que votre grâce, Seigneur, nous prévienne et nous suive toujours,
+et qu'elle nous rende sans cesse adonnés aux bonnes œuvres.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit,
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
+### Dominica XVII post Pentecosten
+
+$Dix-septième dimanche après la Pentecôte <Dix-septième dimanche>$
+
+![4:ant:Quid vobis videtur](quid_vobis)
+$
+Que vous semble du Christ ? de qui est-il fils ? Ils lui disent tous : De David.
+Jésus leur dit : Comment David l'appelle-t-il dans l'esprit Seigneur, en disant :
+Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?
+_Mt 22, 42-44_
+$
+
+@(4E)[MagnificatG]
+
+#### Oraison
+
+:Da, quǽsumus, Dómine, pópulo tuo diabólica vitáre contágia: \*
+et te solum Deum pura mente sectári.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Accordez, nous vous en supplions, Seigneur, à votre peuple d'éviter le contact du diable,
+et de vous suivre d'un cœur pur comme le seul Dieu.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit,
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
+### Dominica XVIII post Pentecosten
+
+$Dix-huitième dimanche après la Pentecôte <Dix-huitième dimanche>$
+
+![4:ant:Tulit ergo paralyticus](tulit_ergo)
+$
+Le paralytique, magnifiant Dieu, emporta donc son lit dans lequel il était couché auparavant;
+et tout le peuple, voyant cela, rendit gloire à Dieu.
+_Lc 5, 25-26_
+$
+
+@(4E)[MagnificatG]
+
+#### Oraison
+
+:Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio: \*
+quia tibi sine te placére non póssumus.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Que votre action miséricordieuse dirige nos cœurs, nous vous en supplions, Seigneur,
+parce que nous ne pouvons vous plaire sans vous.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit,
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
+### Dominica XIX post Pentecosten
+
+$Dix-neuvième dimanche après la Pentecôte <Dix-neuvième dimanche>$
+
+![3:ant:Intravit autem rex](intravit)
+$
+Or le roi entra pour voir ceux qui étaient à table,
+et il vit là un homme qui n'était pas revêtu de la robe nuptiale.
+Et il lui dit : Mon ami, comment etes-vous entré ici sans avoir la robe nuptiale ?
+_Mt 22, 11-12_
+$
+
+@(3a)[MagnificatG]
+
+#### Oraison
+
+:Omnípotens et miséricors Deus, univérsa nobis adversántia propitiátus exclúde: +
+ut mente et córpore páriter expedíti, \* quæ tua sunt, líberis méntibus exsequámur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Dieu tout-puissant et miséricordieux, éloignez de nous dans votre bonté tout ce qui nous serait contraire,
+afin que, dégagés en même temps dans le corps et dans l'âme,
+nous puissions vaquer d'un cœur dispos à votre service.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit,
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
+### Dominica XX post Pentecosten
+
+$Vingtième dimanche après la Pentecôte <Vingtième dimanche>$
+
+![3:ant:Cogovit autem](cognovit)
+$
+Le père reconnut que c'était l'heure à laquelle Jésus avait dit:
+Votre fils est vivant; et il crut, ainsi que toute sa maison.
+_Io 4, 53_
+$
+
+@(3a)[MagnificatG]
+
+#### Oraison
+
+:Largíre, quǽsumus, Dómine, fidélibus tuis indulgéntiam placátus et pacem: +
+ut páriter ab ómnibus mundéntur offénsis, \* et secúra tibi mente desérviant.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Laissez-vous apaiser, Seigneur, et, nous vous en supplions, donnez à vos fidèles le pardon et la paix,
+afin qu'à la fois ils soient purifiés de toute offense et vous servent d'un cœur tranquille.
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit,
+Dieu, maintenant et pour les siècles des siècles.§
+Ainsi soit-il.
+$
+
+### Dominica XXI post Pentecosten
+
+$Vingtième et unième dimanche après la Pentecôte <Vingtième et unième dimanche>$
+
+![6:ant:Serve nequam](serve_nequam)
+$
+Traduction.
+$
+
+@(6C)[MagnificatG]
+
+#### Oraison
+
+:Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: +
+ut a cunctis adversitátibus te protegénte, sit líbera; \* et in bonis áctibus tuo nómini sit devóta.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Traduction.
+$
+
+### Dominica XXII post Pentecosten
+
+$Vingt-deuxième dimanche après la Pentecôte <Vingt-deuxième dimanche>$
+
+![1:ant:Reddite ergo](reddite)
+$
+Traduction.
+$
+
+@(1g)[MagnificatG]
+
+#### Oraison
+
+:Deus, refúgium nostrum et virtus: +
+adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta; \*
+ut, quod fidéliter pétimus, efficáciter consequámur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Traduction.
+$
+
+### Dominica XXIII post Pentecosten
+
+$Vingt-troisième dimanche après la Pentecôte <Vingt-troisième dimanche>$
+
+![1:ant:At Iesus conversus](at_iesus)
+$
+Traduction.
+$
+
+@(1f)[MagnificatG]
+
+#### Oraison
+
+:Absólve, quǽsumus, Dómine, tuórum delícta populórum: +
+ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, \* tua benignitáte liberémur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Traduction.
+$
+
+### Dominica XXIV post Pentecosten
+
+$Vingt-quatrième dimanche après la Pentecôte <Vingt-quatrième dimanche>$
+
+![1:ant:Amen dico… non præteribit](amen_dico)
+$
+Traduction.
+$
+
+@(1f)[MagnificatG]
+
+#### Oraison
+
+:Excita, quǽsumus, Dómine, tuórum fidélium voluntátes: +
+ut, divíni óperis fructum propénsius exsequéntes; \* pietátis tuæ remédia maióra percípiant.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+Traduction.
 $
 
 \pagebreak
