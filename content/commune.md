@@ -10,7 +10,6 @@ $ {} <Ordinaire>$
 
 ![](deus_in_adiutorium)
 $
-\vspace{5mm}
 \V Ô Dieu ! venez à mon aide !§
 \R Hâtez-vous, Seigneur, de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit ;§
@@ -115,7 +114,7 @@ $
 qui avez produi le flambeau des jours,
 vous avez préludé àl'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
-    2.~Ô vous, qui nous apprenez à donner le nnom de jour à l'espace
+    2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
 qui s'étend du matin jusqu'au soir,
 un noir chaos menace encore de nous envelopper:
 écoutez nos prières, et voyez nos larmes.§

@@ -186,7 +186,7 @@ $
 
 ### Dominica VII post Pentecosten
 
-$Septième dimanche après la Pentecôte <Dim. VII après la Pentecôte>$
+$Septième dimanche après la Pentecôte <Septième dimanche>$
 
 ![1:ant:Non potest arbor bona](non_potest_arbor)
 $
@@ -217,7 +217,7 @@ $
 
 ### Dominica VIII post Pentecosten
 
-$Huitième dimanche après la Pentecôte <Dim. VIII après la Pentecôte>$
+$Huitième dimanche après la Pentecôte <Huitième dimanche>$
 
 ![4:ant:Quid faciam](quid_faciam)
 $
@@ -247,7 +247,7 @@ $
 
 ### Dominica IX post Pentecosten
 
-$Neuvième dimanche après la Pentecôte <Dim. IX après la Pentecôte>$
+$Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 
 ![8:ant:Scriptum est enim](scriptum_est)
 $
@@ -277,7 +277,7 @@ $
 
 ### Dominica X post Pentecosten
 
-$Dixième dimanche après la Pentecôte <Dim. X après la Pentecôte>$
+$Dixième dimanche après la Pentecôte <Dixième dimanche>$
 
 ![8:ant:Descendit hic](descedit_hic)
 $
@@ -307,7 +307,7 @@ $
 
 ### Dominica XI post Pentecosten
 
-$Onzième dimanche après la Pentecôte <Dim. XI après la Pentecôte>$
+$Onzième dimanche après la Pentecôte <Onzième dimanche>$
 
 ![5:ant:Bene omnia fecit](bene_omnia)
 $
@@ -336,7 +336,7 @@ $
 
 ### Dominica XII post Pentecosten
 
-$Douzième dimanche après la Pentecôte <Dim. XII après la Pentecôte>$
+$Douzième dimanche après la Pentecôte <Douzième dimanche>$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
@@ -367,7 +367,7 @@ $
 
 ### Dominica XIII post Pentecosten
 
-$Treizième dimanche après la Pentecôte <Dim. XIII après la Pentecôte>$
+$Treizième dimanche après la Pentecôte <Treizième dimanche>$
 
 ![1:ant:Unus autem ex illis](unus_autem)
 $
@@ -393,7 +393,7 @@ $
 
 ### Dominica XIV post Pentecosten
 
-$Quatorzième dimanche après la Pentecôte <Dim. XIV après la Pentecôte>$
+$Quatorzième dimanche après la Pentecôte <Quatorzième dimanche>$
 
 ![1:ant:Quærite primum](quaerite)
 $
@@ -422,7 +422,7 @@ $
 
 ### Dominica XV post Pentecosten
 
-$Quinzième dimanche après la Pentecôte <Dim. XV après la Pentecôte>$
+$Quinzième dimanche après la Pentecôte <Quinzième dimanche>$
 
 ![4:ant:Propheta magnus](propheta)
 $
@@ -590,7 +590,7 @@ $
 
 ### Dominica XXI post Pentecosten
 
-$Vingtième et unième dimanche après la Pentecôte <Vingtième et unième dimanche>$
+$Vingt et unième dimanche après la Pentecôte <Vingt et unième dimanche>$
 
 ![6:ant:Serve nequam](serve_nequam)
 $
