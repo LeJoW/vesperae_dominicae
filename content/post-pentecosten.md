@@ -1,13 +1,10 @@
-﻿\pagebreak
-\label{propre}
-
 ## Proprium temporis post Pentecosten
 
 $Propre \\pour le temps \\après la Pentecôte <Temps après la Pentecôte>$
 
 ### Dominica I post Pentecosten
 
-$Premier dimanche après la Pentecôte <Premier dimanche>$
+$[Premier dimanche après la Pentecôte] <Premier dimanche>$
 
 ![8:ant:Nolite iudicare](nolite_iudicare)
 $
@@ -17,7 +14,8 @@ dit le Seigneur.§
 _Mt 7, 1-2_
 $
 
-@(1g)[MagnificatG]
+> Canticum
+> $Magificat 1g, p.~\pageref{Magnificat1g}.$
 
 #### Oraison
 
@@ -39,8 +37,11 @@ $Deuxième dimanche après la Pentecôte <Deuxième dimanche>$
 
 ![1:ant:Exi cito](exi_cito)
 $
-Allez promptement par les places et les rues de la ville, et contraignez d'entrer les pauvres et les infirmes, les aveugles et les boiteux, afin que ma maison se remplisse. Alleluia.§
-_Lc 14, 21 et 23_
+\hrule height-2mm width0pt depth0pt
+\noindent Allez promptement par les places et les rues de la ville,
+et contraignez d'entrer les pauvres et les infirmes, les aveugles et les boiteux,
+afin que ma maison se remplisse. Alleluia.
+\hfill _Lc 14, 21 et 23_
 $
 
 @(1a)[MagnificatG]
@@ -65,7 +66,7 @@ $Troisième dimanche après la Pentecôte <Troisième dimanche>$
 ![6:ant:Quæ mulier](quae_mulier)
 $
 Quelle est la femme qui, ayant dix drachmes, et venant à en perdre une, n'allume pas sa lampe, balayant la maison et cherchant avec grand soin jusqu'à ce qu'elle la retrouve?
-_Lc 15, 8_
+\hfill _Lc~15,~8_
 $
 
 @(6F)[MagnificatG]
@@ -92,6 +93,8 @@ $
 Maître, nous avons travaillé toute la nuit sans rien prendre; mais sur votre parole je jetterai le filet.§
 _Lc 5, 5_
 $
+
+\label{Magnificat1g}\nobreak
 
 @(1g)[MagnificatG]
 
@@ -152,7 +155,7 @@ $
 J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
 et ils n’ont pas de quoi manger:
 et si je les renvoie à jeûn, les forces leur manqueront en chemin, alleluia.§
-_Mc 8, 2-3_
+\hfill _Mc~8,~2-3_
 $
 
 @(7b)[MagnificatG]
@@ -207,9 +210,12 @@ $Huitième dimanche après la Pentecôte <Huitième dimanche>$
 $
 Que ferai-je puisque mon maître m'ôte la gestion de son bien ?
 Travailler la terre, je ne le puis, et je rougis de mendier.
-Je sais ce que je ferai, afin que, lorsque j'aurai été destitué de la gestion, il y ait des gens qui me reçoivent dans leurs maisons.
+Je sais ce que je ferai, afin que, lorsque j'aurai été destitué de la gestion,
+il y ait des gens qui me reçoivent dans leurs maisons.§
 \hfill _Lc~16,~3-4_
 $
+
+\vspace{2mm}
 
 @(4E)[MagnificatG]
 
@@ -231,10 +237,13 @@ $Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 
 ![8:ant:Scriptum est enim](scriptum_est)
 $
-Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
-mais vous, vous en avez fait une caverne de voleurs. Et, chaque jour, il enseignait dans le temple.§
-_Lc 19, 46-47_
+\hrule height-1mm width0pt depth0pt
+\noindent Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
+mais vous, vous en avez fait une caverne de voleurs. Et, chaque jour, il enseignait dans le temple.
+\hfill _Lc~19,~46-47_
 $
+
+\label{Magnificat8G}\nobreak
 
 @(8G)[MagnificatG]
 
@@ -258,6 +267,8 @@ $
 ### Dominica X post Pentecosten
 
 $Dixième dimanche après la Pentecôte <Dixième dimanche>$
+
+\vspace{4mm}
 
 ![8:ant:Descendit hic](descedit_hic)
 $
@@ -288,6 +299,8 @@ $
 ### Dominica XI post Pentecosten
 
 $Onzième dimanche après la Pentecôte <Onzième dimanche>$
+
+\vspace{2mm}
 
 ![5:ant:Bene omnia fecit](bene_omnia)
 $
@@ -320,8 +333,10 @@ $Douzième dimanche après la Pentecôte <Douzième dimanche>$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
-Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs, qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
-_Lc 10, 30_
+\hrule height-2mm width0pt depth0pt
+\noindent Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
+qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
+\hfill _Lc~10,~30_
 $
 
 @(8G)[MagnificatG]
@@ -383,7 +398,7 @@ $
 
 #### Oraison
 
-:Custódi, Dómine, quǽ\-su\-mus, Ecclésiam tuam propitiatióne perpétua: +
+:Custódi, Dómine, quǽsumus, Ecclésiam tuam propitiatióne perpétua: +
 et quia sine te lábitur humána mortálitas; \*
 tuis semper auxíliis et abstrahátur a nóxiis et ad salutária dirigátur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
@@ -463,9 +478,11 @@ $Dix-septième dimanche après la Pentecôte <Dix-septième dimanche>$
 $
 Que vous semble du Christ ? de qui est-il fils ? Ils lui disent tous : De David.
 Jésus leur dit : Comment David l'appelle-t-il dans l'esprit Seigneur, en disant :
-Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?
-_Mt 22, 42-44_
+Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?§
+\hfill _Mt~22,~42-44_
 $
+
+\vspace{2mm}
 
 @(4E)[MagnificatG]
 
@@ -490,9 +507,11 @@ $Dix-huitième dimanche après la Pentecôte <Dix-huitième dimanche>$
 ![4:ant:Tulit ergo paralyticus](tulit_ergo)
 $
 Le paralytique, magnifiant Dieu, emporta donc son lit dans lequel il était couché auparavant;
-et tout le peuple, voyant cela, rendit gloire à Dieu.
-_Lc 5, 25-26_
+et tout le peuple, voyant cela, rendit gloire à Dieu.§
+\hfill _Lc~5,~25-26_
 $
+
+\vspace{2mm}
 
 @(4E)[MagnificatG]
 
@@ -516,10 +535,11 @@ $Dix-neuvième dimanche après la Pentecôte <Dix-neuvième dimanche>$
 
 ![3:ant:Intravit autem rex](intravit)
 $
-Or le roi entra pour voir ceux qui étaient à table,
+\hrule height-2.5mm width0pt depth0pt
+\noindent Or le roi entra pour voir ceux qui étaient à table,
 et il vit là un homme qui n'était pas revêtu de la robe nuptiale.
-Et il lui dit : Mon ami, comment etes-vous entré ici sans avoir la robe nuptiale ?
-_Mt 22, 11-12_
+Et il lui dit : Mon ami, comment etes-vous entré ici sans avoir la robe nuptiale ?§
+\hfill _Mt~22,~11-12_
 $
 
 @(3a)[MagnificatG]
@@ -546,7 +566,7 @@ $Vingtième dimanche après la Pentecôte <Vingtième dimanche>$
 $
 Le père reconnut que c'était l'heure à laquelle Jésus avait dit:
 Votre fils est vivant; et il crut, ainsi que toute sa maison.
-_Io 4, 53_
+\hfill _Io~4,~53_
 $
 
 @(3a)[MagnificatG]
@@ -570,10 +590,8 @@ $Vingt et unième dimanche après la Pentecôte <Vingt et unième dimanche>$
 
 ![6:ant:Serve nequam](serve_nequam)
 $
-Traduction.
 Méchant serviteur, je vous ai remis toute votre dette, parce que vous m’en avez prié ; ne fallait-il donc pas que vous aussi eussiez pitié de votre compagnon, comme moi-même j’ai eu pitié de vous ? Alleluia.
-_Mt 18, 22_
-
+\hfill _Mt~18,~22_
 $
 
 @(6C)[MagnificatG]
@@ -585,7 +603,6 @@ ut a cunctis adversitátibus te protegénte, sit líbera; \* et in bonis áctibu
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 Seigneur, nous vous en supplions, gardez votre famille par l’effet d’une bonté continue, afin que, sous votre protection, elle soit garantie de toute adversité et confesse votre Nom dans les bonnes œuvres. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
@@ -596,9 +613,8 @@ $Vingt-deuxième dimanche après la Pentecôte <Vingt-deuxième dimanche>$
 
 ![1:ant:Reddite ergo](reddite)
 $
-Traduction.
 Rendez donc à César ce qui est à César, et Dieu ce qui est à Dieu. Alleluia.
-_Mt. 22, 21_
+\hfill _Mt~22,~21_
 $
 
 @(1g)[MagnificatG]
@@ -611,7 +627,6 @@ ut, quod fidéliter pétimus, efficáciter consequámur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 O Dieu, notre refuge et notre force, soyez propice aux pieuses prières de votre Eglise, vous l’auteur même de la piété, faites que nous obtenions sûrement ce que nous demandons selon la foi. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
@@ -622,9 +637,9 @@ $Vingt-troisième dimanche après la Pentecôte <Vingt-troisième dimanche>$
 
 ![1:ant:At Iesus conversus](at_iesus)
 $
-Traduction.
-Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.
-_Mt 9, 22_
+\hrule height-1mm width0pt depth0pt
+\noindent Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
+\hfill _Mt~9,~22_
 $
 
 @(1f)[MagnificatG]
@@ -636,7 +651,6 @@ ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, \* tua ben
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 Nous vous en supplions, Seigneurs, absolvez les fautes de votre peuples, afin que nous soyons délivrées par votre bonté des liens des péchés que nous avons commis dans notre fragilité. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 
@@ -648,9 +662,8 @@ $Vingt-quatrième dimanche après la Pentecôte <Vingt-quatrième dimanche>$
 
 ![1:ant:Amen dico… non præteribit](amen_dico)
 $
-Traduction.
 En Vérité, je vous le dis, cette génération ne passera point que toutes ces choses ne s’accomplissent. Le ciel et la terre passeront, mais mes paroles ne passeront point, dit le Seigneur.
-_Mt 24, 34_
+\hfill _Mt~24,~34_
 $
 
 @(1f)[MagnificatG]
@@ -662,9 +675,9 @@ ut, divíni óperis fructum propénsius exsequéntes; \* pietátis tuæ remédia
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 Nous vous en supplions, Seigneur, animez les volontés de vos fidèles, afin que, produisant avec plus d’ardeur les fruits des œuvres célestes, ils reçoivent par votre bonté des secours plus grand. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
+$
 
 \pagebreak
 

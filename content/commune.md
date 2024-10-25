@@ -10,6 +10,7 @@ $ {} <Ordinaire>$
 
 ![](deus_in_adiutorium)
 $
+\hrule height5mm width0pt depth0pt
 \V Ô Dieu ! venez à mon aide !§
 \R Hâtez-vous, Seigneur, de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit ;§
@@ -74,6 +75,8 @@ $
 
 ![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.$
+
+\vspace{-1mm}
 
 @(p)[113G: Psalmus 113]
 $
@@ -142,6 +145,8 @@ $\V Que ma prière s'élève vers vous, Seigneur !§
 #### Canticum {Luc 1, 46-55}
 
 $Cantique de la B.~Vierge Marie$
+
+\bigskip
 
 @(0)[MagnificatG]
 ${}$

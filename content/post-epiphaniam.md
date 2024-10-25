@@ -1,4 +1,3 @@
-\filbreak
 \label{propre}
 
 ## Proprium temporis post Epiphaniam
@@ -7,16 +6,18 @@ $Propre \\pour le temps \\après l'Épiphanie <Temps après l'Épiphanie>$
 
 ### Dominica I post Epiphaniam
 
-$Premier dimanche après l'Épiphanie <Premier dimanche>$
+$[Premier dimanche après l'Épiphanie] <Premier dimanche>$
 
 ![8:ant:Fili quid fecisti](fili_quid)
 $
-Traduction.
-Mon fils, pour quoi avez-vous agi ainsi envers nous ? Voici votre père et moi qui vous cherchions, tout affligés. Pourquoi me cherchiez-vous ? Ne saviez-vous pas que je dois vaquer à ce qui regarde le service de mon Père ?
+Mon fils, pour quoi avez-vous agi ainsi envers nous ? Voici votre père et moi qui vous cherchions, tout affligés. Pourquoi me cherchiez-vous ? Ne saviez-vous pas que je dois vaquer à ce qui regarde le service de mon Père ?§
 _Lc 2, 48_
 $
 
-@(8G)[MagnificatG]
+\vspace{2mm}
+
+> Canticum
+> $Magificat 8G, p.~\pageref{Magnificat8G}.$
 
 #### Oraison
 
@@ -25,7 +26,6 @@ ut et quæ agénda sunt, vídeant, \* et ad implénda quæ víderint, convalésc
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 Recevez, Seigneur, dans votre céleste bonté, les vœux et les supplications de votre peuple ; et faites que vos fidèles connaissent ce qu’ils doivent faire, et deviennent forts pour accomplir ce qu’ils auront connu. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
@@ -36,9 +36,9 @@ $Deuxième dimanche après l'Épiphanie <Deuxième dimanche>$
 
 ![1:ant:Deficiente vino](deficiente)
 $
-Traduction.
-Le vin étant venu à manquer. Jésus ordonna de remplir d’eau les urnes ; et l’eau fut changé en vin, alleluia.
-_Io 2, 3 et 7 et 9_
+Le vin étant venu à manquer. Jésus ordonna de remplir d’eau les urnes ;
+et l’eau fut changé en vin, alleluia.§
+\hfill _Io~2,~3-9_
 $
 
 @(1f)[MagnificatG]
@@ -50,7 +50,6 @@ supplicatiónes pópuli tui cleménter exáudi; \* et pacem tuam nostris concéd
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 Dieu tout-puissant et éternel qui conduisez toutes choses au ciel et sur la terre, exaucez, dans votre clémence, les supplications de votre peuple et que votre paix soit acquise aux jours que nous traversons. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
@@ -61,7 +60,6 @@ $Troisième dimanche après l'Épiphanie <Troisième dimanche>$
 
 ![1:ant:Domine si tu vis](domine_si_tu)
 $
-Traduction.
 Seigneur, si vous voulez, vous pouvez me guérir ; et Jésus lui dit : Je le veux, sois guéri.
 _Mt 8, 3_
 $
@@ -75,7 +73,6 @@ atque, ad protegéndum nos, déxteram tuæ majestátis exténde.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 O Dieu tout-puissant et éternel, jetez un regard favorable sur notre faiblesse, et étendez le bras de votre majesté pour nous protéger. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
@@ -87,9 +84,9 @@ $Quatrième dimanche après l'Épiphanie <Quatrième dimanche>$
 
 ![1:ant:Domine salva nos](domine_salva)
 $
-Traduction.
-Seigneur, sauvez-nous, nous périssons : commandez, ô Dieu ! et rendez la tranquillité.
-_Mt 8, 25_
+Seigneur, sauvez-nous, nous périssons : commandez, ô Dieu !
+et rendez la tranquillité.§
+\hfill _Mt~8,~25_
 $
 
 @(1g2)[MagnificatG]
@@ -101,7 +98,6 @@ da nobis salútem mentis et córporis; \* ut ea, quæ pro peccátis nostris pát
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 O Dieu, qui savez que, dans notre humaine fragilité, nous ne pourrions subsister au milieu de tant de périls qui nous environnent ; donnez-nous la santé de l’âme et du corps, afin que nous surmontions par votre assistance les maux que nous endurons pour nos péchés. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
@@ -112,21 +108,20 @@ $Cinquième dimanche après l'Épiphanie <Cinquième dimanche>$
 
 ![1:ant:Colligite primum](colligite)
 $
-Traduction.
-Cueillez premièrement l’ivraie et liez-la en bottes pour la brûler ; mais amassez le froment dans mon grenier, dit le Seigneur.
-_Mt 13, 30_
+Cueillez premièrement l’ivraie et liez-la en bottes pour la brûler ;
+mais amassez le froment dans mon grenier, dit le Seigneur.§
+\hfill _Mt 13, 30_
 $
 
 @(1g)[MagnificatG]
 
 #### Oraison
 
-:Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: +
+:Famíliam tuam, quǽ\-su\-mus, Dómine, contínua pietáte custódi: +
 ut, quæ in sola spe grátiæ cœléstis innítitur, \* tua semper protectióne muniátur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 Nous vous supplions, Seigneur, de garder votre famille par une continuelle miséricorde, et de défendre par votre constante protection celle qui se repose sur la seul espérance de votre grâce. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
@@ -137,9 +132,9 @@ $Sixième dimanche après l'Épiphanie <Sixième dimanche>$
 
 ![1:ant:Simile est](simile)
 $
-Traduction.
-Le royaume des cieux est semblable à du levain qu’une femme prend et qu’elle cache dans trois mesure de farine, jusqu’à ce que la pâte soit toute levée.
-_Mt 13, 33_
+Le royaume des cieux est semblable à du levain qu’une femme prend et qu’elle cache dans trois mesure de farine,
+jusqu’à ce que la pâte soit toute levée.§
+\hfill _Mt 13, 33_
 $
 
 @(1a3)[MagnificatG]
@@ -151,8 +146,6 @@ ut, semper rationabília meditántes, \* quæ tibi sunt plácita, et dictis exse
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Traduction.
 Faites, s’il vous plaît, Dieu tout puissant, que, sans cesse occupés de pensées raisonnables, nous cherchions constamment à vous plaire dans nos paroles et dans nos actions. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
-
