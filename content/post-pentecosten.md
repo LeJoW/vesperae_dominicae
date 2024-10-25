@@ -7,7 +7,7 @@ $Propre \\pour le temps \\après la Pentecôte <Temps après la Pentecôte>$
 
 ### Dominica I post Pentecosten
 
-$Premier dimanche après la Pentecôte <Premier dimanche>$
+$[Premier dimanche après la Pentecôte] <Premier dimanche>$
 
 ![8:ant:Nolite iudicare](nolite_iudicare)
 $

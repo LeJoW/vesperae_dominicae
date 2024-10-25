@@ -149,10 +149,13 @@ ${}$
 > Antiphona repetitur, deinde, celebrans propriam orationem dicit.
 > $On répète l'antienne, puis le célébrant dit l'oraison propre du jour.$
 
-##### Ton solennel ancien
-
 ![](dominus_vobiscum)
 $\V Le Seigneur soit avec vous. \R Et avec votre esprit.$
+
+=> Seul ou sans prêtre on dit plutôt :
+
+![](domine_exaudi)
+$\V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
 
 > Memores adduntur
 > $On ajoute les mémoires, s'il s'en présente.$

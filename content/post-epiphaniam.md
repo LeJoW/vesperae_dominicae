@@ -7,7 +7,7 @@ $Propre \\pour le temps \\après l'Épiphanie <Temps après l'Épiphanie>$
 
 ### Dominica I post Epiphaniam
 
-$Premier dimanche après l'Épiphanie <Premier dimanche>$
+$[Premier dimanche après l'Épiphanie] <Premier dimanche>$
 
 ![8:ant:Fili quid fecisti](fili_quid)
 $
