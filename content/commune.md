@@ -112,7 +112,7 @@ $Hymne$
 $
     1.~Dieu bon, créateur de la lumière,
 qui avez produi le flambeau des jours,
-vous avez préludé àl'origine de ce monde en produisant,
+vous avez préludé à l'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
     2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
 qui s'étend du matin jusqu'au soir,

@@ -24,7 +24,9 @@ ut et quæ agénda sunt, vídeant, \* et ad implénda quæ víderint, convalésc
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Recevez, Seigneur, dans votre céleste bonté, les vœux et les supplications de votre peuple ; et faites que vos fidèles connaissent ce qu’ils doivent faire, et deviennent forts pour accomplir ce qu’ils auront connu. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Recevez, Seigneur, dans votre céleste bonté, les vœux et les supplications de votre peuple ;
+et faites que vos fidèles connaissent ce qu’ils doivent faire, et deviennent forts pour accomplir ce qu’ils auront connu.§
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
 
@@ -48,7 +50,9 @@ supplicatiónes pópuli tui cleménter exáudi; \* et pacem tuam nostris concéd
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Dieu tout-puissant et éternel qui conduisez toutes choses au ciel et sur la terre, exaucez, dans votre clémence, les supplications de votre peuple et que votre paix soit acquise aux jours que nous traversons. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Dieu tout-puissant et éternel qui conduisez toutes choses au ciel et sur la terre, exaucez,
+dans votre clémence, les supplications de votre peuple et que votre paix soit acquise aux jours que nous traversons.§
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
 
@@ -73,7 +77,8 @@ atque, ad protegéndum nos, déxteram tuæ majestátis exténde.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-O Dieu tout-puissant et éternel, jetez un regard favorable sur notre faiblesse, et étendez le bras de votre majesté pour nous protéger. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+O Dieu tout-puissant et éternel, jetez un regard favorable sur notre faiblesse, et étendez le bras de votre majesté pour nous protéger.§
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
@@ -134,7 +139,7 @@ $Sixième dimanche après l'Épiphanie <Sixième dimanche>$
 
 ![1:ant:Simile est](simile)
 $
-Le royaume des cieux est semblable à du levain qu’une femme prend et qu’elle cache dans trois mesure de farine,
+Le royaume des cieux est semblable à du levain qu’une femme prend et qu’elle cache dans trois mesures de farine,
 jusqu’à ce que la pâte soit toute levée.§
 \rf{_Mt 13, 33_}
 $
@@ -148,6 +153,7 @@ ut, semper rationabília meditántes, \* quæ tibi sunt plácita, et dictis exse
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Faites, s’il vous plaît, Dieu tout puissant, que, sans cesse occupés de pensées raisonnables, nous cherchions constamment à vous plaire dans nos paroles et dans nos actions. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Faites, s’il vous plaît, Dieu tout puissant, que, sans cesse occupés de pensées raisonnables, nous cherchions constamment à vous plaire dans nos paroles et dans nos actions.§
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
