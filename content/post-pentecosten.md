@@ -11,11 +11,11 @@ $
 Ne jugez point, et vous ne serez point jugés;
 votre jugement sera conforme à celui que vous aurez porté vous-même,
 dit le Seigneur.§
-_Mt 7, 1-2_
+\rf{_Mt 7, 1-2_}
 $
 
 > Canticum
-> $Magificat 1g, p.~\pageref{Magnificat1g}.$
+> $Magificat 8G, p.~\pageref{Magnificat8G}.$
 
 #### Oraison
 
@@ -25,7 +25,10 @@ ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Ô Dieu qui êtes la force de ceux qui espèrent en vous, soyez propice à nos demandes; et puisque l'infirmité de l'homme mortel ne peut rien sans vous, accordez-nous le secours de votre grâce, afin qu'en exécutant ce que vous nous commandez, nous puissions vous plaire de volonté et d'action.
+Ô Dieu qui êtes la force de ceux qui espèrent en vous,
+soyez propice à nos demandes; et puisque l'infirmité de l'homme mortel ne peut rien sans vous,
+accordez-nous le secours de votre grâce, afin qu'en exécutant ce que vous nous commandez,
+nous puissions vous plaire de volonté et d'action.
 Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
 et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
@@ -37,11 +40,13 @@ $Deuxième dimanche après la Pentecôte <Deuxième dimanche>$
 
 ![1:ant:Exi cito](exi_cito)
 $
-Allez promptement par les places et les rues de la ville,
+\rml[0.2] Allez promptement par les places et les rues de la ville,
 et contraignez d'entrer les pauvres et les infirmes, les aveugles et les boiteux,
 afin que ma maison se remplisse. Alleluia.
-\hfill _Lc 14, 21 et 23_
+\rf{_Lc 14, 21 et 23_}
 $
+
+\bw
 
 @(1a)[MagnificatG]
 
@@ -65,7 +70,7 @@ $Troisième dimanche après la Pentecôte <Troisième dimanche>$
 ![6:ant:Quæ mulier](quae_mulier)
 $
 Quelle est la femme qui, ayant dix drachmes, et venant à en perdre une, n'allume pas sa lampe, balayant la maison et cherchant avec grand soin jusqu'à ce qu'elle la retrouve?
-\hfill _Lc~15,~8_
+\rf{_Lc 15, 8_}
 $
 
 @(6F)[MagnificatG]
@@ -90,10 +95,8 @@ $Quatrième dimanche après la Pentecôte <Quatrième dimanche>$
 ![1:ant:Præceptor](praeceptor)
 $
 Maître, nous avons travaillé toute la nuit sans rien prendre; mais sur votre parole je jetterai le filet.§
-_Lc 5, 5_
+\rf{_Lc 5, 5_}
 $
-
-\label{Magnificat1g}\nobreak
 
 @(1g)[MagnificatG]
 
@@ -124,7 +127,7 @@ vous vous rappelez que votre frère a quelque chose contre vous,
 laissez là votre offrande devant l'autel, et allez d'abord
 vous réconcilier avec votre frère;
 et venant ensuite, vous présenterez votre offrande. Alleluia.§
-_Mt 5, 23-24_
+\rf{_Mt 5, 23-24_}
 $
 
 @(1D)[MagnificatG]
@@ -154,7 +157,7 @@ $
 J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
 et ils n’ont pas de quoi manger:
 et si je les renvoie à jeûn, les forces leur manqueront en chemin, alleluia.§
-\hfill _Mc~8,~2-3_
+\rf{_Mc 8, 2-3_}
 $
 
 @(7b)[MagnificatG]
@@ -184,7 +187,7 @@ $Septième dimanche après la Pentecôte <Septième dimanche>$
 $
 Un bon arbre ne peut produire de mauvais fruits, ni un mauvais arbre produire de bons fruits. Tout arbre qui ne produit pas de bon fruit,
 sera coupé et jeté au feu, alleluia.§
-_Mt 7, 18-19_
+\rf{_Mt 7, 18-19_}
 $
 
 @(1D)[MagnificatG]
@@ -211,8 +214,10 @@ Que ferai-je puisque mon maître m'ôte la gestion de son bien ?
 Travailler la terre, je ne le puis, et je rougis de mendier.
 Je sais ce que je ferai, afin que, lorsque j'aurai été destitué de la gestion,
 il y ait des gens qui me reçoivent dans leurs maisons.§
-\hfill _Lc~16,~3-4_
+\rf{_Lc 16, 3-4_}
 $
+
+\addl
 
 @(4E)[MagnificatG]
 
@@ -234,9 +239,9 @@ $Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 
 ![8:ant:Scriptum est enim](scriptum_est)
 $
-Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
+\rml[0.5] Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
 mais vous, vous en avez fait une caverne de voleurs. Et, chaque jour, il enseignait dans le temple.
-\hfill _Lc~19,~46-47_
+\rf{_Lc 19, 46-47_}
 $
 
 \label{Magnificat8G}\nobreak
@@ -268,12 +273,16 @@ $Dixième dimanche après la Pentecôte <Dixième dimanche>$
 $
 Celui-ci descendit dans sa maison justifié, plutôt que l'autre;
 car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
-_Lc 18, 14_
+\rf{_Lc 18, 14_}
 $
+
+\rml\bw
 
 @(8G)[MagnificatG]
 
 #### Oraison
+
+\rml
 
 :Deus, qui omnipoténtiam tuam parcéndo máxime et miserándo maniféstas: +
 multíplica super nos misericórdiam tuam; ut, ad tua promíssa curréntes, \*
@@ -297,7 +306,7 @@ $Onzième dimanche après la Pentecôte <Onzième dimanche>$
 ![5:ant:Bene omnia fecit](bene_omnia)
 $
 Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.
-\hfill _Mc~7,~37_
+\rf{_Mc 7, 37_}
 $
 
 @(5a)[MagnificatG]
@@ -327,7 +336,7 @@ $Douzième dimanche après la Pentecôte <Douzième dimanche>$
 $
 Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
 qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
-\hfill _Lc~10,~30_
+\rf{_Lc 10, 30_}
 $
 
 @(8G)[MagnificatG]
@@ -356,7 +365,7 @@ $Treizième dimanche après la Pentecôte <Treizième dimanche>$
 ![1:ant:Unus autem ex illis](unus_autem)
 $
 L’un d’eux, voyant qu’il était guéri, revint, glorifiant Dieu à haute voix, alleluia.
-\hfill _Lc~17,~15_
+\rf{_Lc 17, 15_}
 $
 
 @(1D2)[MagnificatG]
@@ -382,12 +391,14 @@ $Quatorzième dimanche après la Pentecôte <Quatorzième dimanche>$
 ![1:ant:Quærite primum](quaerite)
 $
 Cherchez premièrement le royaume de Dieu et sa justice, et toutes ces choses vous seront données par surcroît, alleluia.§
-_Mt 6, 33_
+\rf{_Mt 6, 33_}
 $
 
 @(1g)[MagnificatG]
 
 #### Oraison
+
+\rml
 
 :Custódi, Dómine, quǽsumus, Ecclésiam tuam propitiatióne perpétua: +
 et quia sine te lábitur humána mortálitas; \*
@@ -411,7 +422,7 @@ $Quinzième dimanche après la Pentecôte <Quinzième dimanche>$
 ![4:ant:Propheta magnus](propheta)
 $
 Un grand prophète a surgi parmi nous, et Dieu a visité son peuple.
-\hfill _Lc~7,~16_
+\rf{_Lc 7, 16_}
 $
 
 @(4A)[MagnificatG]
@@ -442,7 +453,7 @@ Lorsque vous serez invité aux noces, asseyez-vous à la dernière place,
 afin que celui qui vous a convié vous dise: Mon ami, montez plus haut ;
 et ce sera pour vous une gloire devant ceux qui seront à table avec vous.
 Alleluia.
-\hfill _Lc~14,~10_
+\rf{_Lc 14, 10_}
 $
 
 @(7a)[MagnificatG]
@@ -470,8 +481,10 @@ $
 Que vous semble du Christ ? de qui est-il fils ? Ils lui disent tous : De David.
 Jésus leur dit : Comment David l'appelle-t-il dans l'esprit Seigneur, en disant :
 Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?§
-\hfill _Mt~22,~42-44_
+\rf{_Mt 22, 42-44_}
 $
+
+\rml[1.5]
 
 @(4E)[MagnificatG]
 
@@ -497,7 +510,7 @@ $Dix-huitième dimanche après la Pentecôte <Dix-huitième dimanche>$
 $
 Le paralytique, magnifiant Dieu, emporta donc son lit dans lequel il était couché auparavant;
 et tout le peuple, voyant cela, rendit gloire à Dieu.§
-\hfill _Lc~5,~25-26_
+\rf{_Lc 5, 25-26_}
 $
 
 @(4E)[MagnificatG]
@@ -525,7 +538,7 @@ $
 Or le roi entra pour voir ceux qui étaient à table,
 et il vit là un homme qui n'était pas revêtu de la robe nuptiale.
 Et il lui dit : Mon ami, comment etes-vous entré ici sans avoir la robe nuptiale ?§
-\hfill _Mt~22,~11-12_
+\rf{_Mt 22, 11-12_}
 $
 
 @(3a)[MagnificatG]
@@ -552,7 +565,7 @@ $Vingtième dimanche après la Pentecôte <Vingtième dimanche>$
 $
 Le père reconnut que c'était l'heure à laquelle Jésus avait dit:
 Votre fils est vivant; et il crut, ainsi que toute sa maison.
-\hfill _Io~4,~53_
+\rf{_Io 4, 53_}
 $
 
 @(3a)[MagnificatG]
@@ -577,7 +590,7 @@ $Vingt et unième dimanche après la Pentecôte <Vingt et unième dimanche>$
 ![6:ant:Serve nequam](serve_nequam)
 $
 Méchant serviteur, je vous ai remis toute votre dette, parce que vous m’en avez prié ; ne fallait-il donc pas que vous aussi eussiez pitié de votre compagnon, comme moi-même j’ai eu pitié de vous ? Alleluia.
-\hfill _Mt~18,~22_
+\rf{_Mt 18, 22_}
 $
 
 @(6C)[MagnificatG]
@@ -600,7 +613,7 @@ $Vingt-deuxième dimanche après la Pentecôte <Vingt-deuxième dimanche>$
 ![1:ant:Reddite ergo](reddite)
 $
 Rendez donc à César ce qui est à César, et Dieu ce qui est à Dieu. Alleluia.
-\hfill _Mt~22,~21_
+\rf{_Mt 22, 21_}
 $
 
 @(1g)[MagnificatG]
@@ -624,7 +637,7 @@ $Vingt-troisième dimanche après la Pentecôte <Vingt-troisième dimanche>$
 ![1:ant:At Iesus conversus](at_iesus)
 $
 Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
-\hfill _Mt~9,~22_
+\rf{_Mt 9, 22_}
 $
 
 @(1f)[MagnificatG]
@@ -638,7 +651,6 @@ qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽc
 $
 Nous vous en supplions, Seigneurs, absolvez les fautes de votre peuples, afin que nous soyons délivrées par votre bonté des liens des péchés que nous avons commis dans notre fragilité. Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
-
 $
 
 ### Dominica XXIV post Pentecosten
@@ -648,7 +660,7 @@ $Vingt-quatrième dimanche après la Pentecôte <Vingt-quatrième dimanche>$
 ![1:ant:Amen dico… non præteribit](amen_dico)
 $
 En Vérité, je vous le dis, cette génération ne passera point que toutes ces choses ne s’accomplissent. Le ciel et la terre passeront, mais mes paroles ne passeront point, dit le Seigneur.
-\hfill _Mt~24,~34_
+\rf{_Mt 24, 34_}
 $
 
 @(1f)[MagnificatG]
@@ -677,4 +689,3 @@ $
 $Index général$
 
 <table-of-contents />
-

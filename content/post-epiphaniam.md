@@ -11,7 +11,7 @@ $[Premier dimanche après l'Épiphanie] <Premier dimanche>$
 ![8:ant:Fili quid fecisti](fili_quid)
 $
 Mon fils, pour quoi avez-vous agi ainsi envers nous ? Voici votre père et moi qui vous cherchions, tout affligés. Pourquoi me cherchiez-vous ? Ne saviez-vous pas que je dois vaquer à ce qui regarde le service de mon Père ?§
-_Lc 2, 48_
+\rf{_Lc 2, 48_}
 $
 
 > Canticum
@@ -36,7 +36,7 @@ $Deuxième dimanche après l'Épiphanie <Deuxième dimanche>$
 $
 Le vin étant venu à manquer. Jésus ordonna de remplir d’eau les urnes ;
 et l’eau fut changé en vin, alleluia.§
-\hfill _Io~2,~3-9_
+\rf{_Io 2, 3-9_}
 $
 
 @(1f)[MagnificatG]
@@ -59,8 +59,10 @@ $Troisième dimanche après l'Épiphanie <Troisième dimanche>$
 ![1:ant:Domine si tu vis](domine_si_tu)
 $
 Seigneur, si vous voulez, vous pouvez me guérir ; et Jésus lui dit : Je le veux, sois guéri.
-_Mt 8, 3_
+\rf{_Mt 8, 3_}
 $
+
+\bw\bw\bw
 
 @(1g2)[MagnificatG]
 
@@ -84,8 +86,10 @@ $Quatrième dimanche après l'Épiphanie <Quatrième dimanche>$
 $
 Seigneur, sauvez-nous, nous périssons : commandez, ô Dieu !
 et rendez la tranquillité.§
-\hfill _Mt~8,~25_
+\rf{_Mt 8, 25_}
 $
+
+\bw\bw\bw\bw
 
 @(1g2)[MagnificatG]
 
@@ -108,7 +112,7 @@ $Cinquième dimanche après l'Épiphanie <Cinquième dimanche>$
 $
 Cueillez premièrement l’ivraie et liez-la en bottes pour la brûler ;
 mais amassez le froment dans mon grenier, dit le Seigneur.§
-\hfill _Mt 13, 30_
+\rf{_Mt 13, 30_}
 $
 
 @(1g)[MagnificatG]
@@ -132,7 +136,7 @@ $Sixième dimanche après l'Épiphanie <Sixième dimanche>$
 $
 Le royaume des cieux est semblable à du levain qu’une femme prend et qu’elle cache dans trois mesure de farine,
 jusqu’à ce que la pâte soit toute levée.§
-\hfill _Mt 13, 33_
+\rf{_Mt 13, 33_}
 $
 
 @(1a3)[MagnificatG]
