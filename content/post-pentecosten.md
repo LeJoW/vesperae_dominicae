@@ -37,8 +37,7 @@ $Deuxième dimanche après la Pentecôte <Deuxième dimanche>$
 
 ![1:ant:Exi cito](exi_cito)
 $
-\hrule height-2mm width0pt depth0pt
-\noindent Allez promptement par les places et les rues de la ville,
+Allez promptement par les places et les rues de la ville,
 et contraignez d'entrer les pauvres et les infirmes, les aveugles et les boiteux,
 afin que ma maison se remplisse. Alleluia.
 \hfill _Lc 14, 21 et 23_
@@ -215,8 +214,6 @@ il y ait des gens qui me reçoivent dans leurs maisons.§
 \hfill _Lc~16,~3-4_
 $
 
-\vspace{2mm}
-
 @(4E)[MagnificatG]
 
 #### Oraison
@@ -237,8 +234,7 @@ $Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 
 ![8:ant:Scriptum est enim](scriptum_est)
 $
-\hrule height-1mm width0pt depth0pt
-\noindent Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
+Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
 mais vous, vous en avez fait une caverne de voleurs. Et, chaque jour, il enseignait dans le temple.
 \hfill _Lc~19,~46-47_
 $
@@ -267,8 +263,6 @@ $
 ### Dominica X post Pentecosten
 
 $Dixième dimanche après la Pentecôte <Dixième dimanche>$
-
-\vspace{4mm}
 
 ![8:ant:Descendit hic](descedit_hic)
 $
@@ -299,8 +293,6 @@ $
 ### Dominica XI post Pentecosten
 
 $Onzième dimanche après la Pentecôte <Onzième dimanche>$
-
-\vspace{2mm}
 
 ![5:ant:Bene omnia fecit](bene_omnia)
 $
@@ -333,8 +325,7 @@ $Douzième dimanche après la Pentecôte <Douzième dimanche>$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
-\hrule height-2mm width0pt depth0pt
-\noindent Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
+Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
 qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
 \hfill _Lc~10,~30_
 $
@@ -482,8 +473,6 @@ Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?§
 \hfill _Mt~22,~42-44_
 $
 
-\vspace{2mm}
-
 @(4E)[MagnificatG]
 
 #### Oraison
@@ -511,8 +500,6 @@ et tout le peuple, voyant cela, rendit gloire à Dieu.§
 \hfill _Lc~5,~25-26_
 $
 
-\vspace{2mm}
-
 @(4E)[MagnificatG]
 
 #### Oraison
@@ -535,8 +522,7 @@ $Dix-neuvième dimanche après la Pentecôte <Dix-neuvième dimanche>$
 
 ![3:ant:Intravit autem rex](intravit)
 $
-\hrule height-2.5mm width0pt depth0pt
-\noindent Or le roi entra pour voir ceux qui étaient à table,
+Or le roi entra pour voir ceux qui étaient à table,
 et il vit là un homme qui n'était pas revêtu de la robe nuptiale.
 Et il lui dit : Mon ami, comment etes-vous entré ici sans avoir la robe nuptiale ?§
 \hfill _Mt~22,~11-12_
@@ -637,8 +623,7 @@ $Vingt-troisième dimanche après la Pentecôte <Vingt-troisième dimanche>$
 
 ![1:ant:At Iesus conversus](at_iesus)
 $
-\hrule height-1mm width0pt depth0pt
-\noindent Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
+Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
 \hfill _Mt~9,~22_
 $
 

@@ -14,8 +14,6 @@ Mon fils, pour quoi avez-vous agi ainsi envers nous ? Voici votre père et moi 
 _Lc 2, 48_
 $
 
-\vspace{2mm}
-
 > Canticum
 > $Magificat 8G, p.~\pageref{Magnificat8G}.$
 

@@ -6,15 +6,12 @@ $Ordinaire \\des \\Vêpres dominicales <Vêpres dominicales>$
 
 $ {} <Ordinaire>$
 
-\vspace{-3mm}
-
 ![](deus_in_adiutorium)
 $
-\hrule height5mm width0pt depth0pt
-\V Ô Dieu ! venez à mon aide !§
+\addl\V Ô Dieu ! venez à mon aide !§
 \R Hâtez-vous, Seigneur, de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit ;§
-Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§
+Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§
 Alleluia.
 $
 
@@ -63,7 +60,7 @@ $
 ![](qui_timet.ant)
 
 ![7:ant:Sit nomen Domini](sit_nomen)
-$Soit le nom du Seigneur béni dans les siècles.$
+$\addl Soit le nom du Seigneur béni dans les siècles.$
 
 @(7c)[112G: Psalmus 112]
 $
