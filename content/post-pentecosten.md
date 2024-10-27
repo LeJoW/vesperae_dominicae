@@ -691,17 +691,3 @@ produisant avec plus d’ardeur les fruits des œuvres célestes, ils reçoivent
 Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
-
-\pagebreak
-
-###### Index
-
-<grego-index />
-
-\pagebreak
-
-###### Index generalis
-
-$Index général$
-
-<table-of-contents />
