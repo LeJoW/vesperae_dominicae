@@ -156,7 +156,7 @@ $Sixième dimanche après la Pentecôte <Sixième dimanche>$
 $
 J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
 et ils n’ont pas de quoi manger:
-et si je les renvoie à jeûn, les forces leur manqueront en chemin, alleluia.§
+et si je les renvoie à jeûn, les forces leur manqueront en chemin, alleluia.
 \rf{_Mc 8, 2-3_}
 $
 
@@ -185,8 +185,9 @@ $Septième dimanche après la Pentecôte <Septième dimanche>$
 
 ![1:ant:Non potest arbor bona](non_potest_arbor)
 $
-Un bon arbre ne peut produire de mauvais fruits, ni un mauvais arbre produire de bons fruits. Tout arbre qui ne produit pas de bon fruit,
-sera coupé et jeté au feu, alleluia.§
+\rml[0.3] Un bon arbre ne peut produire de mauvais fruits,
+ni un mauvais arbre produire de bons fruits. Tout arbre qui ne produit pas de bon fruit,
+sera coupé et jeté au feu, alleluia.
 \rf{_Mt 7, 18-19_}
 $
 
@@ -217,8 +218,6 @@ il y ait des gens qui me reçoivent dans leurs maisons.§
 \rf{_Lc 16, 3-4_}
 $
 
-\addl
-
 @(4E)[MagnificatG]
 
 #### Oraison
@@ -241,7 +240,7 @@ $Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 
 ![8:ant:Scriptum est enim](scriptum_est)
 $
-\rml[0.5] Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
+Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
 mais vous, vous en avez fait une caverne de voleurs. Et, chaque jour, il enseignait dans le temple.
 \rf{_Lc 19, 46-47_}
 $
@@ -278,13 +277,11 @@ car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
 \rf{_Lc 18, 14_}
 $
 
-\rml\bw
+\rml[1.2]
 
 @(8G)[MagnificatG]
 
 #### Oraison
-
-\rml
 
 :Deus, qui omnipoténtiam tuam parcéndo máxime et miserándo maniféstas: +
 multíplica super nos misericórdiam tuam; ut, ad tua promíssa curréntes, \*
@@ -340,6 +337,8 @@ Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs
 qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
 \rf{_Lc 10, 30_}
 $
+
+\rml[1.2]
 
 @(8G)[MagnificatG]
 
@@ -399,8 +398,6 @@ $
 @(1g)[MagnificatG]
 
 #### Oraison
-
-\rml
 
 :Custódi, Dómine, quǽsumus, Ecclésiam tuam propitiatióne perpétua: +
 et quia sine te lábitur humána mortálitas; \*
@@ -486,7 +483,7 @@ Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?§
 \rf{_Mt 22, 42-44_}
 $
 
-\rml[1.5]
+\rml
 
 @(4E)[MagnificatG]
 
@@ -572,6 +569,8 @@ $
 
 @(3a)[MagnificatG]
 
+\addl
+
 #### Oraison
 
 :Largíre, quǽsumus, Dómine, fidélibus tuis indulgéntiam placátus et pacem: +
@@ -622,6 +621,8 @@ $
 
 @(1g)[MagnificatG]
 
+\bw
+
 #### Oraison
 
 :Deus, refúgium nostrum et virtus: +
@@ -642,10 +643,11 @@ $Vingt-troisième dimanche après la Pentecôte <Vingt-troisième dimanche>$
 
 ![1:ant:At Iesus conversus](at_iesus)
 $
-\rml[0.3]
 Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
 \rf{_Mt 9, 22_}
 $
+
+\rml
 
 @(1f)[MagnificatG]
 
@@ -674,6 +676,8 @@ En vérité, je vous le dis, cette génération ne passera point que toutes ces 
 $
 
 @(1f)[MagnificatG]
+
+\addl
 
 #### Oraison
 

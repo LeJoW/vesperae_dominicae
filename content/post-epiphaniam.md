@@ -66,7 +66,7 @@ Seigneur, si vous voulez, vous pouvez me guérir ; et Jésus lui dit : Je le v
 \rf{_Mt 8, 3_}
 $
 
-\bw\bw\bw
+\rml[1.4]
 
 @(1g2)[MagnificatG]
 
@@ -94,7 +94,7 @@ et rendez la tranquillité.§
 \rf{_Mt 8, 25_}
 $
 
-\bw\bw\bw\bw
+\rml
 
 @(1g2)[MagnificatG]
 
