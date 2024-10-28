@@ -48,8 +48,12 @@ $
 
 ![](magna_opera.ant)
 
+\rml
+
 ![4:ant:Qui timet Dominum](qui_timet)
 $L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
+
+\break\null\rml
 
 @(4g)[111G: Psalmus 111]
 $
@@ -62,6 +66,8 @@ $
 ![7:ant:Sit nomen Domini](sit_nomen)
 $\addl Soit le nom du Seigneur béni dans les siècles.$
 
+\rml[1.2]
+
 @(7c)[112G: Psalmus 112]
 $
 Psaume 112\par
@@ -73,7 +79,7 @@ $
 ![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.$
 
-\bw
+\break\null\rml
 
 @(p)[113G: Psalmus 113]
 $
@@ -99,9 +105,13 @@ et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.�
 \R Rendons grâces à Dieu.
 $
 
+\break\null\rml[3]
+
 #### Hymnus
 
 $Hymne$
+
+\rml[1.5]
 
 > De hymno
 > $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
@@ -110,7 +120,7 @@ $Hymne$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
-    1.~Dieu bon, créateur de la lumière,
+    \rml[0.2] 1.~Dieu bon, créateur de la lumière,
 qui avez produi le flambeau des jours,
 vous avez préludé à l'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
@@ -172,7 +182,7 @@ $\V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
 > $Les chantres:$
 
 ![](benedicamus_domino)
-$\V Bénissons le Seigneur. \R Rendons grâces à Dieu.$
+$Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
 
 > Qui officit, dicit recto tono in grave leviter tono
 > $L'officiant dit ensuite recto tono sur un ton un peu bas:$

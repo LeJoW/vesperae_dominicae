@@ -154,7 +154,7 @@ $Sixième dimanche après la Pentecôte <Sixième dimanche>$
 
 ![7:ant:Misereor super turbam](misereor)
 $
-J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
+\rml[0.2] J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
 et ils n’ont pas de quoi manger:
 et si je les renvoie à jeûn, les forces leur manqueront en chemin, alleluia.
 \rf{_Mc 8, 2-3_}
@@ -185,7 +185,7 @@ $Septième dimanche après la Pentecôte <Septième dimanche>$
 
 ![1:ant:Non potest arbor bona](non_potest_arbor)
 $
-\rml[0.3] Un bon arbre ne peut produire de mauvais fruits,
+Un bon arbre ne peut produire de mauvais fruits,
 ni un mauvais arbre produire de bons fruits. Tout arbre qui ne produit pas de bon fruit,
 sera coupé et jeté au feu, alleluia.
 \rf{_Mt 7, 18-19_}
@@ -222,7 +222,7 @@ $
 
 #### Oraison
 
-:Largíre nobis, quǽsumus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: +
+:Largíre nobis, quǽ\-su\-mus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: +
 ut, qui sine te esse non póssumus, \* secúndum te vívere valeámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
@@ -277,7 +277,7 @@ car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
 \rf{_Lc 18, 14_}
 $
 
-\rml[1.2]
+\rml
 
 @(8G)[MagnificatG]
 
@@ -333,12 +333,10 @@ $Douzième dimanche après la Pentecôte <Douzième dimanche>$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
-Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
+\rml[0.3] Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
 qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
 \rf{_Lc 10, 30_}
 $
-
-\rml[1.2]
 
 @(8G)[MagnificatG]
 
@@ -552,7 +550,7 @@ $
 Dieu tout-puissant et miséricordieux, éloignez de nous dans votre bonté tout ce qui nous serait contraire,
 afin que, dégagés en même temps dans le corps et dans l'âme,
 nous puissions vaquer d'un cœur dispos à votre service.
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.
 Ainsi soit-il.
 $
 
@@ -568,8 +566,6 @@ Votre fils est vivant; et il crut, ainsi que toute sa maison.
 $
 
 @(3a)[MagnificatG]
-
-\addl
 
 #### Oraison
 
@@ -643,11 +639,9 @@ $Vingt-troisième dimanche après la Pentecôte <Vingt-troisième dimanche>$
 
 ![1:ant:At Iesus conversus](at_iesus)
 $
-Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
+\rml[0.3] Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
 \rf{_Mt 9, 22_}
 $
-
-\rml
 
 @(1f)[MagnificatG]
 
@@ -676,8 +670,6 @@ En vérité, je vous le dis, cette génération ne passera point que toutes ces 
 $
 
 @(1f)[MagnificatG]
-
-\addl
 
 #### Oraison
 

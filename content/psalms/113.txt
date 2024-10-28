@@ -18,7 +18,7 @@ Montes, exsultástis sicut aríetes,
 $Montagnes, pourquoi sautiez-vous comme des béliers? Et vous, collines, comme des agneaux ?$
 A fácie Dómini mota est terra,
     a fácie Dei Iacob.
-$À la face du Seigneur, la terre a tremblé: à la tace du Dieu de Jacob,$
+$À la face du Seigneur, la terre a tremblé: à la face du Dieu de Jacob,$
 Qui convértit petram in stagna aquárum,
     et rupem in fontes aquárum.
 $Qui changea la pierre en torrents, et la roche en fontaines.$

@@ -66,7 +66,7 @@ Seigneur, si vous voulez, vous pouvez me guérir ; et Jésus lui dit : Je le v
 \rf{_Mt 8, 3_}
 $
 
-\rml[1.4]
+\rml
 
 @(1g2)[MagnificatG]
 
@@ -122,6 +122,8 @@ $
 
 @(1g)[MagnificatG]
 
+\rml[1.3]
+
 #### Oraison
 
 :Famíliam tuam, quǽ\-su\-mus, Dómine, contínua pietáte custódi: +
@@ -153,7 +155,8 @@ ut, semper rationabília meditántes, \* quæ tibi sunt plácita, et dictis exse
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Faites, s’il vous plaît, Dieu tout puissant, que, sans cesse occupés de pensées raisonnables, nous cherchions constamment à vous plaire dans nos paroles et dans nos actions.§
+Faites, s’il vous plaît, Dieu tout puissant, que, sans cesse occupés de pensées raisonnables,
+nous cherchions constamment à vous plaire dans nos paroles et dans nos actions.§
 Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
