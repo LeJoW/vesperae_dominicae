@@ -8,7 +8,7 @@ $ {} <Ordinaire>$
 
 ![](deus_in_adiutorium)
 $
-\addl\V Ô Dieu ! venez à mon aide !§
+\addl[1.5]\V Ô Dieu ! venez à mon aide !§
 \R Hâtez-vous, Seigneur, de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit ;§
 Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§
@@ -38,7 +38,7 @@ $
 ![](dixit_dominus.ant)
 
 ![3:ant:Magna opera Domini](magna_opera)
-$Grandes sont les œuvres du Seigneur ; elles ont été concertées dans les desseins de sa Sagesse.$
+$\rml[0.2] Grandes sont les œuvres du Seigneur ; elles ont été concertées dans les desseins de sa Sagesse.$
 
 @(3b)[110G: Psalmus 110]
 $
