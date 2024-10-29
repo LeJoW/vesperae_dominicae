@@ -1,8 +1,8 @@
-\label{propre}
-
 ## Proprium temporis post Epiphaniam
 
 $Propre \\pour le temps \\après l'Épiphanie <Temps après l'Épiphanie>$
+
+\label{propre}
 
 ### Dominica I post Epiphaniam
 
