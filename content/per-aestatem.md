@@ -2,6 +2,8 @@
 
 $Propre \\pour les dimanches d'été <Temps après la Pentecôte>$
 
+\label{propre}
+
 ### Dominica VI post Pentecosten
 
 $Sixième dimanche après la Pentecôte <Sixième dimanche>$
@@ -133,9 +135,7 @@ car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
 \rf{_Lc 18, 14_}
 $
 
-\rml
-
-@(8G)[MagnificatG]
+> Cantique {\rm Magnificat} : voir p.\,\pageref{Magnificat8G}.
 
 #### Oraison
 
@@ -159,7 +159,7 @@ $
 $Onzième dimanche après la Pentecôte <Onzième dimanche>$
 
 ![5:ant:Bene omnia fecit](bene_omnia)
-$
+$\rml[0.5]
 Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.
 \rf{_Mc 7, 37_}
 $
@@ -191,10 +191,10 @@ $Douzième dimanche après la Pentecôte <Douzième dimanche>$
 $
 \rml[0.3] Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
 qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
-\rf{_Lc 10, 30_}
+%\rf{_Lc 10, 30_}
 $
 
-@(8G)[MagnificatG]
+> Cantique {\rm Magnificat} : voir p.\,\pageref{Magnificat8G}.
 
 #### Oraison
 
@@ -223,6 +223,8 @@ L’un d’eux, voyant qu’il était guéri, revint, glorifiant Dieu à haute v
 \rf{_Lc 17, 15_}
 $
 
+\rml
+
 @(1D2)[MagnificatG]
 
 #### Oraison
@@ -238,3 +240,5 @@ Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et
 le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
 Ainsi soit-il.
 $
+
+<hyphens />

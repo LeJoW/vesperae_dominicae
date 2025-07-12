@@ -121,7 +121,7 @@ $Hymne$
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
     \rml[0.2] 1.~Dieu bon, créateur de la lumière,
-qui avez produi le flambeau des jours,
+qui avez produit le flambeau des jours,
 vous avez préludé à l'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
     2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
@@ -169,14 +169,18 @@ $\V Le Seigneur soit avec vous. \R Et avec votre esprit.$
 ![](domine_exaudi)
 $\V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
 
-> Memores adduntur
-> $On ajoute les mémoires, s'il s'en présente.$
-
+> Memores adduntur.
 > Ultima oratione dicta, dicitur:
-> $La dernière oraison étant achevée, on dit:$
+> $On ajoute les mémoires, s'il s'en présente.
+> La dernière oraison étant achevée, on dit:$
 
 \V Dóminus vobíscum.§
 \R Et cum spíritu tuo.
+
+=> Ou :
+
+\V Dómine, exáudi oratiónem méam.§
+\R Et clámor méus ad te véniat.
 
 > Cantatores:
 > $Les chantres:$
