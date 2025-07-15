@@ -1,3 +1,8 @@
+\def\doxologieFR{
+    Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+    en l'unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.
+}
+
 ## Proprium dominicarum per æstatem
 
 $Propre \\pour les dimanches d'été <Temps après la Pentecôte>$
@@ -26,12 +31,11 @@ ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódi
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Dieu des vertus de qui vient tout entier ce qui est excellent,
-implanter l'amour de votre nom dans nos cœurs et faites grandir en nous la religion
+Dieu des vertus, de qui vient tout entier ce qui est excellent,
+implantez l'amour de votre nom dans nos cœurs et faites grandir en nous la religion
 pour nourrir ainsi ce qui est bon et garder, avec le zèle de votre bonté paternelle,
-ce que vous aurrez nourri.§
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+ce que vous aurez nourri.§
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -58,8 +62,9 @@ te súpplices exorámus; ut nóxia cuncta submóveas, \* et ómnia nobis profut
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Ô Dieu, dont la providence ne se trompe jamais dans la conduite de ce qui relève d'elle si souverainement, nous vous en supplions, écartez de nous tout ce qui nous serait funeste, et donnez-nous tout ce qui nous sera salutaire.
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+Ô Dieu, dont la providence n'est jamais frustrée dans ses desseins,
+nous vous en supplions, écartez de nous tout ce qui nous serait funeste, et donnez-nous tout ce qui nous sera salutaire.
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -88,7 +93,7 @@ $
 Nous vous en prions, ô Seigneur, donnez-nous toujours en votre libéralité miséricordieuse,
 un esprit qui ne nous fasse penser et agir que selon la droiture,
 afin que nous puissions ainsi vivre selon vous, nous qui ne pouvons pas être sans vous.§
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -119,8 +124,7 @@ Que les oreilles de votre miséricorde, ô Seigneur,
 s'ouvrent aux prières de ceux qui vous implorent,
 et pour leur accorder ce qu'ils sollicitent,
 faites-leur demander ce qui vous est agréable.§
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et le Saint-Esprit,
-Dieu, maintenant et pour les siècles des siècles.§
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -128,7 +132,7 @@ $
 
 $Dixième dimanche après la Pentecôte <Dixième dimanche>$
 
-![8:ant:Descendit hic](descedit_hic)
+![8:ant:Descendit hic](descendit_hic)
 $
 Celui-ci descendit dans sa maison justifié, plutôt que l'autre;
 car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.§
@@ -149,8 +153,7 @@ $
 Ô Dieu, qui manifestez surtout votre toute-puissance par le pardon et la pitié,
 multipliez sur nous votre miséricorde, afin que, courant à vos promesses,
 nous soyons par vous mis en possession des biens du ciel.§
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -163,6 +166,8 @@ $\rml[0.5]
 Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.
 \rf{_Mc 7, 37_}
 $
+
+\rml
 
 @(5a)[MagnificatG]
 
@@ -177,9 +182,8 @@ $
 Dieu tout puissant et éternel, qui dans l'abondance de votre tendresse,
 allez au-delà des mérites et des vœux de qui vous implore,
 répandez tellement sur nous votre miséricorde, qu'à la rémission des fautes,
-effroi de la conscience, vous ajoutiez encore ce que la bouche ne formule pas.
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+effroi de la conscience, vous ajoutiez encore ce que la bouche ne formule pas.§
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -204,12 +208,11 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 \R Amen.
 $
-Dieu tout puissant et misericordieux,
+Dieu tout-puissant et misericordieux,
 vous, de qui vos fidèles tiennent comme un pur présent,
 jusqu'à la grâce de pouvoir vous servir comme il faut et d'une façon louable,
-nous vous en prions, donnez-nous de courir sans faux-pas aux biens que vous promettez.
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
-et le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+nous vous en prions, donnez-nous de courir sans faux-pas aux biens que vous promettez.§
+\doxologieFR
 Ainsi soit-il.
 $
 
@@ -234,10 +237,9 @@ et, ut mereámur ássequi quod promíttis, \* fac nos amáre quod prǽcipis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-Dieu tout puissant et éternel, faites grandir en nous la foi, l'espérance et la charité,
+Dieu tout-puissant et éternel, faites grandir en nous la foi, l'espérance et la charité,
 et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer ce que vous commandez.§
-Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous et
-le Saint-Esprit, Dieu, maintenant et pour les siècles des siècles.§
+\doxologieFR§
 Ainsi soit-il.
 $
 

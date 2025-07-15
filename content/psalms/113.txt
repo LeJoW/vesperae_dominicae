@@ -14,7 +14,7 @@ Quid est tibi, mare, quod fugísti:
     et tu, Iordánis, quia convérsus es retrórsum?
 $Ô mer, pourquoi fuyais-tu ? Et toi, Jourdain, pourquoi remontais-tu vers ta source?$
 Montes, exsultástis sicut aríetes,
-    et colles, sicut agni óvium.
+    et colles, sicut agni óvium?
 $Montagnes, pourquoi sautiez-vous comme des béliers? Et vous, collines, comme des agneaux ?$
 A fácie Dómini mota est terra,
     a fácie Dei Iacob.
@@ -23,15 +23,15 @@ Qui convértit petram in stagna aquárum,
     et rupem in fontes aquárum.
 $Qui changea la pierre en torrents, et la roche en fontaines.$
 Non nobis, Dómine, non nobis:
-    sed nómini tuo da glóriam.
-$Non pas à nous, Seigneur, non pas à nous, mais a votre nom donnez la gloire,$
-Super misericórdia tua, et veritáte tua:
-    nequándo dicant gentes: Ubi est Deus eórum?
+    sed nómini tuo da glóriam:
+$Non pas à nous, Seigneur, non pas à nous, mais à votre nom donnez la gloire,$
+Super misericórdia tua, et veritáte tua.
+    Nequándo dicant gentes: Ubi est Deus eórum?
 $À cause de votre miséricorde et de votre vérité : de peur que les nations ne disent: Où est leur Dieu ?$
 Deus autem noster in cælo:
     ómnia quæcúmque vóluit, fecit.
 $Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.$
-Simulácra géntium argéntum, et aurum,
+Simulácra géntium argéntum et aurum,
     ópera mánuum hóminum.
 $Les idoles des nations ne sont que de l'or et de l'argent, et l'ouvrage des mains des hommes.$
 Os habent, et non loquéntur:
@@ -43,14 +43,14 @@ $Elles ont des oreilles, et n'entendent point ; des narines, et ne sentent point
 Manus habent, et non palpábunt: + pedes habent, et non ambulábunt:
     non clamábunt in gútture suo.
 $Elles ont des mains, et ne peuvent rien toucher; des pieds, et ne marchent point ; un gosier, et ne peuvent se faire entendre.$
-Símiles illis fiant qui fáciunt ea:
-    et omnes qui confídunt in eis.
+Símiles illis fiant, qui fáciunt ea:
+    et omnes, qui confídunt in eis.
 $Que ceux qui les font leur deviennent semblables, avec tous ceux qui mettent en elles leur confiance.$
 Domus Israël sperávit in Dómino:
-    adiútor eórum et protéctor eórum est,
+    adiútor eórum et protéctor eórum est.
 $La maison d'Israël a espéré dans le Seigneur : il est leur appui et leur protecteur.$
 Domus Aaron sperávit in Dómino:
-    adiútor eórum et protéctor eórum est,
+    adiútor eórum et protéctor eórum est.
 $La maison d'Aaron a espéré dans le Seigneur: il est leur appui et leur protecteur.$
 Qui timent Dóminum, speravérunt in Dómino:
     adiútor eórum et protéctor eórum est.
@@ -68,14 +68,14 @@ Adíciat Dóminus super vos:
     super vos, et super fílios vestros.
 $Que le Seigneur ajoute encore à ses dons sur vous, sur vous et sur vos enfants.$
 Benedícti vos a Dómino,
-    qui fecit cælum, et terram.
-$Béni soyez-vous du Seigneur, qui a fait le ciel et la terre!$
+    qui fecit cælum et terram.
+$Bénis soyez-vous du Seigneur, qui a fait le ciel et la terre!$
 Cælum cæli Dómino:
     terram autem dedit fíliis hóminum.
 $Au Seigneur, les hauteurs du ciel ; la terre est aux hommes par sa largesse.$
 Non mórtui laudábunt te, Dómine:
     neque omnes, qui descéndunt in inférnum.
 $Ce ne sont pas les morts qui vous loueront, ô Seigneur! ni tous ceux qui descendent dans la demeure souterraine des limbes;$
-Sed nos qui vívimus, benedícimus Dómino,
-    ex hoc nunc et usque in sǽculum.
+Sed nos, qui vívimus, benedícimus Dómino,
+    ex hoc nunc, et usque in sǽculum.
 $Mais nous qui vivons, nous bénissons le Seigneur, aujourd'hui et à jamais.$
