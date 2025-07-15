@@ -11,23 +11,22 @@ $
 \addl[1.5]\V Ô Dieu ! venez à mon aide !§
 \R Hâtez-vous, Seigneur, de me secourir.§
 Gloire au Père, et au Fils, et au Saint-Esprit ;§
-Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.§
+Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles. Ainsi soit-il.§
 Alleluia.
 $
 
 > De antiphona.
 > $
 > L'antienne a pour but d'attirer notre attention sur une pensée que l'Église
-> propose spécialemet à notre méditation durant le chant du psaume.\par
-> Le plus souvant l'antienne est tirée du psaume même, parfois l'Église l'emprunte à un texte
-> de l'Écriture relatif à la fête.\par
-> On trouve les antiennes au Propre du Temps et des Saints, ou au Commun.
-> Celles qui suivent sont pour tous les dimanches ordinaires de l'année en dehors
-> de l'Avent, des grandes solennités et du Temps Pascal.
+> propose spécialement à notre méditation durant le chant du psaume.\par
+> Le plus souvent, l'antienne est tirée du psaume même, parfois l'Église l'emprunte à un texte
+> de l'Écriture relatif à la fête.
 > $
 
 ![7:ant:Dixit Dominus](dixit_dominus)
 $Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»$
+
+\rml
 
 @(7c2)[109G: Psalmus 109]
 $
@@ -63,10 +62,12 @@ $
 
 ![](qui_timet.ant)
 
-![7:ant:Sit nomen Domini](sit_nomen)
-$\addl Soit le nom du Seigneur béni dans les siècles.$
+\hfill
 
-\rml[1.2]
+![7:ant:Sit nomen Domini](sit_nomen)
+$\addl[0.5] Que le nom du Seigneur soit béni dans les siècles.$
+
+\pagebreak
 
 @(7c)[112G: Psalmus 112]
 $
@@ -105,23 +106,19 @@ et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.�
 \R Rendons grâces à Dieu.
 $
 
-\break\null\rml[3]
-
 #### Hymnus
 
 $Hymne$
 
-\rml[1.5]
-
 > De hymno
 > $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
 > du Dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
-> On l'attribue à saint Grégoire le Grand, pape du |VI|^e siècle.$
+> On l'attribue au pape saint Grégoire le Grand (\gcrux~604).$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
     \rml[0.2] 1.~Dieu bon, créateur de la lumière,
-qui avez produi le flambeau des jours,
+qui avez produit le flambeau des jours,
 vous avez préludé à l'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
     2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
@@ -139,7 +136,7 @@ qu'elle se purifie de toute iniquité.§
     5.~Faites-nous cette grâce, ô Père très miséricordieux,
 et vous ô Fils unique, égal au Père, qui, 
 avec l'Esprit consolateur,
-régnez dans tous les siècles. Amen.
+régnez dans tous les siècles. Ainsi soit-il.
 $
 
 ![](dirigatur_domine)
@@ -153,30 +150,34 @@ $\V Que ma prière s'élève vers vous, Seigneur !§
 
 $Cantique de la B.~Vierge Marie$
 
-\bigskip
+\addl
 
 @(0)[MagnificatG]
 ${}$
 
 > Antiphona repetitur, deinde, celebrans propriam orationem dicit.
-> $On répète l'antienne, puis le célébrant dit l'oraison propre du jour.$
+> $On répète l'antienne, puis le célébrant dit l'oraison propre du jour :$
 
 ![](dominus_vobiscum)
 $\V Le Seigneur soit avec vous. \R Et avec votre esprit.$
 
-=> Seul ou sans prêtre on dit plutôt :
+=> Seul, ou si l'officiant n'est pas prêtre, on dit :
 
 ![](domine_exaudi)
-$\V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
+$\rml[0.5] \V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
 
-> Memores adduntur
-> $On ajoute les mémoires, s'il s'en présente.$
-
+> Memores adduntur.
 > Ultima oratione dicta, dicitur:
-> $La dernière oraison étant achevée, on dit:$
+> $On ajoute les mémoires, s'il s'en présente.
+> La dernière oraison étant achevée, on dit:$
 
 \V Dóminus vobíscum.§
 \R Et cum spíritu tuo.
+
+=> Ou :
+
+\V Dómine, exáudi oratiónem meam.§
+\R Et clamor meus ad te véniat.
 
 > Cantatores:
 > $Les chantres:$
@@ -185,7 +186,7 @@ $\V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
 $Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
 
 > Qui officit, dicit recto tono in grave leviter tono
-> $L'officiant dit ensuite recto tono sur un ton un peu bas:$
+> $L'officiant dit ensuite {\rm recto tono} sur un ton un peu bas:$
 
 \V Fidélium ánimæ per misericórdiam Dei requiéscant in pace. \R Amen.
-$Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix.$
+$\V Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix. \R Ainsi soit-il.$
