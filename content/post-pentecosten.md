@@ -14,7 +14,7 @@ dit le Seigneur.§
 \rf{_Mt 7, 1-2_}
 $
 
-> Cantique {\rm Magnificat} : voir p.\,\pageref{Magnificat8G}.
+> Cantique *Magnificat* : voir p.\,\pageref{Magnificat8G}.
 
 #### Oraison
 
@@ -38,13 +38,11 @@ $Deuxième dimanche après la Pentecôte <Deuxième dimanche>$
 
 ![1:ant:Exi cito](exi_cito)
 $
-\rml[0.2] Allez promptement par les places et les rues de la ville,
+Allez promptement par les places et les rues de la ville,
 et contraignez d'entrer les pauvres et les infirmes, les aveugles et les boiteux,
 afin que ma maison se remplisse. Alleluia.
 \rf{_Lc 14, 21 et 23_}
 $
-
-\bw
 
 @(1a)[MagnificatG]
 
@@ -66,7 +64,8 @@ $Troisième dimanche après la Pentecôte <Troisième dimanche>$
 
 ![6:ant:Quæ mulier](quae_mulier)
 $
-Quelle est la femme qui, ayant dix drachmes, et venant à en perdre une, n'allume pas sa lampe, balayant la maison et cherchant avec grand soin jusqu'à ce qu'elle la retrouve?
+Quelle est la femme qui, ayant dix drach\-mes, et venant à en perdre une,
+n'allume pas sa lampe, balayant la maison et cherchant avec grand soin jusqu'à ce qu'elle la retrouve?
 \rf{_Lc 15, 8_}
 $
 
@@ -148,7 +147,7 @@ $Sixième dimanche après la Pentecôte <Sixième dimanche>$
 
 ![7:ant:Misereor super turbam](misereor)
 $
-\rml[0.2] J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
+J’ai compassion de cette foule, car voilà déjà trois jours qu’ils sont avec moi,
 et ils n’ont pas de quoi manger:
 et si je les renvoie à jeûn, les forces leur manqueront en chemin, alleluia.
 \rf{_Mc 8, 2-3_}
@@ -183,8 +182,6 @@ ni un mauvais arbre produire de bons fruits. Tout arbre qui ne produit pas de bo
 sera coupé et jeté au feu, alleluia.
 \rf{_Mt 7, 18-19_}
 $
-
-\addl
 
 @(1D)[MagnificatG]
 
@@ -241,6 +238,8 @@ mais vous, vous en avez fait une caverne de voleurs. Et, chaque jour, il enseign
 \rf{_Lc 19, 46-47_}
 $
 
+\label{Magnificat8G}\nobreak
+
 @(8G)[MagnificatG]
 
 #### Oraison
@@ -293,12 +292,10 @@ $
 $Onzième dimanche après la Pentecôte <Onzième dimanche>$
 
 ![5:ant:Bene omnia fecit](bene_omnia)
-$\rml[0.5]
+$
 Il a bien fait toutes choses; il a fait entendre les sourds et parler les muets.
 \rf{_Mc 7, 37_}
 $
-
-\rml
 
 @(5a)[MagnificatG]
 
@@ -324,7 +321,7 @@ $Douzième dimanche après la Pentecôte <Douzième dimanche>$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
-\rml[0.3] Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
+Un homme descendait de Jérusalem à Jéricho, et il tomba au milieu des voleurs,
 qui le dépouillèrent, et, après l'avoir couvert de blessures, s'en allèrent, le laissant à demi mort.§
 \rf{_Lc 10, 30_}
 $
@@ -356,8 +353,6 @@ $
 L’un d’eux, voyant qu’il était guéri, revint, glorifiant Dieu à haute voix, alleluia.
 \rf{_Lc 17, 15_}
 $
-
-\rml
 
 @(1D2)[MagnificatG]
 
@@ -468,8 +463,6 @@ Jésus leur dit : Comment David l'appelle-t-il dans l'esprit Seigneur, en disant
 Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?§
 \rf{_Mt 22, 42-44_}
 $
-
-\rml
 
 @(4E)[MagnificatG]
 
@@ -603,8 +596,6 @@ $
 
 @(1g)[MagnificatG]
 
-\bw
-
 #### Oraison
 
 :Deus, refúgium nostrum et virtus: +
@@ -625,7 +616,7 @@ $Vingt-troisième dimanche après la Pentecôte <Vingt-troisième dimanche>$
 
 ![1:ant:At Iesus conversus](at_iesus)
 $
-\rml[0.3] Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
+Jésus se retournant et la voyant, lui dit : Aie confiance, ma fille ; ta foi t’a sauvée. Alleluia.§
 \rf{_Mt 9, 22_}
 $
 

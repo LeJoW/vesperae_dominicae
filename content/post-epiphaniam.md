@@ -14,8 +14,7 @@ Mon fils, pour quoi avez-vous agi ainsi envers nous ? Voici votre père et moi 
 \rf{_Lc 2, 48_}
 $
 
-> Canticum
-> $Magificat 8G, p.~\pageref{Magnificat8G}.$
+> Cantique *Magnificat* : voir p.\,\pageref{Magnificat8G}.
 
 #### Oraison
 
@@ -66,8 +65,6 @@ Seigneur, si vous voulez, vous pouvez me guérir ; et Jésus lui dit : Je le v
 \rf{_Mt 8, 3_}
 $
 
-\rml
-
 @(1g2)[MagnificatG]
 
 #### Oraison
@@ -94,8 +91,6 @@ et rendez la tranquillité.§
 \rf{_Mt 8, 25_}
 $
 
-\rml
-
 @(1g2)[MagnificatG]
 
 #### Oraison
@@ -121,8 +116,6 @@ mais amassez le froment dans mon grenier, dit le Seigneur.§
 $
 
 @(1g)[MagnificatG]
-
-\rml[1.3]
 
 #### Oraison
 

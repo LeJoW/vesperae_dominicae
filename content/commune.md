@@ -26,8 +26,6 @@ $
 ![7:ant:Dixit Dominus](dixit_dominus)
 $Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»$
 
-\rml
-
 @(7c2)[109G: Psalmus 109]
 $
 Psaume 109\par
@@ -37,7 +35,7 @@ $
 ![](dixit_dominus.ant)
 
 ![3:ant:Magna opera Domini](magna_opera)
-$\rml[0.2] Grandes sont les œuvres du Seigneur ; elles ont été concertées dans les desseins de sa Sagesse.$
+$Grandes sont les œuvres du Seigneur ; elles ont été concertées dans les desseins de sa Sagesse.$
 
 @(3b)[110G: Psalmus 110]
 $
@@ -47,12 +45,8 @@ $
 
 ![](magna_opera.ant)
 
-\rml
-
 ![4:ant:Qui timet Dominum](qui_timet)
 $L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
-
-\break\null\rml
 
 @(4g)[111G: Psalmus 111]
 $
@@ -62,12 +56,8 @@ $
 
 ![](qui_timet.ant)
 
-\hfill
-
 ![7:ant:Sit nomen Domini](sit_nomen)
-$\addl[0.5] Que le nom du Seigneur soit béni dans les siècles.$
-
-\pagebreak
+$Que le nom du Seigneur soit béni dans les siècles.$
 
 @(7c)[112G: Psalmus 112]
 $
@@ -79,8 +69,6 @@ $
 
 ![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.$
-
-\break\null\rml
 
 @(p)[113G: Psalmus 113]
 $
@@ -113,11 +101,11 @@ $Hymne$
 > De hymno
 > $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
 > du Dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
-> On l'attribue au pape saint Grégoire le Grand (\gcrux~604).$
+> On l'attribue au pape saint Grégoire le Grand (+~604).$
 
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
-    \rml[0.2] 1.~Dieu bon, créateur de la lumière,
+    1.~Dieu bon, créateur de la lumière,
 qui avez produit le flambeau des jours,
 vous avez préludé à l'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
@@ -144,13 +132,13 @@ $\V Que ma prière s'élève vers vous, Seigneur !§
 \R Comme l'encens monte en votre présence.$
 
 > De proprium
-> $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\,\pageref{propre} et suivantes.$
+> $Chaque dimanche a son antienne propre à *Magnificat*. Cf. pp.\,\pageref{propre} et suivantes.$
 
 #### Canticum {Luc 1, 46-55}
 
 $Cantique de la B.~Vierge Marie$
 
-\addl
+\medskip
 
 @(0)[MagnificatG]
 ${}$
@@ -164,7 +152,7 @@ $\V Le Seigneur soit avec vous. \R Et avec votre esprit.$
 => Seul, ou si l'officiant n'est pas prêtre, on dit :
 
 ![](domine_exaudi)
-$\rml[0.5] \V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
+$\V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
 
 > Memores adduntur.
 > Ultima oratione dicta, dicitur:
@@ -186,7 +174,7 @@ $\rml[0.5] \V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'�
 $Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
 
 > Qui officit, dicit recto tono in grave leviter tono
-> $L'officiant dit ensuite {\rm recto tono} sur un ton un peu bas:$
+> $L'officiant dit ensuite *recto tono* sur un ton un peu bas:$
 
 \V Fidélium ánimæ per misericórdiam Dei requiéscant in pace. \R Amen.
 $\V Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix. \R Ainsi soit-il.$
