@@ -18,11 +18,11 @@ $
 
 #### Oraison
 
-:Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: +
-et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; \*
+:Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris:~+
+et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ;~\*
 ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Ô Dieu qui êtes la force de ceux qui espèrent en vous,
 soyez propice à nos demandes; et puisque l'infirmité de l'homme mortel ne peut rien sans vous,
@@ -48,10 +48,10 @@ $
 
 #### Oraison
 
-:Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: +
-quia nunquam tua gubernatióne destítuis, \* quos in soliditáte tuæ dilectiónis instítuis.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum:~+
+quia nunquam tua gubernatióne destítuis,~\* quos in soliditáte tuæ dilectiónis instítuis.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Faites, Seigneur, que nous ayons toujours la crainte et l'amour de votre saint nom ; parce que vous ne cessez jamais de diriger ceux que vous établissez dans la solidité de votre amour.§
 \doxologieFR§
@@ -73,10 +73,10 @@ $
 
 #### Oraison
 
-:Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum; +
-multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália, \* ut non amittámus ætérna.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum;~+
+multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália,~\* ut non amittámus ætérna.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Protecteur de ceux qui espèrenten vous, ô Dieu, sans qui rien n'est solide, rien n'est saint : multipliez sur nous les effets de votre remiséricorde; afin que, sous votre loi et votre conduite, nous puissions traverser les biens du temps sans perdre ceux de l'éternité.§
 \doxologieFR§
@@ -97,11 +97,11 @@ $
 
 #### Oraison
 
-:Da nobis, quǽsumus, Dómine, +
-ut et mundi cursus pacífice nobis tuo órdine dirigátur : \*
+:Da nobis, quǽsumus, Dómine,~+
+ut et mundi cursus pacífice nobis tuo órdine dirigátur :~\*
 et Ecclésia tua tranquílla devotióne lætétur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Faites nous vous en supplions, Seigneur, que par votre Providence
 la marche du monde soit pour nous pacifique,
@@ -128,11 +128,11 @@ $
 
 #### Oraison
 
-:Deus, qui diligéntibus te bona invisibília præparásti: +
-infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes, \*
+:Deus, qui diligéntibus te bona invisibília præparásti:~+
+infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes,~\*
 promissiónes tuas, quæ omne desidérium súperant, consequámur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Ô Dieu qui avez préparé des biens invisibles pour ceux qui vous aiment,
 répandez votre amour en nos cœurs, afin que, vous aimant en toutes choses
@@ -157,11 +157,11 @@ $
 
 #### Oraison
 
-:Deus virtútum, cuius est totum quod est óptimum: +
-ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum; \*
+:Deus virtútum, cuius est totum quod est óptimum:~+
+ínsere pectóribus nostris amórem tui nóminis, et præsta in nobis religiónis augméntum;~\*
 ut, quæ sunt bona, nútrias, ac pietátis stúdio, quæ sunt nutríta, custódias.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Dieu des vertus, de qui vient tout entier ce qui est excellent,
 implantez l'amour de votre nom dans nos cœurs et faites grandir en nous la religion
@@ -187,10 +187,10 @@ $
 
 #### Oraison
 
-:Deus, cuius providéntia in sui dispositióne non fállitur: +
+:Deus, cuius providéntia in sui dispositióne non fállitur:~+
 te súpplices exorámus; ut nóxia cuncta submóveas, \* et ómnia nobis profutúra concédas.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Ô Dieu, dont la providence n'est jamais frustrée dans ses desseins,
 nous vous en supplions, écartez de nous tout ce qui nous serait funeste, et donnez-nous tout ce qui nous sera salutaire.
@@ -215,10 +215,10 @@ $
 
 #### Oraison
 
-:Largíre nobis, quǽ\-su\-mus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: +
-ut, qui sine te esse non póssumus, \* secúndum te vívere valeámus.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Largíre nobis, quǽ\-su\-mus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi:~+
+ut, qui sine te esse non póssumus,~\* secúndum te vívere valeámus.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Nous vous en prions, ô Seigneur, donnez-nous toujours en votre libéralité miséricordieuse,
 un esprit qui ne nous fasse penser et agir que selon la droiture,
@@ -244,11 +244,11 @@ $
 
 #### Oraison
 
-:Páteant aures misericórdiæ tuæ, Dómine, précibus supplicántium: +
-et, ut peténtibus desideráta concédas; \*
+:Páteant aures misericórdiæ tuæ, Dómine, précibus supplicántium:~+
+et, ut peténtibus desideráta concédas;~\*
 fac eos, quæ tibi sunt plácita, postuláre.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Que les oreilles de votre miséricorde, ô Seigneur,
 s'ouvrent aux prières de ceux qui vous implorent,
@@ -273,11 +273,11 @@ $
 
 #### Oraison
 
-:Deus, qui omnipoténtiam tuam parcéndo máxime et miserándo maniféstas: +
-multíplica super nos misericórdiam tuam; ut, ad tua promíssa curréntes, \*
+:Deus, qui omnipoténtiam tuam parcéndo máxime et miserándo maniféstas:~+
+multíplica super nos misericórdiam tuam; ut, ad tua promíssa curréntes,~\*
 cæléstium bonórum fácias esse consórtes.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
 \R Amen.
 $
 Ô Dieu, qui manifestez surtout votre toute-puissance par le pardon et la pitié,
@@ -301,10 +301,10 @@ $
 
 #### Oraison
 
-:Omnípotens sempitérne Deus, qui, abundántia pietátis tuæ, et mérita súpplicum excédis et vota: +
-effúnde super nos misericórdiam tuam; ut dimíttas quæ consciéntia métuit, \* et adícias quod orátio non præsúmit.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+:Omnípotens sempitérne Deus, qui, abundántia pietátis tuæ, et mérita súpplicum excédis et vota:~+
+effúnde super nos misericórdiam tuam; ut dimíttas quæ consciéntia métuit,~\* et adícias quod orátio non præsúmit.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
 \R Amen.
 $
 Dieu tout puissant et éternel, qui dans l'abondance de votre tendresse,
@@ -330,10 +330,10 @@ $
 
 #### Oraison
 
-:Omnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur: +
-tríbue, quǽsumus, nobis; \* ut ad promissiónes tuas sine offensióne currámus.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+:Omnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur:~+
+tríbue, quǽsumus, nobis;~\* ut ad promissiónes tuas sine offensióne currámus.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
 \R Amen.
 $
 Dieu tout-puissant et misericordieux,
@@ -358,10 +358,10 @@ $
 
 #### Oraison
 
-:Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum: +
-et, ut mereámur ássequi quod promíttis, \* fac nos amáre quod prǽcipis.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum:~+
+et, ut mereámur ássequi quod promíttis,~\* fac nos amáre quod prǽcipis.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Dieu tout-puissant et éternel, faites grandir en nous la foi, l'espérance et la charité,
 et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer ce que vous commandez.§
@@ -383,11 +383,11 @@ $
 
 #### Oraison
 
-:Custódi, Dómine, quǽsumus, Ecclésiam tuam propitiatióne perpétua: +
-et quia sine te lábitur humána mortálitas; \*
+:Custódi, Dómine, quǽsumus, Ecclésiam tuam propitiatióne perpétua:~+
+et quia sine te lábitur humána mortálitas;~\*
 tuis semper auxíliis et abstrahátur a nóxiis et ad salutária dirigátur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
 \R Amen.
 $
 Nous vous en prions, Seigneur, veillez sur votre Église par une continuelle propitiation,
@@ -411,10 +411,10 @@ $
 
 #### Oraison
 
-:Ecclésiam tuam, Dómine, miserátio continuáta mundet et múniat: +
-et quia sine te non potest salva consístere, \* tuo semper múnere gubernétur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Ecclésiam tuam, Dómine, miserátio continuáta mundet et múniat:~+
+et quia sine te non potest salva consístere,~\* tuo semper múnere gubernétur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Que l'exercice continu de votre miséricorde, ô Seigneur,
 purifie votre Église et la fortifie,
@@ -441,10 +441,10 @@ $
 
 #### Oraison
 
-:Tua nos, quǽsumus, Dómine, grátia semper et prævéniat et sequátur: \*
+:Tua nos, quǽsumus, Dómine, grátia semper et prævéniat et sequátur:~\*
 ac bonis opéribus iúgiter præstet esse inténtos.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Que votre grâce, Seigneur, nous prévienne et nous suive toujours,
 et qu'elle nous rende sans cesse adonnés aux bonnes œuvres.§
@@ -468,10 +468,10 @@ $
 
 #### Oraison
 
-:Da, quǽsumus, Dómine, pópulo tuo diabólica vitáre contágia: \*
+:Da, quǽsumus, Dómine, pópulo tuo diabólica vitáre contágia:~\*
 et te solum Deum pura mente sectári.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Accordez, nous vous en supplions, Seigneur, à votre peuple d'éviter le contact du diable,
 et de vous suivre d'un cœur pur comme le seul Dieu.§
@@ -494,10 +494,10 @@ $
 
 #### Oraison
 
-:Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio: \*
+:Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio:~\*
 quia tibi sine te placére non póssumus.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Que votre action miséricordieuse dirige nos cœurs, nous vous en supplions, Seigneur,
 parce que nous ne pouvons vous plaire sans vous.§
@@ -521,10 +521,10 @@ $
 
 #### Oraison
 
-:Omnípotens et miséricors Deus, univérsa nobis adversántia propitiátus exclúde: +
-ut mente et córpore páriter expedíti, \* quæ tua sunt, líberis méntibus exsequámur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Omnípotens et miséricors Deus, univérsa nobis adversántia propitiátus exclúde:~+
+ut mente et córpore páriter expedíti,~\* quæ tua sunt, líberis méntibus exsequámur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Dieu tout-puissant et miséricordieux, éloignez de nous dans votre bonté tout ce qui nous serait contraire,
 afin que, dégagés en même temps dans le corps et dans l'âme,
@@ -548,10 +548,10 @@ $
 
 #### Oraison
 
-:Largíre, quǽsumus, Dómine, fidélibus tuis indulgéntiam placátus et pacem: +
-ut páriter ab ómnibus mundéntur offénsis, \* et secúra tibi mente desérviant.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Largíre, quǽsumus, Dómine, fidélibus tuis indulgéntiam placátus et pacem:~+
+ut páriter ab ómnibus mundéntur offénsis,~\* et secúra tibi mente desérviant.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Laissez-vous apaiser, Seigneur, et, nous vous en supplions, donnez à vos fidèles le pardon et la paix,
 afin qu'à la fois ils soient purifiés de toute offense et vous servent d'un cœur tranquille.§
@@ -573,10 +573,10 @@ $
 
 #### Oraison
 
-:Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: +
-ut a cunctis adversitátibus te protegénte, sit líbera; \* et in bonis áctibus tuo nómini sit devóta.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi:~+
+ut a cunctis adversitátibus te protegénte, sit líbera;~\* et in bonis áctibus tuo nómini sit devóta.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Seigneur, nous vous en supplions, gardez votre famille par l’effet d’une bonté continue,
 afin que, sous votre protection, elle soit garantie de toute adversité et confesse votre nom dans les bonnes œuvres.§
@@ -598,11 +598,11 @@ $
 
 #### Oraison
 
-:Deus, refúgium nostrum et virtus: +
-adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta; \*
+:Deus, refúgium nostrum et virtus:~+
+adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta;~\*
 ut, quod fidéliter pétimus, efficáciter consequámur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 O Dieu, notre refuge et notre force, soyez propice aux pieuses prières de votre Eglise,
 vous l’auteur même de la piété, faites que nous obtenions sûrement ce que nous demandons selon la foi.§
@@ -624,10 +624,10 @@ $
 
 #### Oraison
 
-:Absólve, quǽsumus, Dómine, tuórum delícta populórum: +
-ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus, \* tua benignitáte liberémur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Absólve, quǽsumus, Dómine, tuórum delícta populórum:~+
+ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus,~\* tua benignitáte liberémur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Nous vous en supplions, Seigneur, absolvez les fautes de votre peuple,
 afin que nous soyons délivrés par votre bonté des liens des péchés que nous avons commis dans notre fragilité.§
@@ -649,10 +649,10 @@ $
 
 #### Oraison
 
-:Excita, quǽsumus, Dómine, tuórum fidélium voluntátes: +
-ut, divíni óperis fructum propénsius exsequéntes; \* pietátis tuæ remédia maióra percípiant.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+:Excita, quǽsumus, Dómine, tuórum fidélium voluntátes:~+
+ut, divíni óperis fructum propénsius exsequéntes;~\* pietátis tuæ remédia maióra percípiant.
+Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Nous vous en supplions, Seigneur, animez les volontés de vos fidèles, afin que,
 produisant avec plus d’ardeur les fruits des œuvres célestes, ils reçoivent par votre bonté des secours plus grands.§
