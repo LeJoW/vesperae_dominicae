@@ -110,7 +110,7 @@ $
     1.~Dieu bon, créateur de la lumière,
 qui avez produit le flambeau des jours,
 vous avez préludé à l'origine de ce monde en produisant,
-au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.\splitafter§
+au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
     2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
 qui s'étend du matin jusqu'au soir,
 un noir chaos menace encore de nous envelopper:
@@ -138,7 +138,7 @@ $\V Que ma prière s'élève vers vous, Seigneur !§
 
 #### Canticum {Luc 1, 46-55}
 
-$\strut10mm Cantique de la B.~Vierge Marie$
+$Cantique de la B.~Vierge Marie$
 
 \smallskip
 
