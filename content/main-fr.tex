@@ -1,8 +1,18 @@
-\def\rf#1{\hfill\nobreak\mbox{#1}}
+\def\rf#1{{\unskip\nobreak\hfil\penalty50%
+			\hskip1em\hbox{}\nobreak\hfil\hbox{#1}%
+			\parfillskip=0pt \finalhyphendemerits=0 \par}}
 \def\bw{\vskip-1mm}
 \def\doxologieFR{%
-    Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
-    en l'unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.%
+	Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+	en l'unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.%
 }
 
+\def\Psaume#1 — #2 —{\vbox{\noindent\centerline{Psaume #1}\break\centerline{\small\it #2}}}
+
+\def\today{\number\day\space\ifcase\month\or
+		Janvier\or Février\or Mars\or Avril\or Mai\or Juin\or
+		Juillet\or Août\or Septembre\or Octobre\or Novembre\or Decembre\fi\space\number\year}
+
 \input{source/parsed-fr.tex}
+
+\vfill\hrule\vbox{\centerline{\strut4mm \small Édition du \today.}}\eject

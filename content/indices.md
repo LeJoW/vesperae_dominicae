@@ -12,4 +12,4 @@ $Index général$
 
 <table-of-contents />
 
-<hyphens />
+<hyphens file="tex2pdf/source/la-hyphenation.dic"/>
