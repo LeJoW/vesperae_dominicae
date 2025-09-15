@@ -134,7 +134,7 @@ $
 
 ### Dominica VI post Epiphaniam
 
-$Sixième dimanche après l'Épiphanie <Sixième dimanche>$
+$Sixième dimanche après l'Épiphanie <Dernier dimanche>$
 
 ![1:ant:Simile est](simile)
 $
@@ -150,10 +150,12 @@ $
 :Præsta, quǽsumus, omnípotens Deus:~+
 ut, semper rationabília meditántes,~\* quæ tibi sunt plácita, et dictis exsequámur et factis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Faites, s’il vous plaît, Dieu tout-puissant, que, sans cesse occupés de pensées raisonnables,
 nous cherchions constamment à vous plaire dans nos paroles et dans nos actions.§
 \doxologieFR\
 Ainsi soit-il.
 $
+
+\endrule

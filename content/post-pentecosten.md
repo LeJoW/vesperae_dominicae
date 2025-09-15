@@ -22,7 +22,7 @@ $
 et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ;~\*
 ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Ô Dieu qui êtes la force de ceux qui espèrent en vous,
 soyez propice à nos demandes; et puisque l'infirmité de l'homme mortel ne peut rien sans vous,
@@ -77,7 +77,7 @@ $
 :Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum;~+
 multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália,~\* ut non amittámus ætérna.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Protecteur de ceux qui espèrent en vous, ô Dieu, sans qui rien n'est solide, rien n'est saint :
 multipliez sur nous les effets de votre remiséricorde; afin que, sous votre loi et votre conduite,
@@ -135,7 +135,7 @@ $
 infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes,~\*
 promissiónes tuas, quæ omne desidérium súperant, consequámur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Ô Dieu qui avez préparé des biens invisibles pour ceux qui vous aiment,
 répandez votre amour en nos cœurs, afin que, vous aimant en toutes choses
@@ -331,7 +331,7 @@ $
 :Omnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur:~+
 tríbue, quǽsumus, nobis;~\* ut ad promissiónes tuas sine offensióne currámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
 Dieu tout-puissant et misericordieux, de la grâce de qui vient que vos fidèles vous servent comme il convient et d'une façon digne de louange;
@@ -357,7 +357,7 @@ $
 :Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum:~+
 et, ut mereámur ássequi quod promíttis,~\* fac nos amáre quod prǽcipis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Dieu tout-puissant et éternel, donnez-nous l'accroissement de la foi, de l'espérance et de la charité;
 et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer vos commandements.§
@@ -418,7 +418,7 @@ Que votre miséricorde, Seigneur,
 purifie et protège sans fin votre Église,
 et, parce qu’elle ne peut sans vous demeurer sauve,
 qu’elle soit toujours gouvernée par votre grâce.§
-\doxologieFR\ Ainsi soit-il.
+\doxologieFR§ Ainsi soit-il.
 $
 
 ### Dominica XVI post Pentecosten
@@ -474,7 +474,7 @@ $
 Accordez, nous vous en supplions, Seigneur,
 à votre peuple d’éviter le contact du diable,
 et de vous suivre d’un cœur pur comme le seul Dieu.
-\doxologieFR\
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -501,7 +501,7 @@ $
 Que votre action miséricordieuse dirige nos cœurs,
 nous vous en supplions, Seigneur,
 parce que nous ne pouvons vous plaire sans vous.§
-\doxologieFR\
+\doxologieFR§
 Ainsi soit-il.
 $
 
@@ -512,7 +512,7 @@ $Dix-neuvième dimanche après la Pentecôte <Dix-neuvième dimanche>$
 ![3:ant:Intravit autem rex](intravit)
 $
 Or le roi entra pour voir ceux qui étaient à table,
-et il vit là un homme qui n'était pas revêtu de la robe nuptiale.
+et il vit là un homme qui n'était pas revêtu\splitafter\ de la robe nuptiale.
 Et il lui dit : Mon ami, comment êtes-vous entré ici sans avoir la robe nuptiale ?
 \rf{_Mt 22, 11-12_}
 $
@@ -581,7 +581,7 @@ $
 :Famíliam tuam, quǽ=su=mus, Dómine, contínua pietáte custódi:~+
 ut a cunctis adversitátibus te protegénte, sit líbera;~\* et in bonis áctibus tuo nómini sit devóta.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. §\R Amen.
 $
 Seigneur, nous vous en supplions,
 gardez votre famille par l’effet d’une bonté continue,
@@ -610,7 +610,7 @@ $
 adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta;~\*
 ut, quod fidéliter pétimus, efficáciter consequámur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Ô Dieu, notre refuge et notre force,
 soyez propice aux pieuses prières de votre Église,
@@ -638,7 +638,7 @@ $
 :Absólve, quǽsumus, Dómine, tuórum delícta populórum:~+
 ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus,~\* tua benignitáte liberémur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Nous vous en supplions, Seigneur,
 absolvez les fautes de votre peuple,
@@ -650,7 +650,7 @@ $
 
 ### Dominica XXIV post Pentecosten
 
-$Vingt-quatrième dimanche après la Pentecôte <Vingt-quatrième dimanche>$
+$Vingt-quatrième dimanche après la Pentecôte <Dernier dimanche>$
 
 ![1:ant:Amen dico… non præteribit](amen_dico)
 $
@@ -668,7 +668,7 @@ $
 :Excita, quǽsumus, Dómine, tuórum fidélium voluntátes:~+
 ut, divíni óperis fructum propénsius exsequéntes;~\* pietátis tuæ remédia maióra percípiant.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Nous vous en supplions, Seigneur,
 animez les volontés de vos fidèles,
@@ -677,3 +677,5 @@ ils reçoivent par votre bonté des secours plus grands.§
 \doxologieFR§
 Ainsi soit-il.
 $
+
+\endrule

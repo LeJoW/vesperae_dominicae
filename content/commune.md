@@ -81,6 +81,8 @@ $
 \Psaume 113 — Le peuple délivré d'Égypte chante son libérateur et le proclame seul vrai Dieu. —
 $
 
+\medskip
+
 ![](deus_autem_noster.ant)
 
 #### Capitulum {2 Cor 1, 3-4}
@@ -109,7 +111,7 @@ $Hymne$
 $
     1.~Dieu bon, créateur de la lumière,
 qui avez produit le flambeau des jours,
-vous avez préludé à l'origine de ce monde en produisant,
+vous avez\splitafter\ préludé à l'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
     2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
 qui s'étend du matin jusqu'au soir,
@@ -126,8 +128,10 @@ qu'elle se purifie de toute iniquité.§
     5.~Faites-nous cette grâce, ô Père très miséricordieux,
 et vous ô Fils unique, égal au Père, qui, 
 avec l'Esprit consolateur,
-régnez dans tous les siècles. Ainsi soit-il.
+régnez dans tous les siècles.§ Ainsi soit-il.
 $
+
+\bigskip
 
 ![](dirigatur_domine)
 $\V Que ma prière s'élève vers vous, Seigneur !§
