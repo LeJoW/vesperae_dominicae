@@ -1,0 +1,20 @@
+\input ../process/tex2pdf/libgen/fonts
+\input ../process/tex2pdf/libgen/output
+
+\font\bigfont=file:Sabon.ttf:script=latn;+upper at 30pt
+\font\mediumfont=file:Sabon.ttf:script=latn;+upper;embolden=1 at 15pt
+
+\hoffset=-1in \voffset=-1in
+\vsize=\pageheight
+\hsize=\pagewidth
+
+\shipout\vbox to \pageheight{\kern5cm
+	\centerline{\bigfont Vêpres}
+	\kern5mm
+	\centerline{\display dominicales}
+	\kern7mm
+	\centerline{\mediumfont\spaceskip=.95em Selon le rite romain}
+	\vfill
+	\line{\hss\hbox{\decorativ\spaceskip=.8em\uppercase{Temps {\it per annum}}\kern2cm}}
+    \kern2cm}
+\end
