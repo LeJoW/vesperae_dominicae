@@ -1,6 +1,6 @@
 ## Proprium temporis a Septuagesima usque ad Quadragesima
 
-$Temps de la \break septuagésime <Temps de la septuagésime>$
+$Temps de la \break septuagésime <Temps de la Septuagésime>$
 
 > Post _Deus, in adiutórium_, ubi dicitur _Allelúia_ dicitur _Laus tibi, Dómine, Rex æternæ glóriæ_.
 > $Après *Deus, in adiutórium*, on dit *Laus tibi, Dómine, Rex æternæ glóriæ* au lieu de *Allelúia*.$
@@ -85,7 +85,7 @@ $
 #### Oraison
 
 :Deus, qui cónspicis quia ex nulla nostra actióne confídimus:~+
-concéde propítius;~* ut contra advérsa ómnia, Doctóris géntium protectióne muniámur.
+concéde propítius;~* ut contra advérsa ómnia Doctóris géntium protectióne muniámur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
