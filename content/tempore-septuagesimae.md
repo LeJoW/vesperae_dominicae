@@ -3,7 +3,7 @@
 $Temps de la \break septuagésime <Temps de la Septuagésime>$
 
 > Post _Deus, in adiutórium_, ubi dicitur _Allelúia_ dicitur _Laus tibi, Dómine, Rex æternæ glóriæ_.
-> $Après *Deus, in adiutórium*, on dit *Laus tibi, Dómine, Rex æternæ glóriæ* au lieu de *Allelúia*.$
+> $À la fin du *Deus, in adiutórium*, on chante *Laus tibi, Dómine, Rex ætérnæ glóriæ* au lieu de *Allelúia*.$
 
 ### Dominica in septuagesima
 
@@ -52,9 +52,9 @@ $
 
 \endrule\pagebreak\cleardoublepage
 
-### Dominica in sexagesima
+### Dominica in Sexagesima
 
-$Dimanche de la sexagésime <Sexagésime>$
+$Dimanche de la Sexagésime <Sexagésime>$
 
 #### Capitulum {2 Cor 11, 19-20}
 
@@ -76,7 +76,7 @@ $Antienne à _Magnificat_$
 
 ![6:ant:Vobis datum est](vobis_datum)
 $
-À vous, il a été donné de connaître les mystères du royaume de Dieu : aux autres, seulement en paroles, dit Jésus à ses disciples.
+À vous, il a été donné de connaître les mystères du royaume de Dieu : aux autres, seulement en paraboles, dit Jésus à ses disciples.
 \rf{_Lc 8, 10_}
 $
 
@@ -84,10 +84,10 @@ $
 
 #### Oraison
 
-:Deus, qui cónspicis quia ex nulla nostra actióne confídimus:~+
+:Deus, qui cónspicis quia ex nulla nostra actióne confídimus: +
 concéde propítius;~* ut contra advérsa ómnia Doctóris géntium protectióne muniámur.
-Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
 Ô Dieu, qui voyez que nous ne nous confions en aucune de nos œuvres,
 daignez nous accorder d’être protégés contre tous les maux par l’assistance du Docteur des Gentils.§
@@ -95,6 +95,52 @@ daignez nous accorder d’être protégés contre tous les maux par l’assistan
 Ainsi soit-il.
 $
 
-\endrule
+\endrule\pagebreak\cleardoublepage
+
+### Dominica in Quinquagesima
+
+$Dimanche de la Quinquagésime <Quinquagésime>$
+
+#### Capitulum {1 Cor 13, 1}
+
+$Capitule$
+
+:Fratres: Si linguis hóminum loquar et Angelórum, +
+caritátem autem non hábeam, \*
+factus sum velut æs sonans, aut cýmbalum tínniens.§
+\R Déo grátias.
+$
+Mes Frères, quand je parlerais toutes les langues des hommes et des Anges mêmes,
+si je n’ai la charité, je ne suis que comme un airain sonnant ou une cymbale retentissante.§
+\R Rendons grâces à Dieu.
+$
+
+#### Ad Magnificat, Antiphona
+
+$Antienne à _Magnificat_$
+
+![1:ant:Stans autem Iesus](stans_autem)
+$
+Jésus, s’étant arrêté, commanda qu’on lui amenât l’aveugle, et il lui dit :
+Que veux-tu que je te fasse ? —~Seigneur, que je voie. Et Jésus lui dit :
+Vois, c’est ta foi qui t’a sauvé. Et au même instant il vit, et il le suivait glorifiant Dieu.
+\rf{_Lc 18, 40-43_}
+$
+
+@(1D)[MagnificatG]
+
+#### Oraison
+
+:Preces nostras, quǽsumus, Dómine, cleménter exáudi: +
+atque a peccatórum vínculis absolútos, \*
+ab omni nos adversitáte custódi.
+Per Dóminum nostrum Iesum Christum.
+\R Amen.
+$
+Daignez, Seigneur, exaucer nos prières dans votre clémence,
+et après nous avoir dégagés des liens de nos péchés, gardez-nous de toute adversité.
+Par Jésus-Christ notre Seigneur.§
+Ainsi soit-il.
+$
 
 <hyphens file="tex2pdf/source/la-hyphenation.dic"/>
