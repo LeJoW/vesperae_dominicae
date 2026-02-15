@@ -30,7 +30,7 @@ $Antienne à _Magnificat_$
 $
 Le père de famille dit à ses ouvriers : «\thinspace Pourquoi demeurez-vous ici tout le long du jour sans travailler\thinspace?\thinspace»
 Et ils lui répondirent : «\thinspace Parce que personne ne nous a loués.\thinspace»
-—~Allez-vous-en aussi dans ma vigne\thinspace; et je vous donnerai ce qui sera juste.
+–~Allez-vous-en aussi dans ma vigne\thinspace; et je vous donnerai ce qui sera juste.
 \rf{_Mt 20, 4-7_}
 $
 
@@ -47,7 +47,7 @@ Nous vous supplions, Seigneur, d’exaucer dans votre clémence les prières de 
 afin que nous, qui sommes justement affligés pour nos péchés,
 soyons miséricordieusement délivrés pour la gloire de votre nom.
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 \endrule\pagebreak\cleardoublepage
@@ -92,7 +92,7 @@ $
 Ô Dieu, qui voyez que nous ne nous confions en aucune de nos œuvres,
 daignez nous accorder d’être protégés contre tous les maux par l’assistance du Docteur des Gentils.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 \endrule\pagebreak\cleardoublepage
@@ -122,7 +122,7 @@ $Antienne à _Magnificat_$
 ![1:ant:Stans autem Iesus](stans_autem)
 $
 Jésus, s’étant arrêté, commanda qu’on lui amenât l’aveugle, et il lui dit :
-Que veux-tu que je te fasse ? —~Seigneur, que je voie. Et Jésus lui dit :
+Que veux-tu que je te fasse ? –~Seigneur, que je voie. Et Jésus lui dit :
 Vois, c’est ta foi qui t’a sauvé. Et au même instant il vit, et il le suivait glorifiant Dieu.
 \rf{_Lc 18, 40-43_}
 $
@@ -140,7 +140,7 @@ $
 Daignez, Seigneur, exaucer nos prières dans votre clémence,
 et après nous avoir dégagés des liens de nos péchés, gardez-nous de toute adversité.
 Par Jésus-Christ notre Seigneur.§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 <hyphens file="tex2pdf/source/la-hyphenation.dic"/>
