@@ -2,7 +2,7 @@
 
 $Prore du\break temps pascale <Temps Pascale>$
 
-### Dominica I post Pascha
+### Dominica in Albis
 
 $Dimanche de Quasimodo <Quasimodo>$
 
@@ -44,6 +44,49 @@ nous en retenions l’esprit dans nos habitudes et dans notre vie.§
 \R Ainsi soit-il.
 $
 
-\endrule
+
+### Dominica II post Pascha
+
+$Deuxième dimanche après Pâques <Deuxième dimanche>$
+
+#### Capitulum {1 Pet 1, 21-22} 
+
+$Capitule$
+
+:Caríssimi: Christus passus est pro nobis, +
+vobis relínquens exémplum ut sequámini vestígia eius. \*
+Qui peccátum non fecit, nec invéntus est dolus in ore eius.
+$
+Mes bien-aimés, le Christ a souffert pour nous, vous laissant ainsi un exemple,
+afin que vous suiviez ses traces. Lui qui n'avait commis aucun péché,
+et dans la bouche duquel la tromperie ne se trouva jamais.
+$
+
+#### Ad Magnificat, Antiphona
+
+$Antienne à _Magnificat_$
+
+![3:ant:Ego sum pastor](ego_sum_pastor)
+$
+Je suis le bon Pasteur : c'est moi qui pais mes brebis, et pour elles je donne ma vie, alleluia.
+\rf{_Io 10, 11_}
+$
+
+@(3a)[MagnificatG]
+
+#### Oraison
+
+:Deus, qui in Fílii tui humilitáte iacéntem mundum erexísti: +
+fidélibus tuis perpétuam concéde lætítiam;\*
+ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+O Dieu qui, dans l'humiliation avez relevé le monde abattu ;
+accordez à vos fidèles une joie constante, et faites jouir de l'éternelle allégresse
+ceux que vous avez arraches aux dangers d'une mort sans fin.§
+\doxologieFR§
+\R Ainsi soit-il.
+$
 
 <hyphens file="tex2pdf/source/la-hyphenation.dic"/>
