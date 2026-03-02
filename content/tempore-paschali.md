@@ -1,6 +1,6 @@
 ## Proprium temporis Paschali
 
-$Prore du\break temps pascale <Temps Pascale>$
+$Propre du\break temps pascal <Temps Pascal>$
 
 ### Dominica in Albis
 
@@ -38,7 +38,7 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
 Faites, s’il vous plaît, ô Dieu tout-puissant,
-qu’avant achevé la célébration des fêtes pascales,
+qu’ayant achevé la célébration des fêtes pascales,
 nous en retenions l’esprit dans nos habitudes et dans notre vie.§
 \doxologieFR§
 \R Ainsi soit-il.
@@ -84,7 +84,54 @@ qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽc
 $
 O Dieu qui, dans l'humiliation avez relevé le monde abattu ;
 accordez à vos fidèles une joie constante, et faites jouir de l'éternelle allégresse
-ceux que vous avez arraches aux dangers d'une mort sans fin.§
+ceux que vous avez arrachés aux dangers d'une mort sans fin.§
+\doxologieFR§
+\R Ainsi soit-il.
+$
+
+### Dominica III post Pascha
+
+$Troisième dimanche après Pâques <Troisième dimanche>$
+
+#### Capitulum {1 Pet 1, 21-22} 
+
+$Capitule$
+
+:Caríssimi: Obsecro vos tamquam ádvenas et peregrínos, +
+abstinére vos a carnálibus desidériis, \*
+quæ mílitant advérsus ánimam.
+$
+Bien-aimés, je vous exhorte, comme étrangers et voyageurs,
+à vous abstenir des désirs charnels qui combattent contre l’âme.§
+\R Rendons grâces à Dieu.
+$
+
+#### Ad Magnificat, Antiphona
+
+$Antienne à _Magnificat_$
+
+![8:ant:Amen, … quia plorabitis](amen_quia_plorabitis)
+$
+En vérité, je vous le dis : vous pleurerez et vous gémirez,
+et le monde sera dans la joie ; vous serez dans la tristesse ;
+mais votre tristesse se tournera en joie, alleluia.
+\rf{_Io 16, 20_}
+$
+
+@(8G)[MagnificatG]
+
+#### Oraison
+
+:Deus, qui errántibus, ut in viam possint redíre iustítiæ, veritátis tuæ lumen osténdis: +
+da cunctis, qui christiána professióne censéntur, et illa respúere, quæ huic inimíca sunt nómini; \*
+et ea, quæ sunt apta, sectári.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+$
+O Dieu, qui faites voir la lumière de votre vérité à ceux qui sont dans l'erreur,
+afin qu'ils puissent rentrer dans la voie de la justice ;
+accordez à tous ceux qui font profession d'être chrétiens la grâce de repousser
+tout ce qui est contraire à un tel nom, et d'embrasser tout ce qui lui est conforme.
 \doxologieFR§
 \R Ainsi soit-il.
 $
