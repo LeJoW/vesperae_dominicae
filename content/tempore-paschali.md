@@ -10,7 +10,7 @@ $Dimanche de Quasimodo <Quasimodo>$
 
 $Capitule$
 
-:Caríssimi: Omne, quod natum est ex Deo, vincit mundum: +
+:Caríssimi: Omne quod natum est ex Deo, vincit mundum: +
 et hæc est victória, quæ vincit mundum, \* fides nostra.
 \R Deo grátias.
 $Mes bien-aimés, quiconque est né de Dieu est victorieux du monde ;
@@ -25,14 +25,14 @@ $Antienne à _Magnificat_$
 ![8:ant:Post dies octo](post_dies_octo)
 $
 Huit jours après, le Seigneur entra, les portes fermées, et leur dit : La paix soit avec vous! Alleluia, alleluia.
-\rf{_Io 20, 19-20_}
+\rf{_Io 20, 26_}
 $
 
 @(8c)[MagnificatG]
 
 #### Oraison
 
-:Præsta, quǽsumus, omnípotens Deus: + ut qui paschália festa perégimus, \*
+:Præsta, quǽsumus, omnípotens Deus: + ut, qui paschália festa perégimus, \*
 hæc, te largiénte, móribus et vita teneámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
