@@ -136,4 +136,51 @@ tout ce qui est contraire à un tel nom, et d'embrasser tout ce qui lui est conf
 \R Ainsi soit-il.
 $
 
+### Dominica IV post Pascha
+
+$Quatrième dimanche après Pâques <Quatrième dimanche>$
+
+#### Capitulum {Iac 1, 17} 
+
+$Capitule$
+
+:Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est,
+descéndens a Patre lúminum, + apud quem non est transmutátio, \*
+nec vicissitúdinis obumbrátio. \R Déo grátias.
+$
+Mes bien-aimés , toute grâce excellente et tout don parfait viennent d'en haut,
+et descendent du Père des lumières, chez lequel il n'y a ni changement, ni ombre de vicissitude.§
+\R Rendons grâces à Dieu.
+$
+
+#### Ad Magnificat, Antiphona
+
+$Antienne à _Magnificat_$
+
+![2:ant:Vado ad eum](vado_ad_eum)
+$
+Je m en vais a celui qui m'a envoyé;
+mais parce que je vous ai dit ces choses,
+la tristesse a rempli votre cœur, alleluia.
+\rf{_Io 16, 5-6_}
+$
+
+@(2d)[MagnificatG]
+
+#### Oraison
+
+:Deus, qui fidélium mentes uníus éfficis voluntátis: +
+da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; \*
+ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
+\R Amen.
+$
+O Dieu, qui unissez les esprits des fidèles en une même volonté,
+donnez à vos peuples d'aimer ce que vous leur commandez, de désirer ce que vous leur promettez ;
+afin qu'au milieu des changements de ce monde, nos cœurs demeurent fixés là où sont les seules joies véritables.§
+\doxologieFR§
+\R Ainsi soit-il.
+$
+
 <hyphens file="tex2pdf/source/la-hyphenation.dic"/>
