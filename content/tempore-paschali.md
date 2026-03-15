@@ -183,4 +183,55 @@ afin qu'au milieu des changements de ce monde, nos cœurs demeurent fixés là o
 \R Ainsi soit-il.
 $
 
+### Dominica V post Pascha
+
+$Cinquième dimanche après Pâques <Cinquième dimanche>$
+
+#### Capitulum {Iac 1, 22-24} 
+
+$Capitule$
+
+:Caríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. +
+Quia si quis audítor est verbi, et non factor,
+hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: \*
+considerávit enim se, et ábiit, et statim oblítus est qualis fúerit. \R Déo grátias.
+$
+Mes bien-aimés, accomplissez la parole qui vous est enseignée,
+ne vous contentant pas de l'écouter, en vous trompant vous-mêmes.
+Car celui qui écoute la parole sans la pratiquer,
+est semblable à un homme qui considère son visage naturel dans un miroir,
+et qui à peine l'y a vu, s'en va, et oublie à l'instant même quel il était.§
+\R Rendons grâces à Dieu.
+$
+
+#### Ad Magnificat, Antiphona
+
+$Antienne à _Magnificat_$
+
+![8:ant:Petite](petite)
+$
+Demandez et vous recevrez, afin que votre joie soit complète;
+car mon Père lui-même vous aime, parce que vous m’avez aimé,
+et que vous avez cru en moi, alleluia.
+\rf{_Io 16, 24-28_}
+$
+
+@(8G)[MagnificatG]
+
+#### Oraison
+
+:Deus, a quo bona cuncta procédunt, largíre supplícibus tuis: +
+ut cogitémus, te inspiránte, quæ recta sunt; \*
+et, te gubernánte, éadem faciámus.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+$
+Ô Dieu, vous de qui procèdent tous les biens,
+accordez à nos humbles prières que, par votre inspiration,
+nos pensées se portent à ce qui est bien,
+et daignez nous accorder votre conduite pour l'accomplir.
+\doxologieFR§
+\R Ainsi soit-il.
+$
+
 <hyphens file="tex2pdf/source/la-hyphenation.dic"/>
