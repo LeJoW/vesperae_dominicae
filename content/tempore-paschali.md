@@ -112,7 +112,7 @@ $Antienne à _Magnificat_$
 
 ![8:ant:Amen, … quia plorabitis](amen_quia_plorabitis)
 $
-En vérité, en vérité, je vous le dis : vous pleurerez et vous gémirez vous,
+En vérité, en vérité, je vous le dis : vous pleurerez et vous gémirez, vous,
 et le monde sera dans la joie ; vous serez dans la tristesse ;
 mais votre tristesse se tournera en joie, alleluia.
 \rf{_Io 16, 20_}
@@ -130,7 +130,7 @@ qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽc
 $
 Ô Dieu, qui daignez montrer à ceux qui sont dans l'erreur la lumière de votre vérité,
 afin qu'ils puissent rentrer dans la voie de la justice ;
-accordez à tous ceux qui font profession d'être chrétiens la grâce d’éloiger d’eux
+accordez à tous ceux qui font profession d'être chrétiens la grâce d’éloigner d’eux
 tout ce que repousse ce beau nom, et de suivre fidèlement tout ce à quoi il engage.
 \doxologieFR§
 \R Ainsi soit-il.
@@ -146,7 +146,7 @@ $Capitule$
 
 :Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est,
 descéndens a Patre lúminum, + apud quem non est transmutátio, \*
-nec vicissitúdinis obumbrátio. \R Déo grátias.
+nec vicissitúdinis obumbrátio. \R Deo grátias.
 $
 Mes bien-aimés, toute grâce excellente et tout don parfait viennent d'en haut,
 et descendent du Père des lumières, chez lequel il n'y a ni changement, ni ombre de vicissitude.§
@@ -159,7 +159,7 @@ $Antienne à _Magnificat_$
 
 ![2:ant:Vado ad eum](vado_ad_eum)
 $
-Je m en vais a celui qui m'a envoyé;
+Je m'en vais à celui qui m'a envoyé;
 mais parce que je vous ai dit ces choses,
 la tristesse a rempli votre cœur, alleluia.
 \rf{_Io 16, 5-6_}
@@ -176,7 +176,7 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
-O Dieu, qui unissez les esprits des fidèles en une même volonté,
+Ô Dieu, qui unissez les esprits des fidèles en une même volonté,
 donnez à vos peuples d'aimer ce que vous leur commandez, de désirer ce que vous leur promettez ;
 afin qu'au milieu des changements de ce monde, nos cœurs demeurent fixés là où sont les seules joies véritables.§
 \doxologieFR§
@@ -192,9 +192,9 @@ $Cinquième dimanche après Pâques <Cinquième dimanche>$
 $Capitule$
 
 :Caríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. +
-Quia si quis audítor est verbi, et non factor,
+Quia, si quis audítor est verbi, et non factor :
 hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: \*
-considerávit enim se, et ábiit, et statim oblítus est qualis fúerit. \R Déo grátias.
+considerávit enim se, et ábiit, et statim oblítus est qualis fúerit. \R Deo grátias.
 $
 Mes bien-aimés, accomplissez la parole qui vous est enseignée,
 ne vous contentant pas de l'écouter, en vous trompant vous-mêmes.
