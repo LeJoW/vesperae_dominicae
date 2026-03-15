@@ -44,17 +44,16 @@ nous en retenions l’esprit dans nos habitudes et dans notre vie.§
 \R Ainsi soit-il.
 $
 
-
 ### Dominica II post Pascha
 
 $Deuxième dimanche après Pâques <Deuxième dimanche>$
 
-#### Capitulum {1 Pet 1, 21-22} 
+#### Capitulum {1 Petr 2, 21-22}
 
 $Capitule$
 
 :Caríssimi: Christus passus est pro nobis, +
-vobis relínquens exémplum ut sequámini vestígia eius. \*
+vobis relínquens exémplum, ut sequámini vestígia eius. \*
 Qui peccátum non fecit, nec invéntus est dolus in ore eius.
 $
 Mes bien-aimés, le Christ a souffert pour nous, vous laissant ainsi un exemple,
@@ -69,7 +68,7 @@ $Antienne à _Magnificat_$
 ![3:ant:Ego sum pastor](ego_sum_pastor)
 $
 Je suis le bon Pasteur : c'est moi qui pais mes brebis, et pour elles je donne ma vie, alleluia.
-\rf{_Io 10, 11_}
+\rf{_Io 10, 11 & 15_}
 $
 
 @(3a)[MagnificatG]
@@ -79,13 +78,14 @@ $
 :Deus, qui in Fílii tui humilitáte iacéntem mundum erexísti: +
 fidélibus tuis perpétuam concéde lætítiam;\*
 ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis.
-Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
+Per eúndem Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
 $
-O Dieu qui, dans l'humiliation avez relevé le monde abattu ;
+Ô Dieu qui, dans l'humiliation de votre Fils, avez relevé le monde abattu ;
 accordez à vos fidèles une joie constante, et faites jouir de l'éternelle allégresse
 ceux que vous avez arrachés aux dangers d'une mort sans fin.§
-\doxologieFR§
+Par le même Jésus-Christ notre Seigneur, votre Fils, qui vit et règne avec vous
+	en l’unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.§
 \R Ainsi soit-il.
 $
 
