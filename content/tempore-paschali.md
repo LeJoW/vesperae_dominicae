@@ -93,7 +93,7 @@ $
 
 $Troisième dimanche après Pâques <Troisième dimanche>$
 
-#### Capitulum {1 Pet 1, 21-22} 
+#### Capitulum {1 Petr 2, 11}
 
 $Capitule$
 
@@ -101,7 +101,7 @@ $Capitule$
 abstinére vos a carnálibus desidériis, \*
 quæ mílitant advérsus ánimam.
 $
-Bien-aimés, je vous exhorte, comme étrangers et voyageurs,
+Mes bien-aimés, je vous exhorte, comme étrangers et voyageurs,
 à vous abstenir des désirs charnels qui combattent contre l’âme.§
 \R Rendons grâces à Dieu.
 $
@@ -112,7 +112,7 @@ $Antienne à _Magnificat_$
 
 ![8:ant:Amen, … quia plorabitis](amen_quia_plorabitis)
 $
-En vérité, je vous le dis : vous pleurerez et vous gémirez,
+En vérité, en vérité, je vous le dis : vous pleurerez et vous gémirez vous,
 et le monde sera dans la joie ; vous serez dans la tristesse ;
 mais votre tristesse se tournera en joie, alleluia.
 \rf{_Io 16, 20_}
@@ -128,10 +128,10 @@ et ea, quæ sunt apta, sectári.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
-O Dieu, qui faites voir la lumière de votre vérité à ceux qui sont dans l'erreur,
+Ô Dieu, qui daignez montrer à ceux qui sont dans l'erreur la lumière de votre vérité,
 afin qu'ils puissent rentrer dans la voie de la justice ;
-accordez à tous ceux qui font profession d'être chrétiens la grâce de repousser
-tout ce qui est contraire à un tel nom, et d'embrasser tout ce qui lui est conforme.
+accordez à tous ceux qui font profession d'être chrétiens la grâce d’éloiger d’eux
+tout ce que repousse ce beau nom, et de suivre fidèlement tout ce à quoi il engage.
 \doxologieFR§
 \R Ainsi soit-il.
 $
