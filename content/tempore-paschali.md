@@ -148,7 +148,7 @@ $Capitule$
 descéndens a Patre lúminum, + apud quem non est transmutátio, \*
 nec vicissitúdinis obumbrátio. \R Déo grátias.
 $
-Mes bien-aimés , toute grâce excellente et tout don parfait viennent d'en haut,
+Mes bien-aimés, toute grâce excellente et tout don parfait viennent d'en haut,
 et descendent du Père des lumières, chez lequel il n'y a ni changement, ni ombre de vicissitude.§
 \R Rendons grâces à Dieu.
 $
