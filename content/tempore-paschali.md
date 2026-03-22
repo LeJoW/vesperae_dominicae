@@ -140,7 +140,7 @@ $
 
 $Quatrième dimanche après Pâques <Quatrième dimanche>$
 
-#### Capitulum {Iac 1, 17} 
+#### Capitulum {Iac 1, 17}
 
 $Capitule$
 
@@ -187,7 +187,7 @@ $
 
 $Cinquième dimanche après Pâques <Cinquième dimanche>$
 
-#### Capitulum {Iac 1, 22-24} 
+#### Capitulum {Iac 1, 22-24}
 
 $Capitule$
 
@@ -230,6 +230,57 @@ $
 accordez à nos humbles prières que, par votre inspiration,
 nos pensées se portent à ce qui est bien,
 et daignez nous accorder votre conduite pour l'accomplir.
+\doxologieFR§
+\R Ainsi soit-il.
+$
+
+### Dominica infra octavam Ascensionis
+
+$Le dimanche dans l’octave de l’Ascension <Dimanche après l’Ascension>$
+
+#### Capitulum {1 Petr 4, 7-8}
+
+$Capitule$
+
+:Caríssimi: Estóte prudéntes, et vigiláte in oratiónibus. +
+Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes,
+quia cáritas óperit multitúdinem peccatórum.
+$
+Mes bien-aimés, soyez prudents et veillez dans la prière ;
+mais avant tout, ayez une charité persévérante les uns envers les autres :
+car la charité couvre la multitude des péchés.§
+\R Rendons grâces à Dieu.
+$
+
+Hymne *Iesu nostra redemptio*.
+
+\V Dóminus in cælo, allelúia.§
+\R Parávit sedem suam, allelúia.
+
+#### Ad Magnificat, Antiphona
+
+$Antienne à _Magnificat_$
+
+![8:ant:Hæc locutus sum](haec_locutus_sum)
+$
+Je vous ai dit ces choses, afin que lorsque l'heure sera venue,
+vous vous souveniez que je vous les ai dites, alleluia.
+\rf{_Io 16, 4_}
+$
+
+@(8G)[MagnificatG]
+
+#### Oraison
+
+:Omnípotens sempitérne Deus: +
+fac nos tibi semper et devótam gérere voluntátem; \*
+et maiestáti tuæ sincéro corde servíre.
+Per Dóminum nostrum Iesum Christum, Fílium tuum: +
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+\R Amen.
+$
+Dieu tout-puissant et éternel, faites que notre volonté vous soit toujours dévouée,
+et que nous servions votre majesté d'un cœur sincère.§
 \doxologieFR§
 \R Ainsi soit-il.
 $
