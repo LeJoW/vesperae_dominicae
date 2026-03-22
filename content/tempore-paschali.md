@@ -252,10 +252,41 @@ car la charité couvre la multitude des péchés.§
 \R Rendons grâces à Dieu.
 $
 
-Hymne *Iesu nostra redemptio*.
+#### Hymnus
 
-\V Dóminus in cælo, allelúia.§
-\R Parávit sedem suam, allelúia.
+$Hymne$
+
+![4:hymn:Salutis humanæ](salutis_humanæ)
+$
+1.~Auteur du salut de l'homme,
+ô Jésus, amour des cœurs,
+créateur de ce monde\splitafter\ que vous avez racheté,
+chaste lumière de ceux qui vous aiment.§
+	2.~Vaincu par votre clémence,
+vous vous étiez chargé de nos crimes;
+innocent, vous souffrîtes la mort,
+afin de nous arracher nous-mêmes au trépas.§
+	3.~Votre bras a brisé les portes des enfers,
+vous avez fait tomber les chaînes des captifs;
+après votre victoire vous avez obtenu le plus noble triomphe,
+et vous êtes venu vous asseoir à la droite du Père.§
+	4.~Laissez-vous fléchir par votre bonté,
+daignez réparer nos malheurs nouveaux ;
+montrez-nous votre visage divin,
+donnez-nous le bonheur au sein de la lumière
+qui rend heureuses les âmes.§
+	5.~Vous êtes notre guide et notre sentier jusqu'aux cieux;
+soyez aussi le but que désirent nos cœurs ;
+soyez la joie de nos larmes et la douce
+récompense d'une vie consacrée à vous.§
+Ainsi soit-il.
+$
+
+\bigskip
+
+![](dominus_in_caelo)
+$\indent\V Au ciel, le Seigneur, alleluia,§
+\R a préparé son trône, alleluia.$
 
 #### Ad Magnificat, Antiphona
 
