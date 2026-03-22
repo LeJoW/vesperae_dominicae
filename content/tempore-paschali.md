@@ -213,7 +213,7 @@ $
 Demandez et vous recevrez, afin que votre joie soit complète;
 car mon Père lui-même vous aime, parce que vous m’avez aimé,
 et que vous avez cru en moi, alleluia.
-\rf{_Io 16, 24-28_}
+\rf{_Io 16, 24-27_}
 $
 
 @(8G)[MagnificatG]
