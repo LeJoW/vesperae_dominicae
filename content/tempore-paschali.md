@@ -2,6 +2,8 @@
 
 $Propre du\break temps pascal <Temps Pascal>$
 
+\label{proprium}
+
 ### Dominica in Albis
 
 $Dimanche de Quasimodo <Quasimodo>$
@@ -256,6 +258,8 @@ $
 
 $Hymne$
 
+\label{salutis}
+
 ![4:hymn:Salutis humanæ](salutis_humanæ)
 $
 1.~Auteur du salut de l'homme,
@@ -287,6 +291,8 @@ $
 ![](dominus_in_caelo)
 $\indent\V Au ciel, le Seigneur, alleluia,§
 \R a préparé son trône, alleluia.$
+
+\label{versiculum}
 
 #### Ad Magnificat, Antiphona
 
