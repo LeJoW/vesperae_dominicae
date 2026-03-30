@@ -37,10 +37,6 @@ $Capitule$
 
 $Hymne$
 
-=> De hymno
-=> $Dans l’octave de l’Ascension, on ne chante pas l’hymne qui suit
-mais l’hymne de la fête, p.\thinspace\pageref{salutis}.$
-
 ![8:hymn:Ad regias](ad_regias)
 $   Après le passage de la mer Rouge,
 couverts de nos robes blanches
@@ -77,6 +73,12 @@ dans les siècles éternels !§
 Ainsi soit-il.
 $
 
+=> De hymno
+=> $Dans l’octave de l’Ascension, on chante l’hymne
+de la fête, p.\thinspace\pageref{salutis}.$
+
+\smallskip
+
 ![](mane_nobiscum)
 $\indent\V Demeurez avec nous, Seigneur, alleluia ;§
 \R Car le soir est venu, alleluia.$
@@ -84,6 +86,8 @@ $\indent\V Demeurez avec nous, Seigneur, alleluia ;§
 => De versiculum
 => $Dans l’octave de l’Ascension, on ne chante pas ce verset
 mais celui qui se trouve à la suite de l’hymne propre, p.\thinspace\pageref{versiculum}.$
+
+\smallskip
 
 > De proprium
 > $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\thinspace\pageref{proprium} et suivantes.$
@@ -102,7 +106,8 @@ ${}$
 $\indent\V Le Seigneur soit avec vous.§
 \R Et avec votre esprit.$
 
-=> Seul, ou si l'officiant n'est pas prêtre, on dit :
+=> Ce \kern1pt*\V Dóminus vobíscum* ne doit pas être dit par l’officiant s’il n’est pas
+au moins diacre; à la place, on lui substitut :
 
 ![](domine_exaudi)
 $\indent\V Seigneur, exaucez ma prière.§
@@ -113,22 +118,23 @@ $\indent\V Seigneur, exaucez ma prière.§
 > $On ajoute les mémoires, s'il s'en présente.
 > La dernière oraison étant achevée, on dit:$
 
-\V Dóminus vobíscum.§
+\V Dóminus vobíscum.
 \R Et cum spíritu tuo.
 
-=> Ou :
+\smallskip
 
-\V Dómine, exáudi oratiónem meam.§
-\R Et clamor meus ad te véniat.
+=> Ou \kern1pt*\V Dómine, exáudi oratiónem meam* comme ci-dessus.
 
 > Cantatores:
 > $Les chantres:$
 
 ![](benedicamus_domino)
-$Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
+$\indent\V Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
 
 > Qui officit, dicit recto tono in grave leviter tono
-> $L'officiant dit ensuite {\rm recto tono} sur un ton un peu bas:$
+> $L'officiant dit ensuite *recto tono* sur un ton un peu bas:$
+
+\smallskip
 
 \V Fidélium ánimæ per misericórdiam Dei requiéscant in pace. \R Amen.
 $\V Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix. \R Ainsi soit-il.$
