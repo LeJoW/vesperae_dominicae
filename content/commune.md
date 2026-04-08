@@ -1,6 +1,6 @@
 ## Commune temporis Paschali
 
-$Aux dimanches du temps pascal <Vêpres dominicales>$
+$Aux dimanches du \xldisplayfont temps pascal <Vêpres dominicales>$
 
 ### Ordinarium
 
@@ -8,7 +8,7 @@ $À vêpres <Au temps pascal>$
 
 ![](deus_in_adiutorium)
 $
-\indent\V Ô Dieu ! venez à mon aide !§
+Ô Dieu ! venez à mon aide !
 \R Hâtez-vous, Seigneur, de me secourir.
 Gloire au Père, et au Fils, et au Saint-Esprit ;
 Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles.
@@ -19,12 +19,12 @@ $
 
 ![7:ant:Alleluia](alleluia)
 
-%@(7c2)[109G: Psalmus 109;; 110G: Psalmus 110;; 111G: Psalmus 111;; 112G: Psalmus 112;; 113G: Psalmus 113]
-%$Psaume 109;; Psaume 110;; Psaume 111;; Psaume 112;; Psaume 113$
+@(7c2)[109G: Psalmus 109;; 110G: Psalmus 110;; 111G: Psalmus 111;; 112G: Psalmus 112;; 113G: Psalmus 113]
+$Psaume 109;; Psaume 110;; Psaume 111;; Psaume 112;; Psaume 113$
+
+\smallskip
 
 ![](alleluia.ant)
-
-\bigskip
 
 #### Capitulum
 
@@ -46,7 +46,7 @@ chantons au Christ notre roi.§
 nous verse à boire son propre sang ;
 c’est son amour qui sacrifie en victime
 les membres de son corps sacré.§
-    3.~L’Ange exterminateur est saisi de crainte\splitafter\
+    3.~L’Ange exterminateur est saisi de crainte
 à la vue du sang dont nos portes sont marquées ;
 la mer divisée en deux fuit devant nous ;
 nos ennemis sont submergés sous les flots.§
@@ -56,7 +56,7 @@ il est l’azyme de sincérité
 pour les cœurs purs.§
     5.~Ô victime véritable venue du ciel,
 par qui l’enfer est abattu,
-les liens de la mort brisés,
+les liens de la mort\splitafter\ brisés,
 les dons de la vie restitués.§
     6.~Vainqueur de la mort qu’il a terrassée,
 le Christ déploie son étendard ;
@@ -69,7 +69,7 @@ ceux que vous avez fait renaître à la vie.§
     8.~À Dieu le Père soit la gloire !
 gloire au Fils, ressuscité d’entre les morts !
 et gloire au Paraclet
-dans les siècles éternels !§
+dans les siècles éternels !
 Ainsi soit-il.
 $
 
@@ -77,7 +77,7 @@ $
 => $Dans l’octave de l’Ascension, on chante l’hymne
 de la fête, p.\thinspace\pageref{salutis}.$
 
-\smallskip
+\bigskip
 
 ![](mane_nobiscum)
 $\indent\V Demeurez avec nous, Seigneur, alleluia ;§
@@ -99,19 +99,27 @@ $Cantique de la B.~Vierge Marie$
 @(0)[MagnificatG]
 ${}$
 
+\bigskip
+
 > Antiphona repetitur, deinde, celebrans propriam orationem dicit.
 > $On répète l'antienne, puis l’officiant dit l'oraison propre du jour.$
+
+\medskip
 
 ![](dominus_vobiscum)
 $\indent\V Le Seigneur soit avec vous.§
 \R Et avec votre esprit.$
 
-=> Ce \kern1pt*\V Dóminus vobíscum* ne doit pas être dit par l’officiant s’il n’est pas
+=> Ce \kern1pt_\V Dóminus vobíscum_ ne doit pas être dit par l’officiant s’il n’est pas
 au moins diacre; à la place, on lui substitut :
+
+\bigskip
 
 ![](domine_exaudi)
 $\indent\V Seigneur, exaucez ma prière.§
 \R Et que mon cris parvienne jusqu'à vous.$
+
+\bigskip
 
 > Memores adduntur.
 > Ultima oratione dicta, dicitur:
@@ -121,20 +129,24 @@ $\indent\V Seigneur, exaucez ma prière.§
 \V Dóminus vobíscum.
 \R Et cum spíritu tuo.
 
-\smallskip
+\medskip
 
-=> Ou \kern1pt*\V Dómine, exáudi oratiónem meam* comme ci-dessus.
+=> Ou \kern1pt_\V Dómine, exáudi oratiónem meam_ comme ci-dessus.
+
+\eject
 
 > Cantatores:
 > $Les chantres:$
+
+\medskip
 
 ![](benedicamus_domino)
 $\indent\V Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
 
 > Qui officit, dicit recto tono in grave leviter tono
-> $L'officiant dit ensuite *recto tono* sur un ton un peu bas:$
+> $L'officiant dit ensuite _recto tono_ sur un ton un peu bas:$
 
-\smallskip
+\medskip
 
 \V Fidélium ánimæ per misericórdiam Dei requiéscant in pace. \R Amen.
 $\V Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix. \R Ainsi soit-il.$

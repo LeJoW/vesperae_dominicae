@@ -120,6 +120,8 @@ mais votre tristesse se tournera en joie, alleluia.
 \rf{_Io 16, 20_}
 $
 
+\medskip
+
 @(8G)[MagnificatG]
 
 #### Oraison
@@ -166,6 +168,8 @@ mais parce que je vous ai dit ces choses,
 la tristesse a rempli votre cœur, alleluia.
 \rf{_Io 16, 5-6_}
 $
+
+\medskip
 
 @(2d)[MagnificatG]
 
@@ -264,7 +268,7 @@ $Hymne$
 $
 1.~Auteur du salut de l'homme,
 ô Jésus, amour des cœurs,
-créateur de ce monde\splitafter\ que vous avez racheté,
+créateur de ce monde que vous avez racheté,
 chaste lumière de ceux qui vous aiment.§
 	2.~Vaincu par votre clémence,
 vous vous étiez chargé de nos crimes;
@@ -275,7 +279,7 @@ vous avez fait tomber les chaînes des captifs;
 après votre victoire vous avez obtenu le plus noble triomphe,
 et vous êtes venu vous asseoir à la droite du Père.§
 	4.~Laissez-vous fléchir par votre bonté,
-daignez réparer nos malheurs nouveaux ;
+daignez réparer\splitafter\ nos malheurs nouveaux ;
 montrez-nous votre visage divin,
 donnez-nous le bonheur au sein de la lumière
 qui rend heureuses les âmes.§
@@ -321,5 +325,3 @@ et que nous servions votre majesté d'un cœur sincère.§
 \doxologieFR§
 \R Ainsi soit-il.
 $
-
-<hyphens file="tex2pdf/source/la-hyphenation.dic"/>

@@ -1,5 +1,5 @@
 \def\rf#1{{\unskip\nobreak\hfil\penalty50%
-			\hskip1ex\hbox{}\nobreak\hfil\hbox{#1}%
+			\hskip\spaceskip\hbox{}\nobreak\hfil\hbox{#1}%
 			\parfillskip=0pt \finalhyphendemerits=0 \par}}
 \def\bw{\vskip-1mm}
 \def\doxologieFR{%
@@ -13,6 +13,8 @@
 		Janvier\or Février\or Mars\or Avril\or Mai\or Juin\or
 		Juillet\or Août\or Septembre\or Octobre\or Novembre\or Decembre\fi\space\number\year}
 
+\font\xldisplayfont=file:Sabon.ttf:script=latn;+upper at 32pt
+
 \input{source/parsed-fr.tex}
 
-%\vfill\hrule\vbox{\centerline{\strut4mm \small Édition du \today.}}\eject
+\vfill\hrule\vbox{\centerline{\strut4mm \small Édition du \today.}}\eject
