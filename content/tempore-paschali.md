@@ -1,6 +1,6 @@
 ## Proprium temporis Paschali
 
-$Propre du\break temps pascal <Temps Pascal>$
+$Propre du\break temps pascal <Propre du temps pascal>$
 
 \label{proprium}
 
@@ -26,7 +26,7 @@ $Antienne à _Magnificat_$
 
 ![8:ant:Post dies octo](post_dies_octo)
 $
-Huit jours après, le Seigneur entra, les portes fermées, et leur dit : La paix soit avec vous! Alleluia, alleluia.
+\rml Huit jours après, le Seigneur entra, les portes fermées, et leur dit : La paix soit avec vous! Alleluia, alleluia.
 \rf{_Io 20, 26_}
 $
 
@@ -69,7 +69,7 @@ $Antienne à _Magnificat_$
 
 ![3:ant:Ego sum pastor](ego_sum_pastor)
 $
-Je suis le bon Pasteur : c'est moi qui pais mes brebis, et pour elles je donne ma vie, alleluia.
+\rml Je suis le bon Pasteur : c'est moi qui pais mes brebis, et pour elles je donne ma vie, alleluia.
 \rf{_Io 10, 11 & 15_}
 $
 
@@ -81,13 +81,13 @@ $
 fidélibus tuis perpétuam concéde lætítiam;\*
 ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis.
 Per eúndem Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum. \R Amen.
 $
 Ô Dieu qui, dans l'humiliation de votre Fils, avez relevé le monde abattu ;
 accordez à vos fidèles une joie constante, et faites jouir de l'éternelle allégresse
 ceux que vous avez arrachés aux dangers d'une mort sans fin.§
 Par le même Jésus-Christ notre Seigneur, votre Fils, qui vit et règne avec vous
-	en l’unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.§
+	en l’unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.
 \R Ainsi soit-il.
 $
 
@@ -136,7 +136,7 @@ $
 afin qu'ils puissent rentrer dans la voie de la justice ;
 accordez à tous ceux qui font profession d'être chrétiens la grâce d’éloigner d’eux
 tout ce que repousse ce beau nom, et de suivre fidèlement tout ce à quoi il engage.
-\doxologieFR§
+\doxologieFR
 \R Ainsi soit-il.
 $
 
@@ -163,7 +163,7 @@ $Antienne à _Magnificat_$
 
 ![2:ant:Vado ad eum](vado_ad_eum)
 $
-Je m'en vais à celui qui m'a envoyé;
+\rml Je m'en vais à celui qui m'a envoyé;
 mais parce que je vous ai dit ces choses,
 la tristesse a rempli votre cœur, alleluia.
 \rf{_Io 16, 5-6_}
@@ -200,13 +200,14 @@ $Capitule$
 :Caríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. +
 Quia, si quis audítor est verbi, et non factor :
 hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: \*
-considerávit enim se, et ábiit, et statim oblítus est qualis fúerit. \R Deo grátias.
+considerávit enim se, et ábiit, et statim oblítus est qualis fúerit.§
+\R Deo grátias.
 $
 Mes bien-aimés, accomplissez la parole qui vous est enseignée,
 ne vous contentant pas de l'écouter, en vous trompant vous-mêmes.
 Car celui qui écoute la parole sans la pratiquer,
 est semblable à un homme qui considère son visage naturel dans un miroir,
-et qui à peine l'y a vu, s'en va, et oublie à l'instant même quel il était.§
+et qui à peine l'y a vu, s'en va, et oublie à l'instant même quel il était.
 \R Rendons grâces à Dieu.
 $
 
@@ -230,7 +231,8 @@ $
 ut cogitémus, te inspiránte, quæ recta sunt; \*
 et, te gubernánte, éadem faciámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum: +
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, \* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Ô Dieu, vous de qui procèdent tous les biens,
 accordez à nos humbles prières que, par votre inspiration,
@@ -240,17 +242,19 @@ et daignez nous accorder votre conduite pour l'accomplir.
 \R Ainsi soit-il.
 $
 
+\bigskip
+
 ### Dominica infra octavam Ascensionis
 
-$Le dimanche dans l’octave de l’Ascension <Dimanche après l’Ascension>$
+$Dimanche après l’Ascension$
 
 #### Capitulum {1 Petr 4, 7-8}
 
 $Capitule$
 
 :Caríssimi: Estóte prudéntes, et vigiláte in oratiónibus. +
-Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes,
-quia cáritas óperit multitúdinem peccatórum.
+Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes, \*
+quia cáritas óperit multitúdinem peccatórum. \R Deo grátias.
 $
 Mes bien-aimés, soyez prudents et veillez dans la prière ;
 mais avant tout, ayez une charité persévérante les uns envers les autres :
@@ -264,9 +268,9 @@ $Hymne$
 
 \label{salutis}
 
-![4:hymn:Salutis humanæ](salutis_humanæ)
+![4:hymn:Salutis humanæ Sator](salutis_humanæ)
 $
-1.~Auteur du salut de l'homme,
+Auteur du salut de l'homme,
 ô Jésus, amour des cœurs,
 créateur de ce monde que vous avez racheté,
 chaste lumière de ceux qui vous aiment.§
@@ -279,8 +283,8 @@ vous avez fait tomber les chaînes des captifs;
 après votre victoire vous avez obtenu le plus noble triomphe,
 et vous êtes venu vous asseoir à la droite du Père.§
 	4.~Laissez-vous fléchir par votre bonté,
-daignez réparer\splitafter\ nos malheurs nouveaux ;
-montrez-nous votre visage divin,
+daignez réparer nos malheurs nouveaux ;
+mon=trez-nous votre visage divin,
 donnez-nous le bonheur au sein de la lumière
 qui rend heureuses les âmes.§
 	5.~Vous êtes notre guide et notre sentier jusqu'aux cieux;
@@ -294,7 +298,7 @@ $
 
 ![](dominus_in_caelo)
 $\indent\V Au ciel, le Seigneur, alleluia,§
-\R a préparé son trône, alleluia.$
+\R A préparé son trône, alleluia.$
 
 \label{versiculum}
 
@@ -308,6 +312,8 @@ Je vous ai dit ces choses, afin que lorsque l'heure sera venue,
 vous vous souveniez que je vous les ai dites, alleluia.
 \rf{_Io 16, 4_}
 $
+
+\bigskip
 
 @(8G)[MagnificatG]
 

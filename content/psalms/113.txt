@@ -1,21 +1,21 @@
 In éxitu Israël de Ægýpto,
     domus Iacob de pópulo bárbaro:
-$Quand Israël sortit d'Égypte, et la maison de Jacob du milieu d'un peuple barbare;$
+$Lorsqu'Israël sortit d'Égypte, et la maison de Jacob du milieu d'un peuple barbare,$
 Facta est Iudǽa sanctificátio eius,
     Israël potéstas eius.
-$La maison juive fut consacrée à Dieu, Israël fut son domaine.$
+$La nation juive fut consacrée à Dieu, Israël fut son domaine.$
 Mare vidit, et fugit:
     Iordánis convérsus est retrórsum.
 $La mer le vit et s'enfuit ; le Jourdain remonta vers sa source.$
 Montes exsultavérunt ut aríetes,
     et colles sicut agni óvium.
-$Les montagnes sautèrent comme des béliers, et les collines comme des agneaux.$
+$Les montagnes bondirent comme des béliers, et les collines comme des agneaux.$
 Quid est tibi, mare, quod fugísti:
     et tu, Iordánis, quia convérsus es retrórsum?
 $Ô mer, pourquoi fuyais-tu ? Et toi, Jourdain, pourquoi remontais-tu vers ta source?$
 Montes, exsultástis sicut aríetes,
     et colles, sicut agni óvium?
-$Montagnes, pourquoi sau=tiez-vous comme des béliers? Et vous, collines, comme des agneaux ?$
+$Montagnes, pourquoi bondis=siez-vous comme des béliers? Et vous, collines, comme des agneaux ?$
 A fácie Dómini mota est terra,
     a fácie Dei Iacob.
 $À la face du Seigneur, la terre a tremblé: à la face du Dieu de Jacob,$
@@ -24,10 +24,10 @@ Qui convértit petram in stagna aquárum,
 $Qui changea la pierre en torrents, et la roche en fontaines.$
 Non nobis, Dómine, non nobis:
     sed nómini tuo da glóriam:
-$Non pas à nous, Seigneur, non pas à nous, mais à votre nom donnez la gloire,$
+$Non pas à nous, Seigneur, non pas à nous, mais à votre Nom donnez la gloire,$
 Super misericórdia tua, et veritáte tua.
     Nequándo dicant gentes: Ubi est Deus eórum?
-$À cause de votre miséricorde et de votre vérité : de peur que les nations ne disent: Où est leur Dieu ?$
+$À cause de votre miséricorde et de votre vérité, de peur que les nations ne disent: Où est leur Dieu ?$
 Deus autem noster in cælo:
     ómnia quæcúmque vóluit, fecit.
 $Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.$
@@ -39,7 +39,7 @@ Os habent, et non loquéntur:
 $Elles ont une bouche, et ne parlent point; des yeux, et ne voient point.$
 Aures habent, et non áudient:
     nares habent, et non odorábunt.
-$Elles ont des oreilles, et n'entendent point ; des narines, et ne sentent point.$
+$Elles ont des oreilles, et n'entendent point ; des narines, et ne sentent rien.$
 Manus habent, et non palpábunt: + pedes habent, et non ambulábunt:
     non clamábunt in gútture suo.
 $Elles ont des mains, et ne peuvent rien toucher; des pieds, et ne marchent point ; un gosier, et ne peuvent se faire entendre.$
@@ -75,7 +75,7 @@ Cælum cæli Dómino:
 $Au Seigneur, les hauteurs du ciel ; la terre est aux hommes par sa largesse.$
 Non mórtui laudábunt te, Dómine:
     neque omnes, qui descéndunt in inférnum.
-$Ce ne sont pas les morts qui vous loueront, ô Seigneur! ni tous ceux qui descendent dans la demeure souterraine des limbes;$
+$Ce ne sont pas les morts qui vous loueront, ô Seigneur! ni tous ceux qui descendent dans le sépulcre;$
 Sed nos, qui vívimus, benedícimus Dómino,
     ex hoc nunc, et usque in sǽculum.
 $Mais nous qui vivons, nous bénissons le Seigneur, aujourd'hui et à jamais.$

@@ -10,10 +10,13 @@
 \def\Psaume#1 — #2 —{\vbox{\noindent\centerline{Psaume #1}\break\centerline{\small\it #2}}}
 
 \def\today{\number\day\space\ifcase\month\or
-		Janvier\or Février\or Mars\or Avril\or Mai\or Juin\or
-		Juillet\or Août\or Septembre\or Octobre\or Novembre\or Decembre\fi\space\number\year}
+		janvier\or février\or mars\or avril\or mai\or juin\or
+		juillet\or août\or septembre\or octobre\or novembre\or décembre\fi\space\number\year}
 
 \font\xldisplayfont=file:Sabon.ttf:script=latn;+upper at 32pt
+
+\shipout\hbox{}
+\shipout\hbox{}
 
 \input{source/parsed-fr.tex}
 

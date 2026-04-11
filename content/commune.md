@@ -1,6 +1,6 @@
 ## Commune temporis Paschali
 
-$Aux dimanches du \xldisplayfont temps pascal <Vêpres dominicales>$
+$Les dimanches du \xldisplayfont temps pascal <Vêpres dominicales>$
 
 ### Ordinarium
 
@@ -10,7 +10,7 @@ $À vêpres <Au temps pascal>$
 $
 Ô Dieu ! venez à mon aide !
 \R Hâtez-vous, Seigneur, de me secourir.
-Gloire au Père, et au Fils, et au Saint-Esprit ;
+Gloire au Père, et au Fils, et au Saint-Esprit.
 Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles.
 Ainsi soit-il. Alleluia.
 $
@@ -37,7 +37,7 @@ $Capitule$
 
 $Hymne$
 
-![8:hymn:Ad regias](ad_regias)
+![8:hymn:Ad regias Agni dapes](ad_regias)
 $   Après le passage de la mer Rouge,
 couverts de nos robes blanches
 et assis au festin royal de l’Agneau,
@@ -56,7 +56,7 @@ il est l’azyme de sincérité
 pour les cœurs purs.§
     5.~Ô victime véritable venue du ciel,
 par qui l’enfer est abattu,
-les liens de la mort\splitafter\ brisés,
+les liens de la mort brisés,
 les dons de la vie restitués.§
     6.~Vainqueur de la mort qu’il a terrassée,
 le Christ déploie son étendard ;
@@ -65,16 +65,16 @@ et traîne en captif le roi des ténèbres.§
     7.~Pour être toujours, ô Jésus,
 la joie pascale de nos âmes,
 daignez sauver de la cruelle mort du péché
-ceux que vous avez fait renaître à la vie.§
+ceux que vous avez fait renaître à la vie.\splitafter§
     8.~À Dieu le Père soit la gloire !
 gloire au Fils, ressuscité d’entre les morts !
 et gloire au Paraclet
-dans les siècles éternels !
+dans les siècles éternels !§
 Ainsi soit-il.
 $
 
 => De hymno
-=> $Dans l’octave de l’Ascension, on chante l’hymne
+=> $Le dimanche après l’Ascension, on chante l’hymne
 de la fête, p.\thinspace\pageref{salutis}.$
 
 \bigskip
@@ -84,42 +84,37 @@ $\indent\V Demeurez avec nous, Seigneur, alleluia ;§
 \R Car le soir est venu, alleluia.$
 
 => De versiculum
-=> $Dans l’octave de l’Ascension, on ne chante pas ce verset
-mais celui qui se trouve à la suite de l’hymne propre, p.\thinspace\pageref{versiculum}.$
+=> $Le dimanche après l’Ascension, voir le verset propre, p.\thinspace\pageref{versiculum}.$
 
-\smallskip
+\eject
 
 > De proprium
 > $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\thinspace\pageref{proprium} et suivantes.$
 
-#### Canticum {Luc 1, 46-55}
+\smallskip
+
+#### Canticum {Lc 1, 46-55}
 
 $Cantique de la B.~Vierge Marie$
 
 @(0)[MagnificatG]
 ${}$
 
-\bigskip
-
 > Antiphona repetitur, deinde, celebrans propriam orationem dicit.
 > $On répète l'antienne, puis l’officiant dit l'oraison propre du jour.$
-
-\medskip
 
 ![](dominus_vobiscum)
 $\indent\V Le Seigneur soit avec vous.§
 \R Et avec votre esprit.$
 
 => Ce \kern1pt_\V Dóminus vobíscum_ ne doit pas être dit par l’officiant s’il n’est pas
-au moins diacre; à la place, on lui substitut :
+au moins diacre; à la place, on lui substitue :
 
-\bigskip
+\medskip
 
 ![](domine_exaudi)
 $\indent\V Seigneur, exaucez ma prière.§
 \R Et que mon cris parvienne jusqu'à vous.$
-
-\bigskip
 
 > Memores adduntur.
 > Ultima oratione dicta, dicitur:
@@ -129,13 +124,13 @@ $\indent\V Seigneur, exaucez ma prière.§
 \V Dóminus vobíscum.
 \R Et cum spíritu tuo.
 
-\medskip
+\smallskip
 
 => Ou \kern1pt_\V Dómine, exáudi oratiónem meam_ comme ci-dessus.
 
-\eject
+\bigskip
 
-> Cantatores:
+> Cantores:
 > $Les chantres:$
 
 \medskip
@@ -150,3 +145,5 @@ $\indent\V Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
 
 \V Fidélium ánimæ per misericórdiam Dei requiéscant in pace. \R Amen.
 $\V Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix. \R Ainsi soit-il.$
+
+\endrule
