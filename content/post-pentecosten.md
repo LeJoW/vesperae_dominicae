@@ -16,6 +16,8 @@ $
 
 > Cantique *Magnificat* : voir p.\thinspace\pageref{Magnificat8G}.
 
+\eject
+
 #### Oraison
 
 :Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris:~+
@@ -29,7 +31,7 @@ soyez propice à nos demandes; et puisque l'infirmité de l'homme mortel ne peut
 accordez-nous le secours de votre grâce, afin qu'en exécutant ce que vous nous commandez,
 nous puissions vous plaire de volonté et d'action.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica II post Pentecosten
@@ -51,12 +53,12 @@ $
 :Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum:~+
 quia nunquam tua gubernatióne destítuis,~\* quos in soliditáte tuæ dilectiónis instítuis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
 $
 Faites, Seigneur, que nous ayons toujours la crainte et l'amour de votre saint nom,
 parce que vous ne cessez jamais de diriger ceux que vous établissez dans la solidité de votre amour.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica III post Pentecosten
@@ -83,7 +85,7 @@ Protecteur de ceux qui espèrent en vous, ô Dieu, sans qui rien n'est solide, r
 multipliez sur nous les effets de votre remiséricorde; afin que, sous votre loi et votre conduite,
 nous puissions traverser les biens du temps sans perdre ceux de l'éternité.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica IV post Pentecosten
@@ -104,13 +106,14 @@ $
 ut et mundi cursus pacífice nobis tuo órdine dirigátur :~\*
 et Ecclésia tua tranquílla devotióne lætétur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Faites, nous vous en supplions, Seigneur, que par votre Providence
 la marche du monde soit pour nous pacifique,
 et que votre Église se réjouisse dans les démonstrations d'une piété sans alarmes.
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica V post Pentecosten
@@ -135,13 +138,13 @@ $
 infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes,~\*
 promissiónes tuas, quæ omne desidérium súperant, consequámur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Ô Dieu qui avez préparé des biens invisibles pour ceux qui vous aiment,
 répandez votre amour en nos cœurs, afin que, vous aimant en toutes choses
 et plus que toutes choses, nous obtenions ces biens promis par vous qui surpassent tout désir.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica VI post Pentecosten
@@ -170,7 +173,7 @@ Dieu des vertus, de qui viennent en entier les fruits excellent,
 semez l'amour de votre nom dans nos cœurs, faites croître en nous la religion,
 nourrissez les bons plants, et conservez par le zèle de la piété ce que vous aurez nourri.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica VII post Pentecosten
@@ -192,12 +195,13 @@ $
 :Deus, cuius providéntia in sui dispositióne non fállitur:~+
 te súpplices exorámus; ut nóxia cuncta submóveas, \* et ómnia nobis profutúra concédas.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Ô Dieu dont la providence n'est jamais frustrée dans ses desseins,
 nous vous supplions d'écartez de nous tout ce qui pourrait nuire et de nous accorder tout ce qui peut être salutaire.
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica VIII post Pentecosten
@@ -220,12 +224,13 @@ $
 :Largíre nobis, quǽ=su=mus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi:~+
 ut, qui sine te esse non póssumus,~\* secúndum te vívere valeámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Nous vous en supplions, Seigneur, accordez-nous miséricordieusement votre esprit qui nous fasse
 toujours penser dans la même droiture et agir de même, afin que, n'étant rien que par vous, nous vivions selon vos désir.§
-\doxologieFR\
-Ainsi soit-il.
+\doxologieFR§
+\R Ainsi soit-il.
 $
 
 ### Dominica IX post Pentecosten
@@ -249,12 +254,13 @@ $
 et, ut peténtibus desideráta concédas;~\*
 fac eos, quæ tibi sunt plácita, postuláre.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Ouvrez l'oreille de votre miséricorde, Seignneur, à la prière de ceux qui vous implorent;
 et, pour que vous exauciez leurs désirs, faites que leurs demandes soient conformes à vos desseins.§
-\doxologieFR\
-Ainsi soit-il.
+\doxologieFR§
+\R Ainsi soit-il.
 $
 
 ### Dominica X post Pentecosten
@@ -276,14 +282,14 @@ $
 multíplica super nos misericórdiam tuam; ut, ad tua promíssa curréntes,~\*
 cæléstium bonórum fácias esse consórtes.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
 O Dieu qui manifestez votre toute-puissance surtout dans le pardon et la misericorde,
 multipliez sur nous vos grâces, afin que, courant par elles à la béatitude que vous avez promise,
 nous devenions participants des biens célestes.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XI post Pentecosten
@@ -310,7 +316,7 @@ Dieu tout puissant et éternel, qui dépassez par l'abondance de votre bonté le
 répanndez sur nous votre miséricorde :
 pardonez les fautes qui agitent la connscience, accordez même ce que n'ose formuler la prière.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XII post Pentecosten
@@ -336,8 +342,8 @@ qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽc
 $
 Dieu tout-puissant et misericordieux, de la grâce de qui vient que vos fidèles vous servent comme il convient et d'une façon digne de louange;
 accordez-nous, selon notre prière, de courir sans bronchez dans la voie qui conduit aux biens que vous avez promis.§
-\doxologieFR
-Ainsi soit-il.
+\doxologieFR§
+\R Ainsi soit-il.
 $
 
 ### Dominica XIII post Pentecosten
@@ -357,12 +363,12 @@ $
 :Omnípotens sempitérne Deus, da nobis fídei, spei et caritátis augméntum:~+
 et, ut mereámur ássequi quod promíttis,~\* fac nos amáre quod prǽcipis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Dieu tout-puissant et éternel, donnez-nous l'accroissement de la foi, de l'espérance et de la charité;
 et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer vos commandements.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XIV post Pentecosten
@@ -392,7 +398,7 @@ et parce que sans vous l’humaine nature chancelle,
 que sans cesse votre secours l’arrache au mal
 et la dirige dans la voie du salut.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XV post Pentecosten
@@ -418,7 +424,7 @@ Que votre miséricorde, Seigneur,
 purifie et protège sans fin votre Église,
 et, parce qu’elle ne peut sans vous demeurer sauve,
 qu’elle soit toujours gouvernée par votre grâce.§
-\doxologieFR§ Ainsi soit-il.
+\doxologieFR§ \R Ainsi soit-il.
 $
 
 ### Dominica XVI post Pentecosten
@@ -447,7 +453,7 @@ Que votre grâce, Seigneur,
 nous prévienne et nous suive toujours,
 et qu’elle nous rende sans cesse adonnés aux bonnes œuvres.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XVII post Pentecosten
@@ -475,7 +481,7 @@ Accordez, nous vous en supplions, Seigneur,
 à votre peuple d’éviter le contact du diable,
 et de vous suivre d’un cœur pur comme le seul Dieu.
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XVIII post Pentecosten
@@ -496,23 +502,28 @@ $
 :Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio:~\*
 quia tibi sine te placére non póssumus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Que votre action miséricordieuse dirige nos cœurs,
 nous vous en supplions, Seigneur,
 parce que nous ne pouvons vous plaire sans vous.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
+
+\medskip
 
 ### Dominica XIX post Pentecosten
 
 $Dix-neuvième dimanche après la Pentecôte <Dix-neuvième dimanche>$
 
+\medskip
+
 ![3:ant:Intravit autem rex](intravit)
 $
 Or le roi entra pour voir ceux qui étaient à table,
-et il vit là un homme qui n'était pas revêtu\splitafter\ de la robe nuptiale.
+et il vit là un homme qui n'était pas revêtu de la robe nuptiale.
 Et il lui dit : Mon ami, comment êtes-vous entré ici sans avoir la robe nuptiale ?
 \rf{_Mt 22, 11-12_}
 $
@@ -524,14 +535,15 @@ $
 :Omnípotens et miséricors Deus, univérsa nobis adversántia propitiátus exclúde:~+
 ut mente et córpore páriter expedíti,~\* quæ tua sunt, líberis méntibus exsequámur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Dieu tout-puissant et miséricordieux,
 éloignez de nous dans votre bonté tout ce qui nous serait contraire,
 afin que, dégagés en même temps dans le corps et dans l’âme,
 nous puissions vaquer d’un cœur dispos à votre service.§
-\doxologieFR\
-Ainsi soit-il.
+\doxologieFR§
+\R Ainsi soit-il.
 $
 
 ### Dominica XX post Pentecosten
@@ -560,7 +572,7 @@ donnez à vos fidèles le pardon et la paix,
 afin qu'à la fois ils soient purifiés de toute offense
 et vous servent d'un cœur tranquille.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XXI post Pentecosten
@@ -581,7 +593,7 @@ $
 :Famíliam tuam, quǽ=su=mus, Dómine, contínua pietáte custódi:~+
 ut a cunctis adversitátibus te protegénte, sit líbera;~\* et in bonis áctibus tuo nómini sit devóta.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. §\R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Seigneur, nous vous en supplions,
 gardez votre famille par l’effet d’une bonté continue,
@@ -589,7 +601,7 @@ afin que, sous votre protection,
 elle soit garantie de toute adversité
 et confesse votre nom dans les bonnes œuvres.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XXII post Pentecosten
@@ -610,7 +622,8 @@ $
 adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta;~\*
 ut, quod fidéliter pétimus, efficáciter consequámur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
+\R Amen.
 $
 Ô Dieu, notre refuge et notre force,
 soyez propice aux pieuses prières de votre Église,
@@ -618,7 +631,7 @@ vous l’auteur même de la piété,
 et faites que nous obtenions sûrement
 ce que nous demandons selon la foi.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XXIII post Pentecosten
@@ -638,14 +651,15 @@ $
 :Absólve, quǽsumus, Dómine, tuórum delícta populórum:~+
 ut a peccatórum néxibus, quæ pro nostra fragilitáte contráximus,~\* tua benignitáte liberémur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
+\R Amen.
 $
 Nous vous en supplions, Seigneur,
 absolvez les fautes de votre peuple,
 afin que nous soyons délivrés par votre bonté
 des liens des péchés que nous avons commis dans notre fragilité.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica XXIV post Pentecosten
@@ -668,14 +682,15 @@ $
 :Excita, quǽsumus, Dómine, tuórum fidélium voluntátes:~+
 ut, divíni óperis fructum propénsius exsequéntes;~\* pietátis tuæ remédia maióra percípiant.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
+\R Amen.
 $
 Nous vous en supplions, Seigneur,
 animez les volontés de vos fidèles,
 afin que, produisant avec plus d’ardeur les fruits des œuvres célestes,
 ils reçoivent par votre bonté des secours plus grands.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 \endrule

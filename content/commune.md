@@ -10,7 +10,7 @@ $ {} <Ordinaire>$
 $
 \V Ô Dieu ! venez à mon aide !
 \R Hâtez-vous, Seigneur, de me secourir.§
-Gloire au Père, et au Fils, et au Saint-Esprit ;
+Gloire au Père, et au Fils, et au Saint-Esprit.
 Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles. Ainsi soit-il.
 Alleluia.
 $
@@ -43,6 +43,8 @@ $
 \Psaume 110 — Bienfaits accordés par Dieu à son peuple. —
 $
 
+\medskip
+
 ![](magna_opera.ant)
 
 \bigskip
@@ -50,19 +52,21 @@ $
 ![4:ant:Qui timet Dominum](qui_timet)
 $L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
 
+\eject
+
 @(4g)[111G: Psalmus 111]
 $
 \Psaume 111 — Portrait du juste et tableau de son bonheur. —
 $
 
+\smallskip
+
 ![](qui_timet.ant)
 
-\bigskip
+\bigskip\medskip
 
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans les siècles.$
-
-\eject
 
 @(7c)[112G: Psalmus 112]
 $
@@ -107,11 +111,13 @@ $Hymne$
 > du Dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
 > On l'attribue au pape saint Grégoire le Grand (+~604).$
 
+\medskip
+
 ![8:hymn:Lucis Creator optime](lucis_creator_optime)
 $
-    1.~Dieu bon, créateur de la lumière,
+    Dieu bon, créateur de la lumière,
 qui avez produit le flambeau des jours,
-vous avez\splitafter\ préludé à l'origine de ce monde en produisant,
+vous avez préludé à l'origine de ce monde en produisant,
 au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
     2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
 qui s'étend du matin jusqu'au soir,
@@ -120,7 +126,7 @@ un noir chaos menace encore de nous envelopper:
     3.~Que notre âme appesantie par le péché ne demeure pas exilée
 de cette vie immortelle que vous lui avez préparée,
 cette âme si lâche quand il faut penser à l'éternité,
-si prompte à tomber dans les liens du péché.§
+si prompte à tomber dans les liens du péché.\splitafter§
     4.~Qu'elle frappe enfin aux portes des cieux;
 qu'elle enlève le prix de la vie;
 qu'elle évite tout ce qui peut lui nuire;
@@ -137,53 +143,68 @@ $
 $\V Que ma prière s'élève vers vous, Seigneur !§
 \R Comme l'encens monte en votre présence.$
 
+\addl
+
 > De proprium
 > $Chaque dimanche a son antienne propre à *Magnificat*. Cf. pp.\thinspace\pageref{propre} et suivantes.$
+
+\medskip
 
 #### Canticum {Luc 1, 46-55}
 
 $Cantique de la B.~Vierge Marie$
 
-\smallskip
-
 @(0)[MagnificatG]
 ${}$
 
 > Antiphona repetitur, deinde, celebrans propriam orationem dicit.
-> $On répète l'antienne, puis le célébrant dit l'oraison propre du jour :$
+> $On répète l'antienne, puis l’officiant dit l'oraison propre du jour.$
+
+\medskip
 
 ![](dominus_vobiscum)
-$\V Le Seigneur soit avec vous. \R Et avec votre esprit.$
+$\indent\V Le Seigneur soit avec vous.§
+\R Et avec votre esprit.$
 
-=> Solus vel si hebdomadarius non est sacerdos :
-$Seul, ou si l'officiant n'est pas prêtre, on dit :$
+=> Ce \kern1pt_\V Dóminus vobíscum_ ne doit pas être dit par l’officiant s’il n’est pas
+au moins diacre; à la place, on lui substitue :
+
+\medskip
 
 ![](domine_exaudi)
-$\V Seigneur, exaucez ma prière. \R Et que mon cris parvienne jusqu'à vous.$
+$\indent\V Seigneur, exaucez ma prière.§
+\R Et que mon cris parvienne jusqu'à vous.$
 
 > Memores adduntur.
 > Ultima oratione dicta, dicitur:
 > $On ajoute les mémoires, s'il s'en présente.
 > La dernière oraison étant achevée, on dit:$
 
-\V Dóminus vobíscum.§
+\eject
+
+\V Dóminus vobíscum.
 \R Et cum spíritu tuo.
-
-=> Vel $Ou :$
-
-\V Dómine, exáudi oratiónem meam.§
-\R Et clamor meus ad te véniat.
-
-> Cantatores:
-> $Les chantres:$
-
-![](benedicamus_domino)
-$Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
-
-> Qui officit, dicit recto tono in grave leviter tono
-> $L'officiant dit ensuite *recto tono* sur un ton un peu bas:$
 
 \smallskip
 
+=> Ou \kern1pt_\V Dómine, exáudi oratiónem meam_ comme ci-dessus.
+
+\bigskip
+
+> Cantores:
+> $Les chantres:$
+
+\medskip
+
+![](benedicamus_domino)
+$\indent\V Bénissons le Seigneur.§ \R Rendons grâces à Dieu.$
+
+> Qui officit, dicit recto tono in grave leviter tono
+> $L'officiant dit ensuite _recto tono_ sur un ton un peu bas:$
+
+\medskip
+
 \V Fidélium ánimæ per misericórdiam Dei requiéscant in pace. \R Amen.
 $\V Que les âmes des fidèles, par la miséricorde de Dieu, reposent en paix. \R Ainsi soit-il.$
+
+\endrule

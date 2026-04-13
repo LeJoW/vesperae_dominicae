@@ -1,10 +1,8 @@
-\pagebreak\hbox{}\pagebreak
+\pagebreak
 
 ###### Index
 
 <grego-index />
-
-\pagebreak
 
 ###### Index generalis
 

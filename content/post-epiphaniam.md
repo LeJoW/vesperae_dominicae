@@ -27,7 +27,7 @@ $
 Recevez, Seigneur, dans votre céleste bonté, les vœux et les supplications de votre peuple ;
 et faites que vos fidèles connaissent ce qu’ils doivent faire, et deviennent forts pour accomplir ce qu’ils auront connu.
 \doxologieFR\
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica II post Epiphaniam
@@ -53,7 +53,7 @@ $
 Dieu tout-puissant et éternel qui conduisez toutes choses au ciel et sur la terre, exaucez,
 dans votre clémence, les supplications de votre peuple et que votre paix soit acquise aux jours que nous traversons.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica III post Epiphaniam
@@ -77,7 +77,7 @@ qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽc
 $
 O Dieu tout-puissant et éternel, regarder d'un œil favorable notre faiblesse, et étendez, pour nous secourir, le bras de votre majesté.§
 \doxologieFR§
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica IV post Epiphaniam
@@ -103,7 +103,7 @@ $
 O Dieu, qui savez que, dans notre humaine fragilité, nous ne pourrions subsister au milieu de tant de périls qui nous environnent ;
 donnez-nous la santé de l’âme et du corps, afin que nous surmontions, par votre assistance, les maux que nous endurons pour nos péchés.
 \doxologieFR\
-Ainsi soit-il.
+\R Ainsi soit-il.
 $
 
 ### Dominica V post Epiphaniam
@@ -124,12 +124,13 @@ $
 :Famíliam tuam, quǽ\-su\-mus, Dómine, contínua pietáte custódi:~+
 ut, quæ in sola spe grátiæ cœléstis innítitur,~\* tua semper protectióne muniátur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Nous vous supplions, Seigneur, de garder votre famille par une continuelle miséricorde,
 et de défendre par votre constante protection celle qui se repose sur la seul espérance de votre grâce.§
-\doxologieFR\
-Ainsi soit-il.
+\doxologieFR§
+\R Ainsi soit-il.
 $
 
 ### Dominica VI post Epiphaniam
@@ -150,12 +151,13 @@ $
 :Præsta, quǽsumus, omnípotens Deus:~+
 ut, semper rationabília meditántes,~\* quæ tibi sunt plácita, et dictis exsequámur et factis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
+\R Amen.
 $
 Faites, s’il vous plaît, Dieu tout-puissant, que, sans cesse occupés de pensées raisonnables,
 nous cherchions constamment à vous plaire dans nos paroles et dans nos actions.§
-\doxologieFR\
-Ainsi soit-il.
+\doxologieFR§
+\R Ainsi soit-il.
 $
 
 \endrule

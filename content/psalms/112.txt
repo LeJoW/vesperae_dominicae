@@ -1,6 +1,6 @@
 Laudáte, púeri, Dóminum:
     laudáte nomen Dómini.
-$Serviteurs du Seigneur, faites entendre ses louanges: célébrez le nom du Seigneur.$
+$Serviteurs du Seigneur, faites entendre ses lou=anges: célébrez le nom du Seigneur.$
 Sit nomen Dómini benedíctum,
     ex hoc nunc, et usque in sǽculum.
 $Que le nom du Seigneur soit béni, aujourd'hui et jusque dans l'éternité.$
