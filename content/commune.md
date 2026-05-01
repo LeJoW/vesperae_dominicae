@@ -89,7 +89,7 @@ $\indent\V Demeurez avec nous, Seigneur, alleluia ;§
 \eject
 
 > De proprium
-> $Chaque dimanche a son antienne propre à Magnificat. Cf. pp.\thinspace\pageref{proprium} et suivantes.$
+> $Chaque dimanche a son antienne propre à *Magnificat*. Cf. pp.\thinspace\pageref{proprium} et suivantes.$
 
 \smallskip
 
@@ -100,8 +100,8 @@ $Cantique de la B.~Vierge Marie$
 @(0)[MagnificatG]
 ${}$
 
-> Antiphona repetitur, deinde, celebrans propriam orationem dicit.
-> $On répète l'antienne, puis l’officiant dit l'oraison propre du jour.$
+> Antiphona repetitur, deinde, celebrans propriam orationem dicit :
+> $On répète l'antienne, puis l’officiant dit l'oraison propre du jour :$
 
 ![](dominus_vobiscum)
 $\indent\V Le Seigneur soit avec vous.§
