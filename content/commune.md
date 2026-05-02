@@ -93,7 +93,7 @@ $\indent\V Demeurez avec nous, Seigneur, alleluia ;§
 
 \smallskip
 
-#### Canticum {Lc 1, 46-55}
+#### Canticum {Luc 1, 46-55}
 
 $Cantique de la B.~Vierge Marie$
 
