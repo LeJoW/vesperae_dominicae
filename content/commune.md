@@ -43,7 +43,7 @@ $
 \Psaume 110 — Bienfaits accordés par Dieu à son peuple. —
 $
 
-\bigskip
+\medskip
 
 ![](magna_opera.ant)
 
@@ -51,6 +51,8 @@ $
 
 ![4:ant:Qui timet Dominum](qui_timet)
 $L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
+
+\eject
 
 @(4g)[111G: Psalmus 111]
 $
