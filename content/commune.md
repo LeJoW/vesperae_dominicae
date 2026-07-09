@@ -9,7 +9,7 @@ $ {} <Ordinaire>$
 ![](deus_in_adiutorium)
 $
 \V Ô Dieu ! venez à mon aide !
-\R Hâtez-vous, Seigneur, de me secourir.§
+\R Hâtez-vous, Seigneur, de me secourir.
 Gloire au Père, et au Fils, et au Saint-Esprit.
 Comme il était~au commencement, maintenant et toujours, et dans les siècles des siècles. Ainsi soit-il.
 Alleluia.
@@ -43,7 +43,7 @@ $
 \Psaume 110 — Bienfaits accordés par Dieu à son peuple. —
 $
 
-\medskip
+\bigskip
 
 ![](magna_opera.ant)
 
@@ -51,8 +51,6 @@ $
 
 ![4:ant:Qui timet Dominum](qui_timet)
 $L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
-
-\eject
 
 @(4g)[111G: Psalmus 111]
 $
@@ -63,14 +61,14 @@ $
 
 ![](qui_timet.ant)
 
-\bigskip\medskip
+\bigskip
 
 ![7:ant:Sit nomen Domini](sit_nomen)
 $Que le nom du Seigneur soit béni dans les siècles.$
 
 @(7c)[112G: Psalmus 112]
 $
-\Psaume 112\strut11mm — Invitation à louer Dieu et sa Providence souveraine. —
+\Psaume 112 — Invitation à louer Dieu et sa Providence souveraine. —
 $
 
 ![](sit_nomen.ant)
@@ -108,7 +106,7 @@ $Hymne$
 
 > De hymno
 > $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
-> du Dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
+> du dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
 > On l'attribue au pape saint Grégoire le Grand (+~604).$
 
 \medskip
@@ -140,17 +138,15 @@ $
 \bigskip
 
 ![](dirigatur_domine)
-$\V Que ma prière s'élève vers vous, Seigneur !§
+$\indent\V Que ma prière s'élève vers vous, Seigneur !§
 \R Comme l'encens monte en votre présence.$
-
-\addl
 
 > De proprium
 > $Chaque dimanche a son antienne propre à *Magnificat*. Cf. pp.\thinspace\pageref{propre} et suivantes.$
 
 \medskip
 
-#### Canticum {Luc 1, 46-55}
+#### Canticum {Lc 1, 46-55}
 
 $Cantique de la B.~Vierge Marie$
 
@@ -179,8 +175,6 @@ $\indent\V Seigneur, exaucez ma prière.§
 > Ultima oratione dicta, dicitur:
 > $On ajoute les mémoires, s'il s'en présente.
 > La dernière oraison étant achevée, on dit:$
-
-\eject
 
 \V Dóminus vobíscum.
 \R Et cum spíritu tuo.

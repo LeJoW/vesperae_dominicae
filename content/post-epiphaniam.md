@@ -1,6 +1,6 @@
 ## Proprium temporis post Epiphaniam
 
-$Propre\break pour le temps\break après l'Épiphanie <Temps après l'Épiphanie>$
+$Propre\break du temps\break après l'Épiphanie <Temps après l'Épiphanie>$
 
 \label{propre}
 
@@ -10,12 +10,10 @@ $[Premier dimanche après l'Épiphanie] <Premier dimanche>$
 
 ![8:ant:Fili quid fecisti](fili_quid)
 $
-Mon fils, pour quoi avez-vous agi ainsi envers nous ? Voici votre père et moi qui vous cherchions,
+Mon fils, pourquoi avez-vous agi ainsi envers nous ? Voici votre père et moi qui vous cherchions,
 tout affligés. Pourquoi me cherchiez-vous ? Ne saviez-vous pas que je dois vaquer à ce qui regarde le service de mon Père ?
-\rf{_Lc 2, 48_}
+\rf{_Lc 2, 48-49_}
 $
-
-> Cantique *Magnificat* : voir p.\thinspace\pageref{Magnificat8G}.
 
 #### Oraison
 
@@ -36,8 +34,8 @@ $Deuxième dimanche après l'Épiphanie <Deuxième dimanche>$
 
 ![1:ant:Deficiente vino](deficiente)
 $
-Le vin étant venu à manquer. Jésus ordonna de remplir d’eau les urnes ;
-et l’eau fut changé en vin, alleluia.
+Le vin étant venu à manquer, Jésus ordonna de remplir d’eau les urnes ;
+et l’eau fut changée en vin, alleluia.
 \rf{_Io 2, 3-9_}
 $
 
@@ -63,7 +61,7 @@ $Troisième dimanche après l'Épiphanie <Troisième dimanche>$
 ![1:ant:Domine si tu vis](domine_si_tu)
 $
 Seigneur, si vous voulez, vous pouvez me guérir ; et Jésus lui dit : Je le veux, sois guéri.
-\rf{_Mt 8, 3_}
+\rf{_Mt 8, 2-3_}
 $
 
 @(1g2)[MagnificatG]
@@ -71,11 +69,11 @@ $
 #### Oraison
 
 :Omnípotens sempitérne Deus, infirmitátem nostram propítius réspice:~\*
-atque, ad protegéndum nos, déxteram tuæ majestátis exténde.
+atque ad protegéndum nos déxteram tuæ majestátis exténde.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
-O Dieu tout-puissant et éternel, regarder d'un œil favorable notre faiblesse, et étendez, pour nous secourir, le bras de votre majesté.§
+Ô Dieu tout-puissant et éternel, regarder d'un œil favorable notre faiblesse, et étendez, pour nous secourir, le bras de votre majesté.§
 \doxologieFR§
 \R Ainsi soit-il.
 $
@@ -95,12 +93,12 @@ $
 
 #### Oraison
 
-:Deus, qui nos, in tantis perículis constitútos, pro humána scis fragilitáte non posse subsístere:~+
+:Deus, qui nos in tantis perículis constitútos pro humána scis fragilitáte non posse subsístere:~+
 da nobis salútem mentis et córporis;~\* ut ea, quæ pro peccátis nostris pátimur, te adjuvánte vincámus.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
-O Dieu, qui savez que, dans notre humaine fragilité, nous ne pourrions subsister au milieu de tant de périls qui nous environnent ;
+Ô Dieu, qui savez que, dans notre humaine fragilité, nous ne pourrions subsister au milieu de tant de périls qui nous environnent ;
 donnez-nous la santé de l’âme et du corps, afin que nous surmontions, par votre assistance, les maux que nous endurons pour nos péchés.
 \doxologieFR\
 \R Ainsi soit-il.
@@ -121,21 +119,21 @@ $
 
 #### Oraison
 
-:Famíliam tuam, quǽ\-su\-mus, Dómine, contínua pietáte custódi:~+
-ut, quæ in sola spe grátiæ cœléstis innítitur,~\* tua semper protectióne muniátur.
+:Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi:~+
+ut, quæ in sola spe grátiæ cæléstis innítitur,~\* tua semper protectióne muniátur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
 Nous vous supplions, Seigneur, de garder votre famille par une continuelle miséricorde,
-et de défendre par votre constante protection celle qui se repose sur la seul espérance de votre grâce.§
+et de défendre par votre constante protection celle qui se repose sur la seule espérance de votre grâce.§
 \doxologieFR§
 \R Ainsi soit-il.
 $
 
 ### Dominica VI post Epiphaniam
 
-$Sixième dimanche après l'Épiphanie <Dernier dimanche>$
+$Sixième dimanche après l'Épiphanie <Sixième dimanche>$
 
 ![1:ant:Simile est](simile)
 $
@@ -149,7 +147,7 @@ $
 #### Oraison
 
 :Præsta, quǽsumus, omnípotens Deus:~+
-ut, semper rationabília meditántes,~\* quæ tibi sunt plácita, et dictis exsequámur et factis.
+ut, semper rationabília meditántes,~\* quæ tibi sunt plácita, et dictis exsequámur, et factis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
 \R Amen.

@@ -1,6 +1,6 @@
 ## Proprium temporis post Pentecosten
 
-$Propre\break pour le temps\break après la Pentecôte <Temps après la Pentecôte>$
+$Propre\break du temps\break après la Pentecôte <Temps après la Pentecôte>$
 
 ### Dominica I post Pentecosten
 
@@ -9,14 +9,10 @@ $[Premier dimanche après la Pentecôte] <Premier dimanche>$
 ![8:ant:Nolite iudicare](nolite_iudicare)
 $
 Ne jugez point, et vous ne serez point jugés;
-votre jugement sera conforme à celui que vous aurez porté vous-même,
+votre jugement sera conforme à celui que vous aurez porté vous-mêmes,
 dit le Seigneur.
 \rf{_Mt 7, 1-2_}
 $
-
-> Cantique *Magnificat* : voir p.\thinspace\pageref{Magnificat8G}.
-
-\eject
 
 #### Oraison
 
@@ -51,7 +47,7 @@ $
 #### Oraison
 
 :Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum:~+
-quia nunquam tua gubernatióne destítuis,~\* quos in soliditáte tuæ dilectiónis instítuis.
+quia numquam tua gubernatióne destítuis,~\* quos in soliditáte tuæ dilectiónis instítuis.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.
 $
@@ -76,13 +72,13 @@ $
 
 #### Oraison
 
-:Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum;~+
+:Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum:~+
 multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália,~\* ut non amittámus ætérna.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§ \R Amen.
 $
 Protecteur de ceux qui espèrent en vous, ô Dieu, sans qui rien n'est solide, rien n'est saint :
-multipliez sur nous les effets de votre remiséricorde; afin que, sous votre loi et votre conduite,
+multipliez sur nous les effets de votre miséricorde; afin que, sous votre loi et votre conduite,
 nous puissions traverser les biens du temps sans perdre ceux de l'éternité.§
 \doxologieFR§
 \R Ainsi soit-il.
@@ -102,14 +98,14 @@ $
 
 #### Oraison
 
-:Da nobis, quǽsumus, Dómine,~+
-ut et mundi cursus pacífice nobis tuo órdine dirigátur :~\*
+:Da nobis, quǽsumus, Dómine:~+
+ut et mundi cursus pacífice nobis tuo órdine dirigátur;~\*
 et Ecclésia tua tranquílla devotióne lætétur.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
 \R Amen.
 $
-Faites, nous vous en supplions, Seigneur, que par votre Providence
+Faites, nous vous en supplions, Seigneur, que par votre providence
 la marche du monde soit pour nous pacifique,
 et que votre Église se réjouisse dans les démonstrations d'une piété sans alarmes.
 \doxologieFR§
