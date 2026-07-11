@@ -47,7 +47,7 @@ $
 
 ![](magna_opera.ant)
 
-\bigskip
+\bigskip\bigskip
 
 ![4:ant:Qui timet Dominum](qui_timet)
 $L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
@@ -66,26 +66,26 @@ $
 \bigskip
 
 ![7:ant:Sit nomen Domini](sit_nomen)
-$Que le nom du Seigneur soit béni dans les siècles.$
+$Que le nom du Seigneur soit béni dans les siècles.\addbottomline$
 
 @(7c)[112G: Psalmus 112]
 $
 \Psaume 112 — Invitation à louer Dieu et sa Providence souveraine. —
 $
 
+\smallskip
+
 ![](sit_nomen.ant)
 
-\bigskip
-
 ![p:ant:Deus autem noster](deus_autem_noster)
-$Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.$
+$Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.\addbottomline$
 
 @(p)[113G: Psalmus 113]
 $
 \Psaume 113 — Le peuple délivré d'Égypte chante son libérateur et le proclame seul vrai Dieu. —
 $
 
-\medskip
+\bigskip
 
 ![](deus_autem_noster.ant)
 
@@ -109,7 +109,7 @@ $Hymne$
 > De hymno
 > $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
 > du dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
-> On l'attribue au pape saint Grégoire le Grand (+~604).$
+> On l'attribue au pape saint Grégoire le Grand *(*\char"2020~604*)*.$
 
 \medskip
 
@@ -140,7 +140,7 @@ $
 \bigskip
 
 ![](dirigatur_domine)
-$\indent\V Que ma prière s'élève vers vous, Seigneur !§
+$\addtopline\indent\V Que ma prière s'élève vers vous, Seigneur !§
 \R Comme l'encens monte en votre présence.$
 
 > De proprium
@@ -154,6 +154,8 @@ $Cantique de la B.~Vierge Marie$
 
 @(0)[MagnificatG]
 ${}$
+
+\bigskip
 
 > Antiphona repetitur, deinde, celebrans propriam orationem dicit.
 > $On répète l'antienne, puis l’officiant dit l'oraison propre du jour.$
@@ -172,6 +174,8 @@ au moins diacre; à la place, on lui substitue :
 ![](domine_exaudi)
 $\indent\V Seigneur, exaucez ma prière.§
 \R Et que mon cris parvienne jusqu'à vous.$
+
+\eject
 
 > Memores adduntur.
 > Ultima oratione dicta, dicitur:

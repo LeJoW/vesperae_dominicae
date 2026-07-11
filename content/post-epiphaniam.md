@@ -10,7 +10,7 @@ $[Premier dimanche après l'Épiphanie] <Premier dimanche>$
 
 ![8:ant:Fili quid fecisti](fili_quid)
 $
-Mon fils, pourquoi avez-vous agi ainsi envers nous ? Voici votre père et moi qui vous cherchions,
+\addtopline Mon fils, pourquoi avez-vous agi ainsi envers nous ? Voici votre père et moi qui vous cherchions,
 tout affligés. Pourquoi me cherchiez-vous ? Ne saviez-vous pas que je dois vaquer à ce qui regarde le service de mon Père ?
 \rf{_Lc 2, 48-49_}
 $
@@ -73,7 +73,7 @@ atque ad protegéndum nos déxteram tuæ majestátis exténde.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
-Ô Dieu tout-puissant et éternel, regarder d'un œil favorable notre faiblesse, et étendez, pour nous secourir, le bras de votre majesté.§
+Dieu tout-puissant et éternel, regarder d'un œil favorable notre faiblesse, et étendez, pour nous secourir, le bras de votre majesté.§
 \doxologieFR§
 \R Ainsi soit-il.
 $
@@ -115,6 +115,8 @@ mais amassez le froment dans mon grenier, dit le Seigneur.
 \rf{_Mt 13, 30_}
 $
 
+\medskip
+
 @(1g)[MagnificatG]
 
 #### Oraison
@@ -137,12 +139,14 @@ $Sixième dimanche après l'Épiphanie <Sixième dimanche>$
 
 ![1:ant:Simile est](simile)
 $
-Le royaume des cieux est semblable à du levain qu’une femme prend et qu’elle cache dans trois mesures de farine,
+Le royaume des cieux est semblable à du levain qu’une femme prend et qu’elle cache\splitafter\ dans trois mesures de farine,
 jusqu’à ce que la pâte soit toute levée.
 \rf{_Mt 13, 33_}
 $
 
 @(1a3)[MagnificatG]
+
+\eject
 
 #### Oraison
 

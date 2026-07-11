@@ -1,6 +1,6 @@
 ## Proprium temporis post Pentecosten
 
-$Propre\break du temps\break après la Pentecôte <Temps après la Pentecôte>$
+$\strut3cm Propre\break du temps\break après la Pentecôte <Temps après la Pentecôte>$
 
 ### Dominica I post Pentecosten
 
@@ -8,7 +8,7 @@ $[Premier dimanche après la Pentecôte] <Premier dimanche>$
 
 ![8:ant:Nolite iudicare](nolite_iudicare)
 $
-Ne jugez point, et vous ne serez point jugés;
+\addtopline Ne jugez point, et vous ne serez point jugés;
 votre jugement sera conforme à celui que vous aurez porté vous-mêmes,
 dit le Seigneur.
 \rf{_Mt 7, 1-2_}
@@ -68,7 +68,11 @@ n'allume pas sa lampe, balayant la maison et cherchant avec grand soin jusqu'à 
 \rf{_Lc 15, 8_}
 $
 
+\bigskip
+
 @(6F)[MagnificatG]
+
+\bigskip
 
 #### Oraison
 
@@ -138,7 +142,7 @@ qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽc
 $
 Ô Dieu qui avez préparé des biens invisibles pour ceux qui vous aiment,
 répandez votre amour en nos cœurs, afin que, vous aimant en toutes choses
-et plus que toutes choses, nous obtenions ces biens promis par vous qui surpassent tout désir.§
+et plus que toutes choses, nous obtenions ces biens promis par vous qui surpassent tout désir.
 \doxologieFR§
 \R Ainsi soit-il.
 $
@@ -150,7 +154,7 @@ $Sixième dimanche après la Pentecôte <Sixième dimanche>$
 ![7:ant:Misereor super turbam](misereor)
 $
 J’ai compassion de cette foule; car voilà déjà trois jours qu’ils demeurent avec moi continuellement,
-et ils n’ont rien à manger. Et si je les renvoie à jeun, ils tomberont en défaillance sur le chemin. Alleluia.
+et ils n’ont rien à manger. Si je les renvoie à jeun, ils tomberont en défaillance sur le chemin. Alleluia.
 \rf{_Mc 8, 2-3_}
 $
 
@@ -165,7 +169,7 @@ Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
 qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Dieu des vertus, de qui viennent en entier les fruits excellents,
-semez l'amour de votre Nom dans nos cœurs, faites croître en nous la religion,
+semez l'amour de votre nom dans nos cœurs, faites croître en nous la religion,
 nourrissez les bons plants, et conservez par le zèle de la piété ce que vous aurez nourri.§
 \doxologieFR§
 \R Ainsi soit-il.
@@ -235,7 +239,8 @@ $Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 ![8:ant:Scriptum est enim](scriptum_est)
 $
 Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
-mais vous, vous en avez fait une caverne de voleurs. Et il enseignait dans le temple.
+mais vous, vous en avez fait une caverne de voleurs.
+Et il enseignait tous les jours dans le temple.
 \rf{_Lc 19, 46-47_}
 $
 
@@ -264,7 +269,7 @@ $Dixième dimanche après la Pentecôte <Dixième dimanche>$
 
 ![8:ant:Descendit hic](descendit_hic)
 $
-Celui-ci ne descendit chez lui justifié, mais non l'autre;
+Celui-ci redescendit chez lui justifié, mais non l'autre;
 car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.
 \rf{_Lc 18, 14_}
 $
@@ -327,6 +332,8 @@ $
 
 @(8G)[MagnificatG]
 
+\eject
+
 #### Oraison
 
 :Omnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur:~+
@@ -347,7 +354,7 @@ $Treizième dimanche après la Pentecôte <Treizième dimanche>$
 
 ![1:ant:Unus autem ex illis](unus_autem)
 $
-Or l’un d’eux, dès qu'il se vit guéri, revint sur ses pas glorifiant Dieu à haute voix. Alleluia.
+Or l’un d’eux, dès qu'il se vit guéri, revint sur ses pas, glorifiant Dieu à haute voix. Alleluia.
 \rf{_Lc 17, 15_}
 $
 
@@ -458,7 +465,7 @@ $Dix-septième dimanche après la Pentecôte <Dix-septième dimanche>$
 ![4:ant:Quid vobis videtur](quid_vobis)
 $
 Que vous semble du Christ ? de qui est-il fils ? Ils lui disent tous : De David.
-Jésus leur dit : Comment David l'appelle-t-il dans l'Esprit Seigneur, en disant :
+Jésus leur dit : Comment David\splitafter\ l'appelle-t-il dans l'Esprit Seigneur, en disant :
 Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite ?
 \rf{_Mt 22, 42-44_}
 $
@@ -545,7 +552,7 @@ $Vingtième dimanche après la Pentecôte <Vingtième dimanche>$
 
 ![3:ant:Cogovit autem](cognovit)
 $
-Le père reconnut que c'était l'heure à laquelle Jésus avait dit:
+\addtopline Le père reconnut que c'était l'heure à laquelle Jésus avait dit:
 Votre fils est vivant; et il crut, ainsi que toute sa maison.
 \rf{_Io 4, 53_}
 $
@@ -570,16 +577,18 @@ $
 
 ### Dominica XXI post Pentecosten
 
-$Vingt et unième dimanche après la Pentecôte <Vingt et unième dimanche>$
+$Vingt et unième dimanche\break après la Pentecôte <Vingt et unième dimanche>$
 
 ![6:ant:Serve nequam](serve_nequam)
 $
-Méchant serviteur, je vous ai remis toute votre dette, parce que vous m’en avez prié ;
-ne fallait-il donc pas que vous aussi eussiez pitié de votre compagnon, comme moi-même j’ai eu pitié de vous ? Alleluia.
+\addtopline Méchant serviteur, je vous ai remis toute votre dette, parce que vous m’en avez prié ;
+ne fallait-il donc pas que vous aussi eussiez pitié de votre\splitafter\ compagnon, comme moi-même j’ai eu pitié de vous ? Alleluia.
 \rf{_Mt 18, 32-33_}
 $
 
 @(6C)[MagnificatG]
+
+\eject
 
 #### Oraison
 
@@ -599,7 +608,7 @@ $
 
 ### Dominica XXII post Pentecosten
 
-$Vingt-deuxième dimanche après la Pentecôte <Vingt-deuxième dimanche>$
+$Vingt-deuxième dimanche\break après la Pentecôte <Vingt-deuxième dimanche>$
 
 ![1:ant:Reddite ergo](reddite)
 $
@@ -655,6 +664,8 @@ des liens des péchés que nous avons commis dans notre fragilité.§
 \R Ainsi soit-il.
 $
 
+\addl
+
 ### Dominica XXIV post Pentecosten
 
 $Vingt-quatrième dimanche après la Pentecôte <Dernier dimanche>$
@@ -666,7 +677,7 @@ Le ciel et la terre passeront, mais mes paroles ne passeront point, dit le Seign
 \rf{_Mt 24, 34-35_}
 $
 
-\bigskip
+\medskip
 
 @(1f)[MagnificatG]
 
