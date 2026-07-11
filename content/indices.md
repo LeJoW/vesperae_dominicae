@@ -1,4 +1,4 @@
-\pagebreak
+\pagebreak\hbox{}\noheaderthispage\hfil\eject
 
 ###### Index
 
@@ -6,7 +6,9 @@
 
 ###### Index generalis
 
-$Index général$
+$Table des matières$
+
+\rrunninghead{Table des matières}
 
 <table-of-contents />
 
