@@ -1,6 +1,6 @@
 ## Proprium dominicarum per æstatem
 
-$Propre \\pour les dimanches d'été <Temps après la Pentecôte>$
+$Propre pour les dimanches d'été <Temps après la Pentecôte>$
 
 \label{propre}
 
