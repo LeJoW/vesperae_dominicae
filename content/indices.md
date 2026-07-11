@@ -8,6 +8,7 @@
 
 $Table des matières$
 
+\headerthispage
 \rrunninghead{Table des matières}
 
 <table-of-contents />
