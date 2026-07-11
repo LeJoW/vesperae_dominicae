@@ -15,7 +15,7 @@ Quid est tibi, mare, quod fugísti:
 $Ô mer, pourquoi fuyais-tu ? Et toi, Jourdain, pourquoi remontais-tu vers ta source?$
 Montes, exsultástis sicut aríetes,
     et colles, sicut agni óvium?
-$Montagnes, pourquoi sautiez-vous comme des béliers? Et vous, collines, comme des agneaux ?$
+$Montagnes, pourquoi sau=tiez-vous comme des béliers? Et vous, collines, comme des agneaux ?$
 A fácie Dómini mota est terra,
     a fácie Dei Iacob.
 $À la face du Seigneur, la terre a tremblé: à la face du Dieu de Jacob,$

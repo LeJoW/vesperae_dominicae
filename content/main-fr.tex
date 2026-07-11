@@ -1,5 +1,23 @@
-\def\rf#1{\hfill\nobreak\mbox{#1}}
+\def\rf#1{{\unskip\nobreak\hfil\penalty50%
+			\hskip1em\hbox{}\nobreak\hfil\hbox{#1}%
+			\parfillskip=0pt \finalhyphendemerits=0 \par}}
 \def\bw{\vskip-1mm}
-\def\rmlsp{\rml[0.6]}
+\def\doxologieFR{%
+	Par notre Seigneur Jésus-Christ, votre Fils, qui vit et règne avec vous
+	en l’unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.
+}
+
+\def\addbottomline{\hfil\break\hbox{}}
+\def\addtopline{\hbox{}\hfil\break}
+
+\def\Psaume#1 — #2 —{\vbox{\noindent\centerline{Psaume #1}\break\centerline{\strut4.3mm\small\it #2}}}
+
+\def\today{\number\day\space\ifcase\month\or
+		janvier\or février\or mars\or avril\or mai\or juin\or
+			juillet\or août\or septembre\or octobre\or novembre\or décembre\fi\space\number\year}
 
 \input{source/parsed-fr.tex}
+
+\pagebreak\hbox{}\noheaderthispage
+
+\vfill\hrule\vbox{\centerline{\strut4mm \small Édition du \today.}}\eject
