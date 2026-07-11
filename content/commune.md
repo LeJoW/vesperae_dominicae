@@ -77,6 +77,8 @@ $
 
 ![](sit_nomen.ant)
 
+\eject
+
 ![p:ant:Deus autem noster](deus_autem_noster)
 $Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.\addbottomline$
 

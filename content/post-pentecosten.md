@@ -42,6 +42,8 @@ afin que ma maison se remplisse. Alleluia.
 \rf{_Lc 14, 21 et 23_}
 $
 
+\eject
+
 @(1a)[MagnificatG]
 
 #### Oraison
@@ -187,6 +189,8 @@ sera coupé et jeté au feu. Alleluia.
 \rf{_Mt 7, 18-19_}
 $
 
+\eject
+
 @(1D)[MagnificatG]
 
 #### Oraison
@@ -269,7 +273,7 @@ $Dixième dimanche après la Pentecôte <Dixième dimanche>$
 
 ![8:ant:Descendit hic](descendit_hic)
 $
-Celui-ci redescendit chez lui justifié, mais non l'autre;
+\addtopline Celui-ci redescendit chez lui justifié, mais non l'autre;
 car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.
 \rf{_Lc 18, 14_}
 $
