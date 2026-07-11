@@ -93,6 +93,8 @@ $
 
 $Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 
+\global\insertherefalse
+
 ![8:ant:Scriptum est enim](scriptum_est)
 $
 Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
@@ -131,7 +133,12 @@ car quiconque s'élève sera humilié, et quiconque s'humilie sera élevé.
 \rf{_Lc 18, 14_}
 $
 
+%> Canticum Magnificat.
+%> $Cantique _Magnificat_: voir p.\thinspace\pageref{Magnificat8G}.$
+
 @(8G)[MagnificatG]
+
+\bigskip
 
 #### Oraison
 
