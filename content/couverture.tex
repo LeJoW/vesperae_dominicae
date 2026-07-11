@@ -1,5 +1,6 @@
-\input ../process/tex2pdf/libgen/fonts
-\input ../process/tex2pdf/libgen/output
+\input luaotfload.sty
+\input libgen/fonts
+\input libgen/output
 
 \font\bigfont=file:Sabon.ttf:script=latn;+upper at 30pt
 \font\mediumfont=file:Sabon.ttf:script=latn;+upper;embolden=1 at 15pt
@@ -15,6 +16,6 @@
 	\kern7mm
 	\centerline{\mediumfont\spaceskip=.95em Selon le rite romain}
 	\vfill
-	\line{\hss\hbox{\decorativ\spaceskip=.8em\uppercase{Temps {\it per annum}}\kern2cm}}
+	\line{\hss\hbox{\decorativ\spaceskip=.8em\uppercase{Temps Pascal}\kern2cm}}
     \kern2cm}
 \end
