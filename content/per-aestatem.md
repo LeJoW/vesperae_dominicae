@@ -44,8 +44,6 @@ sera coupé et jeté au feu. Alleluia.
 \rf{_Mt 7, 18-19_}
 $
 
-\eject
-
 @(1D)[MagnificatG]
 
 #### Oraison
@@ -69,7 +67,7 @@ $Huitième dimanche après la Pentecôte <Huitième dimanche>$
 ![4:ant:Quid faciam](quid_faciam)
 $
 Que ferai-je, mon maître m’ôtant l’administration de son bien ?
-Je ne puis travailler à la terre, j'aurais honte de mendier.
+Je ne puis travailler à la terre\splitafter, j'aurais honte de mendier.
 Je sais ce que je ferai, afin que, lorsque j'aurai été dépouillé de cette administration,
 il y ait des gens qui me reçoivent dans leurs maisons.
 \rf{_Lc 16, 3-4_}
@@ -98,7 +96,7 @@ $Neuvième dimanche après la Pentecôte <Neuvième dimanche>$
 ![8:ant:Scriptum est enim](scriptum_est)
 $
 Il est écrit : Ma maison est une maison de prière pour toutes les nations ;
-mais vous, vous en avez fait une caverne de voleurs.
+mais vous\splitafter, vous en avez fait une caverne de voleurs.
 Et il enseignait tous les jours dans le temple.
 \rf{_Lc 19, 46-47_}
 $
@@ -191,8 +189,6 @@ $
 
 @(8G)[MagnificatG]
 
-\eject
-
 #### Oraison
 
 :Omnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur:~+
@@ -232,4 +228,3 @@ et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer v
 \R Ainsi soit-il.
 $
 
-\endrule
