@@ -64,8 +64,8 @@ il rouvre le ciel,
 et traîne en captif le roi des ténèbres.§
     7.~Pour être toujours, ô Jésus,
 la joie pascale de nos âmes,
-daignez sauver de la cruelle mort du péché
-ceux que vous avez fait renaître à la vie.\splitafter§
+daignez sauver de la cruelle mort\splitafter\ du péché
+ceux que vous avez fait renaître à la vie.§
     8.~À Dieu le Père soit la gloire !
 gloire au Fils, ressuscité d’entre les morts !
 et gloire au Paraclet

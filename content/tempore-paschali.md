@@ -26,7 +26,7 @@ $Antienne à _Magnificat_$
 
 ![8:ant:Post dies octo](post_dies_octo)
 $
-\rml Huit jours après, le Seigneur entra, les portes fermées, et leur dit : La paix soit avec vous! Alleluia, alleluia.
+\addtopline Huit jours après, le Seigneur entra, les portes fermées, et leur dit : La paix soit avec vous! Alleluia, alleluia.
 \rf{_Io 20, 26_}
 $
 
@@ -69,7 +69,7 @@ $Antienne à _Magnificat_$
 
 ![3:ant:Ego sum pastor](ego_sum_pastor)
 $
-\rml Je suis le bon Pasteur : c'est moi qui pais mes brebis, et pour elles je donne ma vie, alleluia.
+\addtopline Je suis le bon Pasteur : c'est moi qui pais mes brebis, et pour elles je donne ma vie, alleluia.
 \rf{_Io 10, 11 & 15_}
 $
 
@@ -87,7 +87,7 @@ $
 accordez à vos fidèles une joie constante, et faites jouir de l'éternelle allégresse
 ceux que vous avez arrachés aux dangers d'une mort sans fin.§
 Par le même Jésus-Christ notre Seigneur, votre Fils, qui vit et règne avec vous
-	en l’unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.
+en l’unité du Saint-Esprit, Dieu, dans tous les siècles des siècles.
 \R Ainsi soit-il.
 $
 
@@ -136,7 +136,7 @@ $
 afin qu'ils puissent rentrer dans la voie de la justice ;
 accordez à tous ceux qui font profession d'être chrétiens la grâce d’éloigner d’eux
 tout ce que repousse ce beau nom, et de suivre fidèlement tout ce à quoi il engage.
-\doxologieFR
+\doxologieFR\
 \R Ainsi soit-il.
 $
 
@@ -163,7 +163,7 @@ $Antienne à _Magnificat_$
 
 ![2:ant:Vado ad eum](vado_ad_eum)
 $
-\rml Je m'en vais à celui qui m'a envoyé;
+\addtopline Je m'en vais à celui qui m'a envoyé;
 mais parce que je vous ai dit ces choses,
 la tristesse a rempli votre cœur, alleluia.
 \rf{_Io 16, 5-6_}
@@ -283,7 +283,7 @@ vous avez fait tomber les chaînes des captifs;
 après votre victoire vous avez obtenu le plus noble triomphe,
 et vous êtes venu vous asseoir à la droite du Père.§
 	4.~Laissez-vous fléchir par votre bonté,
-daignez réparer nos malheurs nouveaux ;
+daignez réparer\splitafter\ nos malheurs nouveaux ;
 mon=trez-nous votre visage divin,
 donnez-nous le bonheur au sein de la lumière
 qui rend heureuses les âmes.§
