@@ -51,8 +51,7 @@ $
 :Deus, cuius providéntia in sui dispositióne non fállitur:~+
 te súpplices exorámus; ut nóxia cuncta submóveas, \* et ómnia nobis profutúra concédas.
 Per Dóminum nostrum Iesum Christum, Fílium tuum:~+
-qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum.§
-\R Amen.
+qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus,~\* per ómnia sǽcula sæculórum. \R Amen.
 $
 Ô Dieu dont la providence n'est jamais frustrée dans ses desseins,
 nous vous supplions d'écarter de nous tout ce qui pourrait nuire et de nous accorder tout ce qui peut être salutaire.
@@ -235,3 +234,4 @@ et pour que nous méritions d'obtenir ce que vous promettez, faites-nous aimer v
 \R Ainsi soit-il.
 $
 
+<hyphens file="tex2pdf/source/la-hyphenation.dic"/>

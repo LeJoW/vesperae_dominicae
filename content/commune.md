@@ -96,7 +96,7 @@ $
 $Capitule$
 
 :Benedíctus Deus, et Pater Dómini nostri Iesu Christi,~+ Pater misericordiárum,
-et Deus totíus consolatiónis,~\* qui consolátur nos in omni tribulatióne nostra.
+et Deus totíus consolatiónis,~\* qui consolátur nos in omni tribulatióne nostra.§
 \R Deo grátias.
 $
 Béni soit Dieu et le Père de notre Seigneur Jésus-Christ, le Père des miséricordes
