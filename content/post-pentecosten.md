@@ -42,8 +42,6 @@ afin que ma maison se remplisse. Alleluia.
 \rf{_Lc 14, 21 et 23_}
 $
 
-\eject
-
 @(1a)[MagnificatG]
 
 #### Oraison
@@ -70,11 +68,7 @@ n'allume pas sa lampe, balayant la maison et cherchant avec grand soin jusqu'à 
 \rf{_Lc 15, 8_}
 $
 
-\bigskip
-
 @(6F)[MagnificatG]
-
-\bigskip
 
 #### Oraison
 
@@ -188,8 +182,6 @@ ni un mauvais arbre de bons fruits. Tout arbre qui ne produit pas de bon fruit
 sera coupé et jeté au feu. Alleluia.
 \rf{_Mt 7, 18-19_}
 $
-
-\eject
 
 @(1D)[MagnificatG]
 
@@ -329,14 +321,12 @@ $Douzième dimanche après la Pentecôte <Douzième dimanche>$
 
 ![8:ant:Homo quidam](homo_quidam)
 $
-Un homme descendait de Jérusalem à Jéricho, et il tomba entre les mains des voleurs
+Un homme descendait de Jérusalem à Jéricho, et il tomba entre les mains des voleurs\splitafter\
 qui le dépouillèrent, et s'en allèrent après l'avoir couvert de coups, le laissant à demi mort.
 \rf{_Lc 10, 30_}
 $
 
 @(8G)[MagnificatG]
-
-\eject
 
 #### Oraison
 
@@ -363,6 +353,8 @@ Or l’un d’eux, dès qu'il se vit guéri, revint sur ses pas, glorifiant Dieu
 $
 
 @(1D2)[MagnificatG]
+
+\bigskip
 
 #### Oraison
 
