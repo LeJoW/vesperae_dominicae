@@ -278,12 +278,12 @@ chaste lumière de ceux qui vous aiment.§
 vous vous étiez chargé de nos crimes;
 innocent, vous souffrîtes la mort,
 afin de nous arracher nous-mêmes au trépas.§
-	3.~Votre bras a brisé les portes des enfers,
+	3.~Votre bras a brisé les portes\splitafter\ des enfers,
 vous avez fait tomber les chaînes des captifs;
 après votre victoire vous avez obtenu le plus noble triomphe,
 et vous êtes venu vous asseoir à la droite du Père.§
 	4.~Laissez-vous fléchir par votre bonté,
-daignez réparer\splitafter\ nos malheurs nouveaux ;
+daignez réparer nos malheurs nouveaux ;
 mon=trez-nous votre visage divin,
 donnez-nous le bonheur au sein de la lumière
 qui rend heureuses les âmes.§
@@ -312,8 +312,6 @@ Je vous ai dit ces choses, afin que lorsque l'heure sera venue,
 vous vous souveniez que je vous les ai dites, alleluia.
 \rf{_Io 16, 4_}
 $
-
-\bigskip
 
 @(8G)[MagnificatG]
 
