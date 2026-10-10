@@ -1,10 +1,10 @@
-## Commune
+## Commune temporis Adventus
 
-$Ordinaire\break des\break Vêpres dominicales <Vêpres dominicales>$
+$Les dimanches de \xldisplayfont l’Avant <Vêpres dominicales>$
 
 ### Ordinarium
 
-$ {} <Ordinaire>$
+$À vêpres <Au temps de l’Avant>$
 
 ![](deus_in_adiutorium)
 $
@@ -15,135 +15,44 @@ Comme il était~au commencement, maintenant et toujours, et dans les siècles de
 Alleluia.
 $
 
-> De antiphona.
-> $
-> L'antienne a pour but d'attirer notre attention sur une pensée que l'Église
-> propose spécialement à notre méditation durant le chant du psaume.\par
-> Le plus souvent, l'antienne est tirée du psaume même, parfois l'Église l'emprunte à un texte
-> de l'Écriture relatif à la fête.
-> $
+#### Psalterium et Capitulum
 
-![7:ant:Dixit Dominus](dixit_dominus)
-$Le Seigneur a dit à mon Seigneur: «~Asseyez-vous à ma droite.~»$
+$Psautier & capitule$
 
-@(7c2)[109G: Psalmus 109]
-$
-\Psaume 109 — Génération éternelle du Christ, Prêtre, Roi et Juge. —
-$
-
-![](dixit_dominus.ant)
-
-\bigskip
-
-![3:ant:Magna opera Domini](magna_opera)
-$Grandes sont les œuvres du Seigneur ; elles ont été concertées dans les desseins de sa Sagesse.$
-
-@(3b)[110G: Psalmus 110]
-$
-\Psaume 110 — Bienfaits accordés par Dieu à son peuple. —
-$
-
-\medskip
-
-![](magna_opera.ant)
-
-\bigskip\bigskip
-
-![4:ant:Qui timet Dominum](qui_timet)
-$L'homme qui craint le Seigneur met tout son zèle à lui obéir.$
-
-\eject
-
-@(4g)[111G: Psalmus 111]
-$
-\Psaume 111 — Portrait du juste et tableau de son bonheur. —
-$
-
-\smallskip
-
-![](qui_timet.ant)
-
-\bigskip
-
-![7:ant:Sit nomen Domini](sit_nomen)
-$Que le nom du Seigneur soit béni dans les siècles.\addbottomline$
-
-@(7c)[112G: Psalmus 112]
-$
-\Psaume 112 — Invitation à louer Dieu et sa Providence souveraine. —
-$
-
-\smallskip
-
-![](sit_nomen.ant)
-
-\eject
-
-![p:ant:Deus autem noster](deus_autem_noster)
-$Notre Dieu est au ciel : il a fait tout ce qu'il a voulu.\addbottomline$
-
-@(p)[113G: Psalmus 113]
-$
-\Psaume 113 — Le peuple délivré d'Égypte chante son libérateur et le proclame seul vrai Dieu. —
-$
-
-\bigskip
-
-![](deus_autem_noster.ant)
-
-#### Capitulum {2 Cor 1, 3-4}
-
-$Capitule$
-
-:Benedíctus Deus, et Pater Dómini nostri Iesu Christi,~+ Pater misericordiárum,
-et Deus totíus consolatiónis,~\* qui consolátur nos in omni tribulatióne nostra.
-\R Deo grátias.
-$
-Béni soit Dieu et le Père de notre Seigneur Jésus-Christ, le Père des miséricordes
-et le Dieu de toute consolation, qui nous console dans toutes nos tribulations.§
-\R Rendons grâces à Dieu.
-$
+> De proprium
+> $Les psaumes sont communs à tous les dimanches mais les tons changent avec les antiennes.
+> Chaque dimanche a ses antiennes et son capitule propres. Cf. pp.\thinspace\pageref{propre} et suivantes.$
 
 #### Hymnus
 
 $Hymne$
 
-> De hymno
-> $En célébrant la création de la lumière, œuvre du premier jour, c'est-à-dire
-> du dimanche, cette hymne nous exhorte à fuir les ténèbres du péché.
-> On l'attribue au pape saint Grégoire le Grand *(*\char"2020~604*)*.$
-
-\medskip
-
-![8:hymn:Lucis Creator optime](lucis_creator_optime)
+![4:hymn:Creator alme siderum](creator_alme_siderum)
 $
-    Dieu bon, créateur de la lumière,
-qui avez produit le flambeau des jours,
-vous avez préludé à l'origine de ce monde en produisant,
-au premier jour, cette lumière qui jusqu'alors n'avait pas brillé.§
-    2.~Ô vous, qui nous apprenez à donner le nom de jour à l'espace
-qui s'étend du matin jusqu'au soir,
-un noir chaos menace encore de nous envelopper:
-écoutez nos prières, et voyez nos larmes.§
-    3.~Que notre âme appesantie par le péché ne demeure pas exilée
-de cette vie immortelle que vous lui avez préparée,
-cette âme si lâche quand il faut penser à l'éternité,
-si prompte à tomber dans les liens du péché.\splitafter§
-    4.~Qu'elle frappe enfin aux portes des cieux;
-qu'elle enlève le prix de la vie;
-qu'elle évite tout ce qui peut lui nuire;
-qu'elle se purifie de toute iniquité.§
-    5.~Faites-nous cette grâce, ô Père très miséricordieux,
-et vous ô Fils unique, égal au Père, qui, 
-avec l'Esprit consolateur,
-régnez dans tous les siècles.§ Ainsi soit-il.
+1.~Fécond auteur des cieux,
+lumière éternelle des croyants,
+Rédempteur de tous les hommes ô Jésus !
+écoutez nos supplications.§
+2.~Le monde allait périr par les pièges du démon;
+dans l'élan de votre amour,
+vous vous êtes fait le remède de ses maux.§
+3.~Pour expier le crime universel de notre race,
+victime déstinée à la croix,
+vous sortez de l'auguste sein de la Vierge.§
+4.~Au bruit de votre gloire et de votre puissance,
+à votre nom seul, tout tremble, cieux et enfer,
+tout fléchit le genou.§
+5.~Juge souverain du dernier jour,
+nous vous en supplions, daignez nous défendre de nos ennemis
+par les armes de la grâce céleste.§
+6.~Lounage, honneur, puissance et gloire à Dieu le Père et à son Fils,
+ainsi qu'au saint Consolateur, dans les siècles des siècles.
+Ainsi soit-il.
 $
 
-\bigskip
-
-![](dirigatur_domine)
-$\addtopline\indent\V Que ma prière s'élève vers vous, Seigneur !§
-\R Comme l'encens monte en votre présence.$
+![](rorate_caeli)
+$\V Cieux, répandez la rosée et que les nuées fassent pleuvoir le Juste.§
+\R Que la terre s’ouvre et germe le Sauveur.$
 
 > De proprium
 > $Chaque dimanche a son antienne propre à *Magnificat*. Cf. pp.\thinspace\pageref{propre} et suivantes.$
@@ -168,7 +77,7 @@ ${}$
 $\indent\V Le Seigneur soit avec vous.§
 \R Et avec votre esprit.$
 
-=> Ce \kern1pt_\V Dóminus vobíscum_ ne doit pas être dit par l’officiant s’il n’est pas
+=> Ce \kern1pt*\V Dóminus vobíscum* ne doit pas être dit par l’officiant s’il n’est pas
 au moins diacre; à la place, on lui substitue :
 
 \medskip
@@ -179,17 +88,15 @@ $\indent\V Seigneur, exaucez ma prière.§
 
 \eject
 
-> Memores adduntur.
-> Ultima oratione dicta, dicitur:
-> $On ajoute les mémoires, s'il s'en présente.
-> La dernière oraison étant achevée, on dit:$
+> Oratione dicta, dicitur:
+> $L’oraison étant achevée, on dit:$
 
 \V Dóminus vobíscum.
 \R Et cum spíritu tuo.
 
 \smallskip
 
-=> Ou \kern1pt_\V Dómine, exáudi oratiónem meam_ comme ci-dessus.
+=> Ou \kern1pt*\V Dómine, exáudi oratiónem meam* comme ci-dessus.
 
 \bigskip
 
