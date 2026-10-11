@@ -1,10 +1,10 @@
 ## Commune temporis Adventus
 
-$Les dimanches de \xldisplayfont l’Avant <Vêpres dominicales>$
+$Les dimanches de \xldisplayfont l’Avent <Vêpres dominicales>$
 
 ### Ordinarium
 
-$À vêpres <Au temps de l’Avant>$
+$À vêpres <Au temps de l’Avent>$
 
 ![](deus_in_adiutorium)
 $

@@ -8,6 +8,8 @@ $Propre du temps\break de l'Avent <Temps de l'Avent>$
 
 $Premier dimanche de l'Avent <Premier dimanche>$
 
+\rml[2]
+
 ![8:ant:In illa die](in_illa_die)
 $
 Au jour du Messie, les montagnes distilleront la douceur, et le lait et le miel découleront des collines, alleluia.
@@ -39,7 +41,7 @@ $
 
 ![5:ant:Ecce dominus veniet](ecce_dominus_veniet)
 $
-Voici que le Seigneur va venir, et tous ses Saints avec lui ; et il paraîtra en ce jour-là une grande lumière, alleluia
+\addtopline Voici que le Seigneur va venir, et tous ses Saints avec lui ; et il paraîtra en ce jour-là une grande lumière, alleluia
 \rf{_Zach 14, 5-6_}
 $
 
@@ -79,6 +81,8 @@ $
 Psaume 113.
 $
 
+\bigskip
+
 ![](ecce_veniet_propheta.ant)
 
 \bigskip
@@ -98,7 +102,7 @@ $
 
 ![8:ant:Ne timeas Maria](ne_timeas_maria)
 $
-Ne craignez point, ô Marie, car vous avez trouvé grâce devant le Seigneur :
+\addtopline Ne craignez point, ô Marie, car vous avez trouvé grâce devant le Seigneur :
 voilà que vous concevrez et enfanterez un fils, alleluia.
 \rf{_Lc 1,30-31_}
 $
