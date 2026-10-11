@@ -18,7 +18,7 @@ $
 
 @(8G)[109G: Psalmus 109]
 $
-Psaume 109.
+Psaume 109
 $
 
 ![](in_illa_die.ant)
@@ -32,7 +32,7 @@ $
 
 @(8G*)[110G: Psalmus 110]
 $
-Psaume 110.
+Psaume 110
 $
 
 ![](iucundare_filia.ant)
@@ -47,7 +47,7 @@ $
 
 @(5a)[111G: Psalmus 111]
 $
-Psaume 111.
+Psaume 111
 $
 
 ![](ecce_dominus_veniet.ant)
@@ -63,7 +63,7 @@ $
 
 @(7c)[112G: Psalmus 112]
 $
-Psaume 112.
+Psaume 112
 $
 
 ![](omnes_sitientes.ant)
@@ -78,7 +78,7 @@ $
 
 @(4A)[113G: Psalmus 113]
 $
-Psaume 113.
+Psaume 113
 $
 
 \bigskip
