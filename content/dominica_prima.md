@@ -8,13 +8,13 @@ $Propre du temps\break de l'Avent <Temps de l'Avent>$
 
 $Premier dimanche de l'Avent <Premier dimanche>$
 
-\rml[2]
-
 ![8:ant:In illa die](in_illa_die)
 $
 Au jour du Messie, les montagnes distilleront la douceur, et le lait et le miel découleront des collines, alleluia.
 \rf{_Ioel 3, 18_}
 $
+
+\rml[2]
 
 @(8G)[109G: Psalmus 109]
 $
