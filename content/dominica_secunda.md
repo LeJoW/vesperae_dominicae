@@ -109,7 +109,7 @@ Etes-vous celui qui doit venir, ou devons-nous en attendre un autre ? Dites à J
 \rf{_Mt 11, 2 & 4 & 5_}
 $
 
-@(8G)[MagnificatG]
+@(8G2)[MagnificatG]
 
 #### Oraison
 

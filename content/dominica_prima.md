@@ -30,7 +30,7 @@ $
 Réjouis-toi, fille de Sion ; tressaille, fille de Jérusalem, alleluia.
 $
 
-@(8G*)[110G: Psalmus 110]
+@(8G2)[110G: Psalmus 110]
 $
 Psaume 110
 $

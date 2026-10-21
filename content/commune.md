@@ -44,15 +44,19 @@ vous sortez de l'auguste sein de la Vierge.§
 tout fléchit le genou.§
 5.~Juge souverain du dernier jour,
 nous vous en supplions, daignez nous défendre de nos ennemis
-par les armes de la grâce céleste.§
+par les armes de la grâce céleste.§\eject
 6.~Lounage, honneur, puissance et gloire à Dieu le Père et à son Fils,
-ainsi qu'au saint Consolateur, dans les siècles des siècles.
+ainsi qu'au saint Consolateur, dans les siècles des siècles.§
 Ainsi soit-il.
 $
+
+\medskip
 
 ![](rorate_caeli)
 $\V Cieux, répandez la rosée et que les nuées fassent pleuvoir le Juste.§
 \R Que la terre s’ouvre et germe le Sauveur.$
+
+\smallskip
 
 > De proprium
 > $Chaque dimanche a son antienne propre à *Magnificat*. Cf. pp.\thinspace\pageref{propre} et suivantes.$
@@ -71,7 +75,7 @@ ${}$
 > Antiphona repetitur, deinde, celebrans propriam orationem dicit.
 > $On répète l'antienne, puis l’officiant dit l'oraison propre du jour.$
 
-\medskip
+\bigskip
 
 ![](dominus_vobiscum)
 $\indent\V Le Seigneur soit avec vous.§
@@ -85,8 +89,6 @@ au moins diacre; à la place, on lui substitue :
 ![](domine_exaudi)
 $\indent\V Seigneur, exaucez ma prière.§
 \R Et que mon cris parvienne jusqu'à vous.$
-
-\eject
 
 > Oratione dicta, dicitur:
 > $L’oraison étant achevée, on dit:$
