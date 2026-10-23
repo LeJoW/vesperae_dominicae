@@ -4,26 +4,28 @@ $Propre du temps\break de l'Avent <Temps de l'Avent>$
 
 \label{propre}
 
+\vskip0pt plus 4mm
+
 ### Dominica I Adventus
 
 $Premier dimanche de l'Avent <Premier dimanche>$
 
 ![8:ant:In illa die](in_illa_die)
 $
-Au jour du Messie, les montagnes distilleront la douceur, et le lait et le miel découleront des collines, alleluia.
+\addtopline Au jour du Messie, les montagnes distilleront la douceur, et le lait et le miel découleront des collines, alleluia.
 \rf{_Ioel 3, 18_}
 $
-
-\rml[2]
 
 @(8G)[109G: Psalmus 109]
 $
 Psaume 109
 $
 
+\smallskip
+
 ![](in_illa_die.ant)
 
-\bigskip
+\bigskip\bigskip
 
 ![8:ant:Iucundare filia](iucundare_filia)
 $
@@ -35,9 +37,11 @@ $
 Psaume 110
 $
 
+\smallskip
+
 ![](iucundare_filia.ant)
 
-\bigskip
+\bigskip\bigskip
 
 ![5:ant:Ecce dominus veniet](ecce_dominus_veniet)
 $
@@ -50,9 +54,11 @@ $
 Psaume 111
 $
 
+\smallskip
+
 ![](ecce_dominus_veniet.ant)
 
-\bigskip
+\bigskip\medskip
 
 ![7:ant:Omnes sitientes](omnes_sitientes)
 
@@ -68,7 +74,7 @@ $
 
 ![](omnes_sitientes.ant)
 
-\bigskip
+\bigskip\medskip
 
 ![4:ant:Ecce veniet propheta](ecce_veniet_propheta)
 
@@ -98,7 +104,11 @@ Mes frères, l’heure est venue de sortir du sommeil : car notre salut est plus
 \R Rendons grâces à Dieu.
 $
 
+\bigskip
+
 #### Canticum {Luc 1, 46-55}
+
+$Cantique de la B. Vierge Marie$
 
 ![8:ant:Ne timeas Maria](ne_timeas_maria)
 $

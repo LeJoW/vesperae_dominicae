@@ -11,10 +11,16 @@
 \def\addtopline{\hbox{}\hfil\break}
 
 \font\xldisplayfont=file:Sabon.ttf:script=latn;+upper at 32pt
+\font\maioresfont=file:Sabon.ttf:script=latn;+onum at 13pt
+
+\def\beginMaioresAntiphonæ{\begingroup
+\def\sectionTitle##1{\centerline{\strut10mm{\maioresfont ##1}}\bigskip}
+}
+\def\endMaioresAntiphonæ{\endgroup}
 
 \def\today{\number\day\space\ifcase\month\or
 		janvier\or février\or mars\or avril\or mai\or juin\or
-			juillet\or août\or septembre\or octobre\or novembre\or décembre\fi\space\number\year}
+		juillet\or août\or septembre\or octobre\or novembre\or décembre\fi\space\number\year}
 
 \input{source/parsed-fr.tex}
 

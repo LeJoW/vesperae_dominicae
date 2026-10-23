@@ -1,5 +1,7 @@
 \pagebreak\hbox{}\noheaderthispage\hfil\eject
 
+\vbox to 1cm{\vfil}
+
 ###### Index
 
 <grego-index />
@@ -8,7 +10,6 @@
 
 $Table des matières$
 
-\headerthispage
 \rrunninghead{Table des matières}
 
 <table-of-contents />

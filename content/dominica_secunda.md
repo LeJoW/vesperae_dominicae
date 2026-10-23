@@ -12,19 +12,17 @@ $
 Psaume 109
 $
 
-\bigskip
+\medskip
 
 ![](ecce_in_nubibus.ant)
 
-\hfil
+\vfil
 
 ![7:ant:Urbs fortitudinis](urbs_fortitudinis)
 $
 \addtopline Sion est notre ville forte ; le Sauveur en sera la muraille et le rempart : ouvrez-en la porte ; car Dieu est avec nous. Alleluia.
 \rf{_Is 26, 1 & 2_}
 $
-
-\eject
 
 @(7d)[110G: Psalmus 110]
 $
@@ -48,9 +46,9 @@ $
 Psaume 111
 $
 
-![](ecce_apparebit_dominus.ant)
+\vfil
 
-\bigskip
+![](ecce_apparebit_dominus.ant)
 
 ![1:ant:Montes et colles](montes_et_colles)
 
@@ -65,16 +63,17 @@ $
 Psaume 112
 $
 
-\hfil
+\medskip
 
 ![](montes_et_colles.ant)
 
-\eject
+\bigskip\smallskip
 
 ![3:ant:Ecce Dominus noster](ecce_dominus_noster)
 
 $
-Voici que le Seigneur notre Dieu viendra dans sa puissance, et il éclairera les yeux de ses serviteurs. Alleluia.
+\addtopline Voici que le Seigneur notre Dieu viendra dans sa puissance,
+et il éclairera les yeux de ses serviteurs. Alleluia.
 $
 
 @(3a)[113G: Psalmus 113]
@@ -86,22 +85,26 @@ $
 
 ![](ecce_dominus_noster.ant)
 
-\bigskip
-
 #### Capitulum {Rom 13, 11}
 
 $Capitule$
 
-:Fratres, qaecumque scripta sunt, ad nostram doctrinam scripta sunt~+ ut per patientiam et consolationem Scripturarum,~\*spem habeamus.
+:Fratres, qaecumque scripta sunt, ad nostram doctrinam scripta sunt +
+ut per patientiam et consolationem Scripturarum, \*
+spem habeamus.
 \R Deo grátias.
 $
-Mes Frères, tout ce qui est écrit a été écrit pour notre instruction, afin que nous concevions une espérance ferme par la patience et la consolation que les Écritures nous donnent.§
+Mes Frères, tout ce qui est écrit a été écrit pour notre instruction,
+afin que nous concevions une espérance ferme
+par la patience et la consolation que les Écritures nous donnent.§
 \R Rendons grâces à Dieu.
 $
 
 \bigskip
 
-#### Canticum {Luc 1, 46-55}
+#### Canticum
+
+$Cantique de la B. Vierge Marie$
 
 ![8:ant:Tu es qui venturus es](tu_es_qui_venturus_es)
 $
@@ -113,7 +116,12 @@ $
 
 #### Oraison
 
-:Excita, Domine, corda nostra ad praeparandas Unigenite tui vias :~+ ut per ejus adventum,~\* purificatis tibi mentibus servire mereamur. Sui tecum vivit et regnat in saecula saeculorum. Amen. .§ \R Amen.
+:Excita, Domine, corda nostra ad praeparandas Unigenite tui vias : +
+ut per ejus adventum,~\* purificatis tibi mentibus servire mereamur.
+Qui tecum vivit et regnat in saecula saeculorum.§ \R Amen.
 $
-Seigneur, réveillez nos cœurs, afin qu'ils préparent la voie de votre Fils unique, et que nous méritions de vous servir avec des âmes purifiées, au moyen de l'Avènement de Celui qui vit et règne avec vous dans les siècles des siècles.§ \R Ainsi soit-il.
+Seigneur, réveillez nos cœurs, afin qu'ils préparent la voie de votre Fils unique,
+et que nous méritions de vous servir avec des âmes purifiées,
+au moyen de l'Avènement de Celui qui vit et règne avec vous
+dans les siècles des siècles.§ \R Ainsi soit-il.
 $
